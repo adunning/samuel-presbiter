@@ -8,15 +8,15 @@ Material may be freely reused under the terms of the [Creative Commons Attributi
 
 ## Oxford, Bodleian Library, MS Bodley 860
 
-- A verse paraphrase of Psalm 1 (fols. 1r–8v), written with informal glosses (discussed in detail with a partial edition in [Dinkova-Bruun 2009](https://www.academia.edu/4159132/Samuel_Presbyter_and_the_Glosses_to_his_Versification_of_Psalm_1_An_Anti-Church_Invective))
+- A verse paraphrase of Psalm 1 (fols. 1r–8v), written with informal glosses. Previously discussed with a partial edition by Greti Dinkova-Bruun, ‘[Samuel Presbyter and the Glosses to his Versification of Psalm 1: An Anti-Church Invective?](https://www.academia.edu/4159132/Samuel_Presbyter_and_the_Glosses_to_his_Versification_of_Psalm_1_An_Anti-Church_Invective)’, in *Florilegium mediaevale: Études offertes à Jacqueline Hamesse à l’occasion de son éméritat*, ed. José Francisco Meirinhos and Olga Weijers, Textes et études du moyen âge 50 (Louvain-la-Neuve: Fédération Internationale des Instituts d’Études Médiévales, 2009), 155–74.
     - *title* Beatus uir qui non abiit in consilio impiorum.
     - *incipit* Qui non consiliis abiit que suasit iniquus
     - *explicit* Pena feretur ei delectari cupienti.
-- *Collecta ex auditis super psalmos in scola magistri Willelmi de Monte* (fols. 9r–93v), an incomplete prose commentary on the Psalms (the text of fol. 9r is printed in Goering 1992, 501–3)
+- *Collecta ex auditis super psalmos in scola magistri Willelmi de Monte* (fols. 9r–93v), an incomplete prose commentary on the Psalms. The text of fol. 9r is printed by Joseph Goering, [*William de Montibus (c. 1140–1213): The Schools and the Literature of Pastoral Care*](http://books.google.ca/books/about/Sammlung.html?id=aU9vsuQ4P7wC), Studies and Texts 108 (Toronto: Pontifical Institute of Mediaeval Studies, 1992), 501–3.
     - *tit.* Hec collecta sunt ex auditis super psalmos in scola magistri Willelmi de Monte.
     - *inc.* *Non sic impii.* Dicendo bis ‘non sic’, duo superius attributa beato
     - *exp.* Ecclesia semper est (*catchword:* inter malleum et incudem)
-- *Collecta ex diuersis auditis in scola magistri Willelmi de Monte* (fols. 94r–107v), a collection of verses with a formal prose commentary (excerpts from this text were previously printed in [Goering 1992](http://books.google.ca/books/about/Sammlung.html?id=aU9vsuQ4P7wC), 508–14)
+- *Collecta ex diuersis auditis in scola magistri Willelmi de Monte* (fols. 94r–107v), a collection of verses with a formal prose commentary. Excerpts from this text were previously printed by Goering, [*William de Montibus*](http://books.google.ca/books/about/Sammlung.html?id=aU9vsuQ4P7wC), 508–14.
     - *tit.* Hec collecta sunt ex diuersis auditis in scola magistri Willelmi de Monte.
     - *prose inc.* Duo necessaria sunt ad hoc ut aliquid uideatur usu corporeo
     - *verse inc.* Nulli cernentur oculis que subicientur
