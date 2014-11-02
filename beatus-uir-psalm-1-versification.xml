@@ -27,16 +27,16 @@
                     </msIdentifier>
                 </msDesc>
                 <listBibl>
-                    <biblStruct type="bookSection" xml:id="Dinkova-Bruun2009">
+                    <biblStruct type="bookSection" xml:id="Dinkova-Bruun2009" xml:lang="fr">
                         <analytic>
-                            <title level="a">Samuel Presbyter and the glosses to his versification of Psalm 1: An anti-church invective?</title>
+                            <title level="a" xml:lang="en">Samuel Presbyter and the glosses to his versification of Psalm 1: An anti-church invective?</title>
                             <author>
                                 <forename>Greti</forename>
                                 <surname>Dinkova-Bruun</surname>
                             </author>
                         </analytic>
                         <monogr>
-                            <title level="m" xml:lang="fr">Florilegium mediaevale: Études offertes à Jacqueline Hamesse à l'occasion de son éméritat</title>
+                            <title level="m">Florilegium mediaevale: Études offertes à Jacqueline Hamesse à l'occasion de son éméritat</title>
                             <editor>
                                 <forename>José Francisco</forename>
                                 <surname>Meirinhos</surname>
@@ -48,12 +48,12 @@
                             <imprint>
                                 <pubPlace>Louvain-la-Neuve</pubPlace>
                                 <biblScope type="pp">155–174</biblScope>
-                                <publisher xml:lang="fr">Fédération Internationale des Instituts d'Études Médiévales</publisher>
+                                <publisher>Fédération Internationale des Instituts d'Études Médiévales</publisher>
                                 <date>2009</date>
                             </imprint>
                         </monogr>
                         <series>
-                            <title level="s" xml:lang="fr">Textes et études du moyen âge</title>
+                            <title level="s">Textes et études du moyen âge</title>
                             <biblScope type="vol">50</biblScope>
                         </series>
                         <idno type="ISBN">9782503531465</idno>
