@@ -4,7 +4,7 @@ An in-progress collection of the writings of Samuel Presbiter (fl. 1200), a stud
 
 The texts here are working editions, and are still being checked. They have been made public on the grounds that, while imperfect, they are more accessible than anything else currently available. Corrections and other contributions are most welcome.
 
-A transcription of Hugh of St Victor's *De quinque septenis* is also provided to provide a reference for *De oratio dominica*, which is based on it.
+A transcription of Hugh of St Victor's *De quinque septenis* is also provided to provide a reference for *De oratione dominica*, which is based on it.
 
 Material may be freely reused under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA).
 
