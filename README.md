@@ -4,6 +4,8 @@ An in-progress collection of the writings of Samuel Presbiter (fl. 1200), a stud
 
 The texts here are working editions, and are still being checked. They have been made public on the grounds that, while imperfect, they are more accessible than anything else currently available. Corrections and other contributions are most welcome.
 
+A transcription of Hugh of St Victor's *De quinque septenis* is also provided to provide a reference for *De oratio dominica*, which is based on it.
+
 Material may be freely reused under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA).
 
 ## Cambridge, Pembroke College, MS 115
@@ -15,7 +17,7 @@ Material may be freely reused under the terms of the [Creative Commons Attributi
     - *prose exp.* nec ortum iam nec occasum solis agnosco.
     - *verse exp.* Occasum solis in se prospicit ortum.
     - *exp. tit.* Expliciunt collecta ex speculo beati Gregorii cum uersibus.
-- *De oratione dominica* (fols. 41v–44v), verses with a formal prose commentary. Followed in the manuscript by a repetition of the opening prose of *Collecta ex speculo beati Gregorii cum uersibus* on 44v–45r, later cancelled.
+- *De oratione dominica* (fols. 41v–44v), a versification of Hugh of St Victor's *De quinque septenis* (verses interspersed with extracts from the work). Followed in the manuscript by a repetition of the opening prose of *Collecta ex speculo beati Gregorii cum uersibus* on 44v–45r, later cancelled.
     - *tit.* De oratione dominica, silicet Pater noster.
     - *prose inc.* Septem sunt uicia capitalia siue principalia
     - *verse inc.* Quam Cristus docuit oratio quinque petitiis
