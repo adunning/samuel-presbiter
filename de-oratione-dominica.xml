@@ -34,7 +34,7 @@
                     Original spelling and punctuation has been retained (with words that might be ambiguous occasionally marked 'sic' to flag unabbreviated forms). An attempt has been made to record the exact word division in the manuscript. Characters from the MUFI private use area have been used for some marks not found in Unicode (following the format of the ENRICH Gaiji Bank).
                 </p>
                 <p>
-                    The text is based on Hugh of St Victor's <title>De quinque septenis</title>. Baron's 1963 edition has been replaced by the Hugo von Sankt Viktor Institut, but this edition has not yet been published; because Baron only provides his own line numbers, <title>Patrologia Latina</title> columns, and folio references for his base manuscript (Paris, Bibliothèque Mazarine, MS 717), the work is cited according to the  manuscript's line numbers (as indicated in a separate transcription).
+                    The text is based on Hugh of St Victor's <title>De quinque septenis</title>. Baron's 1969 edition has been replaced by the Hugo von Sankt Viktor Institut, but this edition has not yet been published; because Baron only provides his own line numbers, <title>Patrologia Latina</title> columns, and folio references for his base manuscript (Paris, Bibliothèque Mazarine, MS 717), the work is cited according to the manuscript's line numbers (as indicated in a separate transcription).
                 </p>
                 <normalization>
                     <p>
@@ -120,7 +120,7 @@
                     <lb/><q source="DQS:210va[26]–210va[30]">Paupertas spiritus <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> humilitas. mansuetudo siue benignitas. 
                         <lb/>conpunctio siue dolor. esuries iusticie s<add place="above">i</add>ue desiderium bonum. 
                         <lb/><unclear>misericordia.<!-- check MS --></unclear> cordis mundicia. pax.</q> He <num n="7">septem</num> uirtutes notantur 
-                    <lb/>in illo euangelio <quote source="Bible.Vul:Matt.5.1">videns turbas <persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName> ascendit in montem</quote> <expan><am rend="crossed">&#x204A;</am><ex>et</ex> <abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>. 
+                    <lb/>in illo euangelio <quote source="Bible.Vul:Matt.5.1">videns turbas <persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName> ascendit in montem</quote> <expan><am rend="crossed">&#x204A;</am><ex>et</ex> <abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>.<!-- It's intelligent that this and other quotations from the Beatitudes are included, since Hugh refers to a number of them without quotation. --> 
                     <lb/>In<reg> </reg>illo quoque euangelio designantur <q source="DQS:210va[31]"><num n="7">septem</num> beatitudines</q>. he <expan><abbr><am>.</am>s</abbr><ex>cilicet</ex></expan>. <q source="DQS:210va[31]–210va[34]">Reg
                         <lb break="no"/>num celorum. possessio terre uiuentium. consolatio. iusticie saci
                         <lb break="no"/>etas. misericordia. uisio dei. filiatio dei.</q>
