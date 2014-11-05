@@ -19,7 +19,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc target="http://www.calames.abes.fr/pub/#details?id=MAZA13062">
+                <msDesc facs="http://www.calames.abes.fr/pub/#details?id=MAZA13062">
                     <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>Bibliothèque Mazarine</repository>
