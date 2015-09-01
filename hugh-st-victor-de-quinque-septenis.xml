@@ -148,15 +148,15 @@
                 <lb n="20" break="no"/>tuti subicit. Nunc reuertentes singula per<reg> </reg>ordinem<!-- per ordinem singula Inst. --> 
                 <lb n="21"/>explanemus. Diximus quod superbia aufert ho
                 <lb n="22" break="no"/>mini deum. <label place="right" type="later-hand"><num n="1">.1.</num></label>Superbia namque est amor proprię 
-                <lb n="23"/>excellentię. quando mens bonum quod habet 
+                <lb n="23"/>excellentię. quando mens <seg source="Bible.Vul:Luke.12.19">bonum quod habet</seg> 
                 <lb n="24"/>singulariter diligit <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> sine eo a quo bonum ac
                 <lb n="25" break="no"/>cepit. O pestifera superbia quid agis? Cur sua
                 <lb n="26" break="no"/>des riuulo ut se a fonte diuidat? Cur suades 
                 <lb n="27"/>radio ut se a<reg> </reg>sole auertat? Cur nisi ut et ille 
                 <lb n="28"/>dum infundi desinit arescat. et iste dum ab 
-                <choice><sic><lb break="no" n="29"/></sic><reg><lb n="29"/></reg></choice>illuminante <surplus source="#Baron1969">se <!-- Listed in Baron as the only MS that includes this, and it obviously doesn't make much sense. --></surplus>auertitur tenebrosus fiat. uterque 
+                <choice><sic><lb break="no" n="29"/></sic><reg><lb n="29"/></reg></choice>illuminante se<!-- Baron suppresses 'se', and indicates that this is the only MS that includes the reading, but it could work if the verb is taken as deponent (cf. DMLBS s.v. *2 avertere* 2); and in some ways it makes more sense, since the point is that it turns itself away, not that it is turned away by an external force. --> auertitur tenebrosus fiat. uterque 
                 <lb n="30"/>uero dum accipere cessat id quod necdum habet. 
-                <lb n="31"/>continuo illud eciam quod habet amittat<choice><sic>.</sic><corr>?</corr></choice> Hoc pro
+                <lb n="31"/>continuo illud eciam quod habet amittat. Hoc pro
                 <lb n="32" break="no"/>fecto tu agis cum doces donum extra datorem 
                 <lb n="33"/>diligere ut qui partem boni quod ab<reg> </reg>illo datum est 
                 <lb n="34"/>peruerse sibi uendicat. totum bonum quod in 
@@ -335,7 +335,7 @@
                 <choice><sic><lb n="33" break="no"/></sic><reg><lb n="33"/></reg></choice>futuro cum pro peccatis nostris rationem reddituri sumus 
                 <lb n="34"/>mereamur misericordiam inuenire.<!-- Cf. Matt. 5.7 --> <label place="left" type="later-hand"><num n="6">.6.</num></label><num n="6">Sexta</num> peticio est 
                 <lb n="35"/>contra <del rend="erased">re</del>gulam qua dicitur. <quote source="Bible.Vul:Matt.6.13; Bible.Vul:Luke.11.4">Ne nos inducas</quote> 
-                <lb n="36"/><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> <del rend="strikethrough">tempt<am>&#x33E;</am>. </del>induci permittas <quote source="Bible.Vul:Matt.6.13; Bible.Vul:Luke.11.4">in <expan><am>.</am>t<ex>emptationem</ex></expan>.</quote> Hec est tempta
+                <lb n="36"/><add place="overstrike"><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan></add> <del rend="strikethrough">tempt<am>&#x33E;</am>. </del>induci permittas <quote source="Bible.Vul:Matt.6.13; Bible.Vul:Luke.11.4">in <expan><am>.</am>t<ex>emptationem</ex></expan>.</quote> Hec est tempta
                 <lb n="37" break="no"/>tio qua nos illecebra carnis sepe per naturalem 
                 <lb n="38"/>appetitum ad excessum trahere nititur<g ref="#f161">⸵</g> et la
                 <lb n="39" break="no"/>tenter uoluptatem subicit. dum manifeste 
