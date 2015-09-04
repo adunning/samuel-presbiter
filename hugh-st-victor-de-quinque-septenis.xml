@@ -1,406 +1,406 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
-    schematypens="http://relaxng.org/ns/structure/1.0"?>
+schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
-    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:space="preserve">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title xml:lang="la">De quinque septenis</title>
-                <author xml:id="HSV">Hugh of St Victor</author>
-                <editor xml:id="AD">Andrew Dunning</editor>
-            </titleStmt>
-            <publicationStmt>
-                <authority>Andrew Dunning</authority>
-                <availability>
-                    <licence target="http://creativecommons.org/licences/by-sa/4.0/">Provided under a Creative Commons Attribution-ShareAlike 4.0 International Licence.</licence>
-                    <p>Produced with thanks to the Bibliothèque Mazarine.</p>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc facs="http://www.calames.abes.fr/pub/#details?id=MAZA13062">
-                    <msIdentifier>
-                        <settlement>Paris</settlement>
-                        <repository>Bibliothèque Mazarine</repository>
-                        <idno>717</idno>
-                    </msIdentifier>
-                </msDesc>
-                <listBibl>
-                    <biblStruct type="bookSection" xml:id="Baron1969" xml:lang="fr">
-                        <analytic>
-                            <title level="a" xml:lang="la">De quinque septenis</title>
-                            <author>
-                                <name>Hugues de Saint-Victor</name>
-                            </author>
-                            <respStmt>
-                                <resp>translator</resp>
-                                <persName>
-                                    <forename>Roger</forename>
-                                    <surname>Baron</surname>
-                                </persName>
-                            </respStmt>
-                        </analytic>
-                        <monogr>
-                            <title level="m">Six opuscules spirituels</title>
-                            <editor>
-                                <forename>Roger</forename>
-                                <surname>Baron</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Paris</pubPlace>
-                                <biblScope type="pp">100–118</biblScope>
-                                <publisher>Cerf</publisher>
-                                <date>1969</date>
-                            </imprint>
-                        </monogr>
-                        <series>
-                            <title level="s">Sources chrétiennes</title>
-                            <biblScope type="vol">155</biblScope>
-                        </series>
-                    </biblStruct>
-                </listBibl>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <editorialDecl>
-                <p>
-                    This text is a transcription of Paris, Maz. 717, which was also the basis for Baron's 1963 edition (though with several inaccuracies); the text has been emended only where required for sense. His text will eventually be replaced by a new edition from the Hugo von Sankt Viktor Institut (a preliminary version of which may be consulted through the Library of Latin Texts).
-                </p>
-                <p>
-                    Original spelling and punctuation has been retained (with words that might be ambiguous occasionally marked 'sic' to flag unabbreviated forms). An attempt has been made to record the exact word division in the manuscript. Characters from the MUFI private use area have been used for some marks not found in Unicode (following the format of the ENRICH Gaiji Bank).
-                </p>
-                <normalization>
-                    <p>
-                        Hyphens at the ends of lines are not encoded separately from the @break attribute, but modifications have been indicated. Abbreviations are expanded silently except in cases of ambiguity or scribal error.
-                    </p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-    </teiHeader>
-    <text xml:lang="la">
-        <body>
-            <pb n="210v"/>
-            <cb n="a"/>
-            <lb n="1"/><space n="1" unit="line"/>
-            <p>
-                <lb n="2"/><num n="5"><hi rend="dropcap2 blue trim-red">Q</hi><hi rend="smallcaps">uinque</hi></num> septena in<reg> </reg>sacra scriptura 
-                <lb n="3"/>frater inueni. quę uolo si possum sicut 
-                <lb n="4"/>postulas prius singillatim enumerando ab
-                <lb n="5" break="no"/>inuicem<!-- 'ad inuicem' Inst./Baron (var. in app. but claims it only occurs in Va) --> distinguere. Postea uero quam inter se 
-                <lb n="6"/>habeant conuenientiam eadem per<reg> </reg>singula sibi 
-                <lb n="7"/>conferendo demonstrare. <num n="1">Primo</num> loco ponuntur 
-                <lb n="8"/><label place="left" type="later-hand"><num n="7">.7.</num> vitia</label><num n="7">.vii.</num> uitia <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> <num n="1">prima</num> superbia. <num n="2">secunda</num> inuidia. <num n="3">tercia</num> 
-                <lb n="9"/>ira. <num n="4">Quarta</num> tristicia. <num n="5">quinta</num> auaricia. <num n="6">sexta</num> gula. 
-                <lb n="10"/><num n="7">septima</num> luxuria. <add place="inline" resp="later-hand"><milestone rend="paraph" unit="section"/></add>Contra hec <num n="2">secundo</num> loco consti
-                <lb n="11" break="no"/>tuuntur <label place="left" type="later-hand"><num n="7">.7.</num> petitiones</label><num n="7">septem</num> peticiones quę in<reg> </reg>dominica orati
-                <lb n="12" break="no"/>one continentur. <num n="1">Prima</num> qua dicitur deo. <quote source="Bible.Vul:Matt.6.9; Bible.Vul:Luke.11.2">Sancti
-                    <lb n="13" break="no"/>ficetur nomen tuum.</quote> <num n="2">Secunda</num> qua dicitur. <quote source="Bible.Vul:Matt.6.10; Bible.Vul:Luke.11.2">Adue
-                    <lb n="14" break="no"/>niat regnum tuum.</quote> <num n="3">Tertia</num> qua dicitur. <quote source="Bible.Vul:Matt.6.10">Fiat uo
-                    <lb n="15" break="no"/>luntas tua <expan>s<am>.</am><ex>icut</ex> in<am>.</am> c<am>.</am><ex>elo</ex> et<am>.</am> in<am>.</am> t<ex>erra</ex></expan>.</quote> <num n="4">Quarta</num> qua dicitur. <quote source="Bible.Vul:Matt.6.11; Bible.Vul:Luke.11.3">Pa
-                    <lb n="16" break="no"/>nem nostrum cotidianum da nobis hodie.</quote> <num n="5">Quinta</num> qua 
-                <lb n="17"/>dicitur. <quote source="Bible.Vul:Matt.6.12">dimitte nobis debita nostra <expan>s<am>.</am><ex>icut</ex> et<am>.</am> n<am>.</am><ex>os</ex> d<am>.</am><ex>imittimus</ex> d<am>.</am><ex>ebitoribus</ex> n<ex>ostris</ex></expan>.</quote> 
-                <lb n="18"/><num n="6">Sexta</num> qua dicitur. <quote source="Bible.Vul:Matt.6.13; Bible.Vul:Luke.11.4"><hi rend="smallcaps">N</hi>e nos inducas in<reg> </reg>temptati
-                    <lb n="19" break="no"/>onem.</quote> <num n="7">Septima</num> qua dicitur. <quote source="Bible.Vul:Matt.6.13">Libera nos a<reg> </reg>malo.</quote> 
-                <lb n="20"/><add place="inline" resp="later-hand"><milestone rend="paraph" unit="section"/></add>Postea tercio loco secuntur <num n="7">.vii.</num> dona <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> sancti. <!-- For the following, cf. Isaiah 11.2. -->
-                <lb n="21"/><num n="1">primum</num> <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> timoris domini. <num n="2">Secundum</num> spiritus 
-                <lb n="22"/>pietatis. <num n="3">Tercium</num> <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> scientię. <num n="4">Quartum</num> <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> 
-                <lb n="23"/>fortitudinis. <num n="5">Quintum</num> <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> consilii. <num n="6">Sextum</num> 
-                <lb n="24"/><expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> intellectus. <num n="7">Septimum</num> <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> sapientię. 
-                <lb n="25"/><add place="inline" resp="later-hand"><milestone rend="paraph" unit="section"/></add><label place="left" type="later-hand"><num n="7">7</num> uirtutes</label>Deinde <num n="4">quarto</num> loco succedunt <num n="7">.vii.</num> uirtutes. <num n="1">prima</num> 
-                <lb n="26"/>paupertas <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> humilitas. <num n="2">Secunda</num> mansue
-                <lb n="27" break="no"/>tudo siue benignitas. <num n="3">Tercia</num> compunctio siue 
-                <lb n="28"/>dolor. <num n="4">Quarta</num> esuries iusticię siue desiderium 
-                <lb n="29"/>bonum. <num n="5">Quinta</num> misericordia. <num n="6">Sexta</num> cordis mundi
-                <lb n="30" break="no"/>cia. <num n="7">Septima</num> pax. <label place="left" type="later-hand" rend="underline"><num n="7">7</num> beatitudines</label><add place="inline" resp="later-hand"><milestone rend="paraph" unit="section"/></add>Nouissime <num n="5">quinto</num> loco dispo
-                <lb n="31" break="no"/>nuntur <num n="7">.vii.</num> beatitudines. <num n="1">Prima</num> regnum cęlorum. 
-                <lb n="32"/><num n="2">Secunda</num> possessio terrę uiuentium. <num n="3">Tercia</num> con
-                <lb n="33" break="no"/>solatio. <num n="4">Quarta</num> iusticię sacietas. <num n="5">Quinta</num> misericordia. 
-                <lb n="34"/><num n="6">Sexta</num> uisio dei. <num n="7">Septima</num> filiatio dei. <add place="inline" resp="later-hand"><milestone rend="paraph" unit="section"/></add>Hec ita 
-                <lb n="35"/><metamark function="flag"/><num n="1">primo</num> loco distingue<g ref="#f161">⸵</g> ut intelligas ipsa uicia 
-                <lb n="36"/>quasi quosdam<!-- 'esse' add. Inst. --> animę languores. siue uulnera 
-                <lb n="37"/>interioris hominis. Ipsum uero hominem 
-                <lb n="38"/>quasi egrotum. <hi rend="smallcaps">m</hi>edicum deum. Dona sancti 
-                <lb n="39"/><expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> antidotum. Virtutes sanitatem. Beati
-                <lb n="40" break="no"/>tudines felicitatis gaudium. Sunt ergo <num n="7">sep
-                    <lb n="41" break="no"/>tem</num> uicia capitalia siue principalia et ex<reg> </reg>his 
-                <lb n="42"/>uniuersa mala oriuntur. Hi sunt fontes abyssi 
-                <cb n="b"/>
-                <lb n="1"/>tenebrose. de quibus flumina <placeName>babilonis</placeName> exeunt. 
-                <lb n="2"/>et in<reg> </reg>omnem terram deducta. stillicidia iniqui
-                <lb n="3" break="no"/>tatis<!-- -tatum Inst. --> diffundunt. De quibus fluminibus psalmi
-                <lb n="4" break="no"/>sta in persona populi fidelis cecinit dicens. <quote source="Bible.Vul:Ps.136.1–136.2">Super 
-                    <lb n="5"/>flumina <placeName>babylonis</placeName> illic sedimus et fleuimus. 
-                    <lb n="6"/>dum recordaremur <placeName>syon</placeName>. In salicibus in<reg> </reg>medio 
-                    <lb n="7"/>eius <expan><am>.</am>s<am>.</am><ex>uspendimus</ex> o<am>.</am><ex>rgana</ex> n<am>.</am><ex>ostra</ex></expan>.</quote> <label place="right" type="later-hand">De <unclear>uiciis.</unclear>.</label>De his igitur <num n="7">.vii.</num> uiciis uastatoribus et uni
-                <lb n="8" break="no"/>uersam nature integritatem corrumpentibus si
-                <lb n="9" break="no"/>mulque malorum omnium germina producenti
-                <lb n="10" break="no"/>bus. quantum ad presens negotium explican
-                <lb n="11" break="no"/>dum sufficere putamus. loquemur. <add place="right" resp="light-hand"><milestone rend="paraph" unit="section"/></add><num n="7">Septem</num> 
-                <lb n="12"/>ergo sunt. et ex<reg> </reg>his <num n="3">tria</num> hominem expoliant. 
-                <lb n="13"/><num n="4">Quartum</num> expoliatum flagellat. <num n="5">Quintum</num> fla
-                <lb n="14" break="no"/>gellatum eicit. <num n="6">Sextum</num> eiectum seducit. 
-                <lb n="15"/><num n="7">Septimum</num> <add place="inline" resp="later-hand">s</add>eductum seruituti subicit. Su
-                <lb n="16" break="no"/>perbia enim aufert homini deum. Inuidia aufert 
-                <lb n="17"/>ei proximum. Ira aufert ei seipsum. Tristicia 
-                <lb n="18"/>spoliatum flagellat. Auaricia flagellatum eicit. 
-                <lb n="19"/>Gula eiectum seducit. Luxuria seductum serui
-                <lb n="20" break="no"/>tuti subicit. Nunc reuertentes singula per<reg> </reg>ordinem<!-- per ordinem singula Inst. --> 
-                <lb n="21"/>explanemus. Diximus quod superbia aufert ho
-                <lb n="22" break="no"/>mini deum. <label place="right" type="later-hand"><num n="1">.1.</num></label>Superbia namque est amor proprię 
-                <lb n="23"/>excellentię. quando mens <seg source="Bible.Vul:Luke.12.19">bonum quod habet</seg> 
-                <lb n="24"/>singulariter diligit <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> sine eo a quo bonum ac
-                <lb n="25" break="no"/>cepit. O pestifera superbia quid agis? Cur sua
-                <lb n="26" break="no"/>des riuulo ut se a fonte diuidat? Cur suades 
-                <lb n="27"/>radio ut se a<reg> </reg>sole auertat? Cur nisi ut et ille 
-                <lb n="28"/>dum infundi desinit arescat. et iste dum ab 
-                <choice><sic><lb break="no" n="29"/></sic><reg><lb n="29"/></reg></choice>illuminante se<!-- Baron suppresses 'se', and indicates that this is the only MS that includes the reading, but it could work if the verb is taken as deponent (cf. DMLBS s.v. *2 avertere* 2); and in some ways it makes more sense, since the point is that it turns itself away, not that it is turned away by an external force. --> auertitur tenebrosus fiat. uterque 
-                <lb n="30"/>uero dum accipere cessat id quod necdum habet. 
-                <lb n="31"/>continuo illud eciam quod habet amittat. Hoc pro
-                <lb n="32" break="no"/>fecto tu agis cum doces donum extra datorem 
-                <lb n="33"/>diligere ut qui partem boni quod ab<reg> </reg>illo datum est 
-                <lb n="34"/>peruerse sibi uendicat. totum bonum quod in 
-                <choice><sic><lb n="35" break="no"/></sic><reg><lb n="35"/></reg></choice>illo est amittat. Sicque fiat ut nec id quod habet uti
-                <lb n="36" break="no"/>liter habere possit. dum illud in<reg> </reg>eo a<reg> </reg>quo habet non 
-                <choice><sic><lb n="37" break="no"/></sic><reg><lb n="37"/></reg></choice>diligit. <metamark function="flag"/>Sicut enim omne bonum ueraciter 
-                <lb n="38"/>a<reg> </reg>deo est. ita nullum bonum extra deum utiliter 
-                <lb n="39"/>haberi potest. Immo uero per<reg> </reg>hoc idipsum quod 
-                <lb n="40"/>habetur amittitur. quod in<reg> </reg>eo et cum eo a<reg> </reg>quo 
-                <lb n="41"/>habetur non amatur. Nam quicumque non nouit 
-                <lb n="42"/>nisi hoc quod habet bonum in<reg> </reg>semetipso diligere. 
-                <pb n="211r"/>
-                <cb n="a"/>
-                <lb n="1"/>necesse est ut dum in<reg> </reg>altero bonum quod non habet 
-                <lb n="2"/>aspexerit<g ref="#f161">⸵</g> tanto amarius sua eum imperfectio 
-                <lb n="3"/>torqueat<g ref="#f161">⸵</g> quanto eum in<reg> </reg>quo omne bonum con
-                <lb n="4" break="no"/>sistit non amat. Et<reg> </reg>idcirco superbiam semper <label place="left" type="later-hand"><num n="2">2</num></label>inui
-                <lb n="5" break="no"/>dia sequitur. quia qui illic amorem non figit ubi 
-                <lb n="6"/>omne bonum est quantum de suo peruerse ex
-                <lb n="7" break="no"/>tollitur. tanto grauius de<reg> </reg>bono alieno torquetur. 
-                <lb n="8"/>Sua igitur elationi iustissime pena deputata est 
-                <lb n="9"/>ipsa quam de se gignit inuidia. que quia com
-                <lb n="10" break="no"/>mune omnium bonum diligere noluit<g ref="#f161">⸵</g> recte 
-                <lb n="11"/>nunc boni alieni liuore tabescit. Quam profecto 
-                <lb n="12"/>aliene felicitatis successus non ureret. si illum 
-                <lb n="13"/>in<reg> </reg>quo omne bonum est per<reg> </reg>amorem possideret. 
-                <lb n="14"/><metamark function="flag" place="left"/>Nec e<add place="overstrike">nim</add> alienum a<reg> </reg>se iudicaret bonum al
-                <lb n="15" break="no"/>terius.<!-- b. alterius i. alienum Inst. --> si suum ibi diligeret. ubi et suum et al
-                <lb n="16" break="no"/>terius bonum simul possideret. Nunc ergo quantum 
-                <lb n="17"/>s<add place="overstrike">e</add> per<reg> </reg>elationem contra<!-- 'extra' Inst. --> creatorem extollit tantum 
-                <lb n="18"/>per<reg> </reg>liuorem sub<reg> </reg>proximo cadit. et quantum ibi 
-                <lb n="19"/>fallaciter erigitur. tantum hic ueraciter pre
-                <lb n="20" break="no"/>cipitatur. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>ed</ex></expan> neque hic sistere potest semel cepta 
-                <lb n="21"/>corruptio. Mox enim ut de superbia inuidia 
-                <lb n="22"/>nata fuerit<g ref="#f161">⸵</g> iram ipsa de se parit. <label place="left" type="later-hand"><num n="3">3</num></label>Quia miser 
-                <lb n="23"/>animus propterea iam sibi ipsi de sua imperfec
-                <lb n="24" break="no"/>tione i<add place="overstrike">ra</add>scitur. <metamark function="flag"/>quia de bono alterius per<reg> </reg>carita
-                <lb n="25" break="no"/>tem non letatur. Atque ideo id eciam quod habet. sibi<!-- 'ipsi' Inst./Baron (not in apparatus) and Samuel Presbiter --> 
-                <lb n="26"/>displicere incipit quoniam in alio<!-- 'alieno' Inst. --> id quod habere 
-                <lb n="27"/>non potest agnoscit. Qui ergo per<reg> </reg>caritatem in<reg> </reg>deo 
-                <lb n="28"/>totum habere potuit. id eciam quod per<reg> </reg>elationem 
-                <lb n="29"/>extra deum habere conabatur<!-- 'conatur' Inst. --> per<reg> </reg>inuidiam et iram 
-                <lb n="30"/>amittit. quia postquam per superbiam deum amit
-                <lb n="31" break="no"/>tit<!-- 'perdiderit' Inst. --><g ref="#f161">⸵</g> per<reg> </reg>inuidiam perdit proximum. et per<reg> </reg>iram se
-                <lb n="32" break="no"/>metipsum. Quia igitur omnibus amissis nichil super
-                <choice><orig><lb n="33"/></orig><reg><lb break="no" n="33"/></reg></choice>est unde gaudeat infelix conscientia per<reg> </reg>tristiciam 
-                <lb n="34"/>in<reg> </reg>semetipsa colliditur. et quę de alieno bono pie 
-                <lb n="35"/>letari noluit<g ref="#f161">⸵</g> de suo malo iuste cruciatur. Post 
-                <lb n="36"/>superbiam ergo et inuidiam et iram que hominem 
-                <lb n="37"/><label place="left" type="later-hand"><num n="4">4</num></label>spoliant continuo tristicia sequitur quę nu
-                <lb n="38" break="no"/>datum flagellat. <label place="left" type="later-hand"><num n="5">.5.</num></label>Cui deinde succedit auaricia 
-                <lb n="39"/>quę flagellatum eicit. quia interno gaudio 
-                <lb n="40"/>amisso<g ref="#f161">⸵</g> foris consolationem querere compellit. 
-                <lb n="41"/><label place="left" type="later-hand"><subst><del><num n="5">5</num></del><add place="overstrike"><num n="6">6</num></add></subst></label>Postea accedit gula quę eiectum seducit<g ref="#f161">⸵</g> quia 
-                <lb n="42"/>animum exterioribus inhiantem hoc uitium imprimis 
-                <cb n="b"/>
-                <lb n="1"/>quasi e<reg> </reg>uicino temptans per ipsum naturalem ap
-                <lb n="2" break="no"/>petitum ad<reg> </reg>excessum illicit. <label place="right" type="later-hand"><num n="7">7</num></label>Postremo superuenit 
-                <lb n="3"/>luxuria. quę seductum uiolenter seruituti 
-                <lb n="4"/>subicit. quia postquam caro per<reg> </reg>crapulam inflam
-                <lb n="5" break="no"/>mata est ardorem libidinis superuenientem 
-                <lb n="6"/>emollitus atque eneruiter resolutus animus 
-                <lb n="7"/>uincere non potest. Seruit igitur seuissime domi
-                <lb n="8" break="no"/>nationi mens turpiter subacta. et<reg> </reg>nisi exorata 
-                <lb n="9"/>subueniat saluatoris pietas non erit iam unde cap
-                <lb n="10" break="no"/>tiuo seruienti amissa restituatur libertas. 
-                <lb n="11"/><add place="inline"><milestone rend="paraph" unit="section"/></add><label place="right" type="later-hand" rend="underline">de peticionibus.</label>Sequuntur itaque <num n="7">.vii.</num> peticiones contra <num n="7">.vii.</num> 
-                <lb n="12"/>uicia quibus ille oratur ut subueniat. qui nos 
-                <lb n="13"/>et orare docuit. et quod orantibus <expan><abbr>sp</abbr><ex>iritu</ex><abbr>m</abbr></expan> bonum 
-                <lb n="14"/>ad<reg> </reg>sananda uulnera nostra et ad<reg> </reg>soluendum iu
-                <lb n="15" break="no"/>gum captiuitatis nostre daturus esset promisit. 
-                <lb n="16"/><expan><abbr>S<am>&#xA76B;</am></abbr><ex>ed</ex></expan> nos antequam ad explanationem harum 
-                <lb n="17"/>ueniamus prius uolumus alia adhuc simi
-                <lb n="18" break="no"/>litudine demonstrare quantam in nobis cor
-                <lb n="19" break="no"/>ruptionem supradicta uitia generent. ut quanto 
-                <lb n="20"/>periculosior languor ostenditur<g ref="#f161">⸵</g> tanto magis 
-                <lb n="21"/>necessaria medicina comprobetur. <metamark function="flag"/>Per superbiam 
-                <lb n="22"/>igitur cor inflatur. per inuidiam arescit. per iram 
-                <lb n="23"/>crepat. per tristiciam conteritur. et quasi in 
-                <choice><sic><lb n="24" break="no"/></sic><reg><lb n="24"/></reg></choice>puluerem redigitur. per<reg> </reg>auariciam dispergitur. 
-                <lb n="25"/>per gulam inficitur et quasi humectatur<reg>.</reg> per 
-                <choice><sic><lb n="26" break="no"/></sic><reg><lb n="26"/></reg></choice>luxuriam conculcatur et in lutum redigitur. 
-                <lb n="27"/>ita ut iam miser dicere possit. <quote source="Bible.Vul:Ps.68.3">Infixus sum 
-                    <lb n="28"/>in<reg> </reg>limo profundi et non est substantia.</quote> Veni in 
-                <choice><sic><lb n="29" break="no"/></sic><reg><lb n="29"/></reg></choice>altitudine maris et tempestas demersit me. 
-                <lb n="30"/>Cumque huic limo profundi animus fuerit infixus. 
-                <lb n="31"/>et luto coinquinationis et immunditię obuo
-                <lb n="32" break="no"/>lutus<g ref="#f161">⸵</g> euelli nequaquam potest nisi ad<reg> </reg>illum 
-                <lb n="33"/>clamet et eius auxilium postulet. de quo psal
-                <lb n="34" break="no"/>mista loquitur dicens. <quote source="Bible.Vul:Ps.39.2–39.3">Expectans expectaui 
-                    <lb n="35"/>dominum et intendit michi. Et exaudiuit 
-                    <lb n="36"/>preces meas <expan><am>.</am>et<am>.</am> e<am>.</am><ex>duxit</ex> d<am>.</am><ex>e lacu</ex> m<am>.</am><ex>iserie</ex> et<am>.</am> d<am>.</am><ex>e luto</ex> f<ex>ecis</ex></expan>.</quote> Propterea ergo<!-- 'igitur' Inst. --> 
-                <lb n="37"/>ipse <quote source="Bible.Vul:Luke.11.1">nos orare docuit</quote><g ref="#f161">⸵</g> ut totum bonum nostrum 
-                <lb n="38"/>ab<reg> </reg>ipso sit ut et quod petimus et quod petentes 
-                <lb n="39"/>accipimus eius donum non nostrum meritum 
-                <lb n="40"/>esse intelligamus. <label place="right" type="later-hand"><num n="1">.1.</num></label><num n="1">Prima</num> ergo peticio contra 
-                <lb n="41"/>superbiam est. qua deo dicimus. <quote source="Bible.Vul:Matt.6.9; Bible.Vul:Luke.11.2"><hi rend="smallcaps">S</hi>anctificetur nomen 
-                    <lb n="42"/>tuum.</quote> Hoc enim petimus ut det nobis timere 
-                <pb n="211v"/>
-                <cb n="a"/>
-                <lb n="1"/>et uenera<choice><sic>t</sic><corr source="#Baron1969">r</corr></choice>i nomen suum<g ref="#f161">⸵</g> quatinus ei per<reg> </reg>humili
-                <lb n="2" break="no"/>tatem subiecti simus. qui per superbiam rebelles 
-                <lb n="3"/>et contumaces extitimus. Huic petitioni datur 
-                <lb n="4"/>donum <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> timoris domini. ut ille ad cor ue
-                <lb n="5" break="no"/>niens uirtutem in eo creet humilitatis que 
-                <lb n="6"/>superbię morbum sanet. quatinus ad<reg> </reg>regnum 
-                <lb n="7"/>cęlorum quod angelus superbus per<reg> </reg>elationem perdidit. 
-                <lb n="8"/>homo humilis peruenire possit. <label place="right" type="later-hand"><num n="2">.2.</num></label><num n="2">Secunda</num> peticio est 
-                <lb n="9"/>contra inuidiam. qua dicitur. <quote source="Bible.Vul:Matt.6.10">adueniat regnum 
-                    <lb n="10"/>tuum.</quote> Regnum siquidem dei est salus homi
-                <lb n="11" break="no"/>num. quia tunc deus in<reg> </reg>hominibus<!-- i.h.d. Inst. --> regnare di
-                <lb n="12" break="no"/>citur. quando ipsi homines deo subiciuntur. 
-                <lb n="13"/>et modo ei adherendo per<reg> </reg>fidem. et<reg> </reg>post inherendo 
-                <lb n="14"/>per<reg> </reg>speciem. Qui<del rend="erased">d</del> ergo petit ut regnum dei adueniat. 
-                <lb n="15"/>ille profecto salutem querit hominum.<!-- h.q. Inst. --> Ac per 
-                <choice><sic><lb n="16" break="no"/></sic><reg><lb n="16"/></reg></choice>hoc dum pro communi omnium salute postu
-                <lb n="17" break="no"/>lat. liuoris uicium se reprobare demonstrat. 
-                <lb n="18"/>Huic petitioni datur <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> pietatis. ut ipse ad cor 
-                <lb n="19"/>ueniens ad benignitatem illud accendat. quatinus 
-                <lb n="20"/>ad eandem homo ęterne hereditatis possessionem 
-                <lb n="21"/>ad<reg> </reg>quam alios peruenire cupit ipse perueniat.<!-- Cf. Matt. 5.4 --> <label place="right" type="later-hand"><num n="3">.3.</num></label><num n="3">Ter
-                    <lb n="22" break="no"/>cia</num> peticio est contra iram qua dicitur. <quote source="Bible.Vul:Matt.6.10">fiat uo
-                    <lb n="23" break="no"/>luntas tua sicut <expan><am>.</am>i<am>.</am><ex>n</ex> c<am>.</am><ex>elo</ex> et<am>.</am> i<am>.</am><ex>n</ex> t<ex>erra</ex></expan>.</quote> Non enim uult con
-                <lb n="24" break="no"/>tendere qui dicit. <quote source="Bible.Vul:Matt.6.10">Fiat <expan>u<am>.</am><ex>oluntas</ex> t<ex>ua</ex></expan>.</quote> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> sibi placere indicat 
-                <lb n="25"/>quicquid uoluntas dei siue in<reg> </reg>se siue in<reg> </reg>aliis secundum 
-                <lb n="26"/>arbitrium sue dignationis dispensat. Huic 
-                <lb n="27"/>ergo peticioni datur <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> scientię. ut ipse ad cor 
-                <lb n="28"/>ueniens erudiat illud et salubriter compun
-                <lb n="29" break="no"/>gat. ut sciat homo malum quod patitur ex 
-                <choice><sic><lb n="30" break="no"/></sic><reg><lb n="30"/></reg></choice>sua culpa prouenire<g ref="#f161">⸵</g> si quid autem boni ha
-                <lb n="31" break="no"/>buerit ex<reg> </reg>misericordia dei procedere ac per<reg> </reg>hoc discat 
-                <lb n="32"/>siue in<reg> </reg>malis quę sustinet. siue in<reg> </reg>bonis quę 
-                <lb n="33"/>non habet contra creatorem non irasci. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> per<reg> </reg>omnia 
-                <lb n="34"/>patientiam exhibere. Optime ergo per<reg> </reg>compuncti
-                <lb n="35" break="no"/>onem cordis quę spiritu scientię operante interius 
-                <lb n="36"/>ex humilitate nascitur. ira et indignatio animi 
-                <lb n="37"/>mitigatur. quia e<reg> </reg>conuerso <quote source="Bible.Vul:Job.5.2">stultum ira in
-                <lb n="38" break="no"/>terficit</quote>. quando in<reg> </reg>aduersis per impatientię 
-                <lb n="39"/>uicium agitatus atque cecatus uel malum 
-                <lb n="40"/>quod patitur se meruisse<add place="inline"><unclear><g ref="#f1f9">˷</g></unclear></add> uel bonum quod habet 
-                <lb n="41"/>per graciam accepisse non agnoscit. Hanc autem 
-                <lb n="42"/>uirtutem <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> compunctionem siue dolorem 
-                <cb n="b"/>
-                <lb n="1"/>premium consolationis sequitur. ut qui se 
-                <choice><sic><lb n="2" break="no"/></sic><reg><lb n="2"/></reg></choice>hic sponte coram deo per<reg> </reg>lamenta affligit<g ref="#f161">⸵</g> illic 
-                <lb n="3"/>uerum gaudium et leticiam inuenire mereatur.<!-- Cf. Matt. 5.5 --> 
-                <lb n="4"/><label place="left" type="later-hand"><num n="4">4</num></label><num n="4">Quarta</num> peticio est contra tristiciam qua dicitur. 
-                <lb n="5"/><quote source="Bible.Vul:Matt.6.11; Bible.Vul:Luke.11.3">Panem nostrum cotidianum <expan><am>.</am>d<am>.</am><ex>a</ex> n<am>.</am><ex>obis</ex> h<ex>odie</ex></expan>.</quote> Tristicia 
-                <lb n="6"/><metamark function="flag"/>namque tedium est animi cum merore quando 
-                <lb n="7"/>mens quodammodo tabefacta et uitio suo amari
-                <lb n="8" break="no"/>cata interna bona non appetit<g ref="#f161">⸵</g> atque omni ui
-                <lb n="9" break="no"/>gore e<reg> </reg>mortuo nullo spiritualis refectionis desiderio 
-                <lb n="10"/>hilarescit. Propterea ad<reg> </reg>sanandum hoc uicium 
-                <lb n="11"/>deprecari nos oportet misericordiam domini. ut 
-                <lb n="12"/>ipse solita pietate animę tedio<add place="inline"> </add>suo languenti 
-                <lb n="13"/>interne refectionis pabulum admoueat. ut quod 
-                <lb n="14"/>ipsa absens nescit appetere. gustu presentis 
-                <lb n="15"/>ammonita incipiat amare. Datur ergo huic peti
-                <lb n="16" break="no"/>cioni <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> fortitudinis ut fatiscentem animam 
-                <lb n="17"/>erigat<g ref="#f161">⸵</g> quatinus illa pristini uigoris uirtute 
-                <lb n="18"/>recepta a<reg> </reg>defectu sui tedii ad desiderium interni 
-                <lb n="19"/>saporis conualescat. Creat ergo <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> fortitudinis 
-                <lb n="20"/>in<reg> </reg>corde famem iusticie ut dum hic per desiderium 
-                <lb n="21"/>pietatis fortiter accenditur. illic pro<reg> </reg>premio ple
-                <lb n="22" break="no"/>nam beatitudinis sacietatem consequatur.<!-- Cf. Matt. 5.6 --> 
-                <lb n="23"/><label place="left" type="later-hand"><num n="5">.5.</num></label><num n="5">Quinta</num> peticio est contra auariciam. qua dicitur. 
-                <lb n="24"/><quote source="Bible.Vul:Matt.6.12">Dimitte nobis debita nostra <expan>s<am>.</am><ex>icut</ex> et<am>.</am> n<am>.</am><ex>os</ex> d<am>.</am><ex>imittimus</ex> d<am>.</am><ex>ebitoribus</ex></expan> nostris</quote>. 
-                <lb n="25"/>Iustum enim est ut in<reg> </reg>reddendo debito non 
-                <lb n="26"/>debeat esse anxius qui in<reg> </reg>exigendo noluerit esse 
-                <lb n="27"/>auarus.<!-- amarus Inst. --> Atque ideo cum a<reg> </reg>nobis per<reg> </reg>dei graciam 
-                <lb n="28"/>uicium auaricię tollitur<g ref="#f161">⸵</g> qualiter a<reg> </reg>nostro debito 
-                <lb n="29"/>absolui debeamus ex<reg> </reg>proposita salutis conditi
-                <lb n="30" break="no"/>one donatur.<!-- 'docetur' Baron/Inst.; oddly, he notes that 'donatur' is a reading in his MSS Va H L, implying that 'docetur' is in this MS, which it certainly isn't --> Huic ergo petitioni datur <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> consilii 
-                <lb n="31"/>qui doceat nos in<reg> </reg>hoc seculo libenter peccan
-                <lb n="32" break="no"/>tibus in nos misericordiam impendere quatinus in 
-                <choice><sic><lb n="33" break="no"/></sic><reg><lb n="33"/></reg></choice>futuro cum pro peccatis nostris rationem reddituri sumus 
-                <lb n="34"/>mereamur misericordiam inuenire.<!-- Cf. Matt. 5.7 --> <label place="left" type="later-hand"><num n="6">.6.</num></label><num n="6">Sexta</num> peticio est 
-                <lb n="35"/>contra <del rend="erased">re</del>gulam qua dicitur. <quote source="Bible.Vul:Matt.6.13; Bible.Vul:Luke.11.4">Ne nos inducas</quote> 
-                <lb n="36"/><add place="overstrike"><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan></add> <del rend="strikethrough">tempt<am>&#x33E;</am>. </del>induci permittas <quote source="Bible.Vul:Matt.6.13; Bible.Vul:Luke.11.4">in <expan><am>.</am>t<ex>emptationem</ex></expan>.</quote> Hec est tempta
-                <lb n="37" break="no"/>tio qua nos illecebra carnis sepe per naturalem 
-                <lb n="38"/>appetitum ad excessum trahere nititur<g ref="#f161">⸵</g> et la
-                <lb n="39" break="no"/>tenter uoluptatem subicit. dum manifeste 
-                <lb n="40"/>nobis de necessitate blanditur. <metamark function="flag" place="right"/>In<reg> </reg>quam profecto 
-                <lb n="41"/>temptationem tunc nequaquam inducimur 
-                <lb n="42"/>si sic studemus secundum mensuram necessitatis 
-                <fw place="bottom" type="catch">nature</fw>
-                <gb/>
-                <pb n="212r"/>
-                <cb n="a"/>
-                <lb n="1"/>naturę subsidium impendere. ut tamen semper 
-                <lb n="2"/>meminerimus appetitum ab<reg> </reg>illecebra uolup
-                <lb n="3" break="no"/>tatis cohercere. Quod ut implere ualeamus<g ref="#f161">⸵</g> 
-                <lb n="4"/>datur nobis petentibus <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> intelligentie. ut in
-                <lb n="5" break="no"/>terna refectio uerbi dei appetitum exteriorem 
-                <lb n="6"/>cohibeat. et<reg> </reg>mentem spiritali cibo roboratam nec 
-                <lb n="7"/>ualeat corporalis egestas frangere. nec carnis 
-                <lb n="8"/>uoluptas superare. Propterea namque et<reg> </reg>ipse <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> 
-                <lb n="9"/>temptatori suo dum esurienti sibi fraudulentam 
-                <lb n="10"/>de exterioris panis refectione suggestionem face
-                <lb n="11" break="no"/>ret<g ref="#f161">⸵</g> respondit dicens. <quote source="Bible.Vul:Matt.4.4">Non in<reg> </reg>solo pane uiuit homo. 
-                    <lb n="12"/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> in <expan><am>.</am>o<am>.</am><ex>mni</ex> u<am>.</am><ex>erbo</ex> q<am>.</am><ex>uod</ex> p<am>.</am><ex>rocedit</ex> ab<am>.</am><!-- 'de' Inst. (in app. Baron) --> o<am>.</am><ex>re</ex></expan> dei.</quote> ut aperte demonstraret. 
-                <lb n="13"/><metamark function="flag" place="left"/>quia cum mens illo interius pane reficitur. 
-                <lb n="14"/>non magnopere curat si foris ad<reg> </reg>tempus famem 
-                <lb n="15"/>carnis patiatur. Datur ergo contra gulam <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> 
-                <lb n="16"/>intelligentię. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> ille ad<reg> </reg>cor ueniens emundat 
-                <lb n="17"/>illud atque purificat. et illum interiorem ocu
-                <lb n="18" break="no"/>lum cognitione uerbi dei quasi quodam col
-                <lb n="19" break="no"/>lirio sanans eo usque luminosum atque serenum 
-                <lb n="20"/>efficit<g ref="#f161">⸵</g> ut ad<reg> </reg>ipsam eciam deitatis claritatem 
-                <lb n="21"/>contemplandam perspicax fiat. Contra uicium 
-                <lb n="22"/>igitur gule<!-- g.u.i. Inst. --> remedium opponitur <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> intelli
-                <lb n="23" break="no"/>gentię. Ex spiritu autem intelligentię. mundi
-                <lb n="24" break="no"/>cia cordis nascitur. Munditia uero cordis. 
-                <lb n="25"/>uisionem dei promeretur. Sicut scriptum est. <quote source="Bible.Vul:Matt.5.8">Beati 
-                    <lb n="26"/>mundo corde.<!-- It appears to me that this is functioning as punctuation rather than (or as well as) simply marking the abbreviation. --> <expan>q<am>.</am><ex>uoniam</ex> i<am>.</am><ex>psi</ex> d<am>.</am><ex>eum</ex> u<am>.</am><ex>idebunt</ex></expan>.</quote> <label place="left" type="later-hand"><num n="7">.7.</num></label><num n="7">Septima</num> peticio est contra 
-                <lb n="27"/>luxuriam. qua dicitur. <quote source="Bible.Vul:Matt.6.13">libera nos a malo.</quote> Conueni
-                <lb n="28" break="no"/>enter sane seruus libertatem petit. et iccirco 
-                <lb n="29"/>huic petitioni datur <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> sapientię qui amissam 
-                <lb n="30"/>captiuo libertatem restituat et iugum inique 
-                <lb n="31"/>dominationis quod suis uiribus ille non ualuit 
-                <lb n="32"/>per<reg> </reg>graciam adiutus euadat. <mentioned>Sapientia</mentioned> namque a 
-                <choice><sic><lb n="33" break="no"/></sic><reg><lb n="33"/></reg></choice>sapore dicitur. cum mens gustu internę dulce
-                <lb n="34" break="no"/>dinis tacta totam se per<reg> </reg>desiderium intus colli
-                <lb n="35" break="no"/>git. nec foris iam eneruiter in<reg> </reg>carnis uoluptate<!-- 'uoluptatem' Inst. and Samuel Presbiter --> 
-                <lb n="36"/>dissoluitur. quia totum intus possidet in<reg> </reg>quo de
-                <lb n="37" break="no"/>lectatur. Congrue igitur contra exteriorem uolupta
-                <lb n="38" break="no"/>tem interior dulcedo opponitur ut quanto illa 
-                <lb n="39"/>plus sapere et placere inceperit<g ref="#f161">⸵</g> tanto liberius atque 
-                <lb n="40"/>libentius ista contempnatur. tandemque pacificata in<reg> </reg>semet
-                <lb n="41" break="no"/><metamark function="flag" place="left"/>ipsa mens pacificata<!-- om. Inst. --> dum nichil est quod foris ap
-                <lb n="42" break="no"/>petat. tota per amorem intus requiescat. <expan><abbr>Sp<am>c</am></abbr><ex>iritus</ex></expan> ergo 
-                <cb n="b"/>
-                <lb n="1"/>sapientię cor sua dulcedine tangens et foris 
-                <lb n="2"/>concupiscentię ardorem temperat. et sopita con
-                <lb n="3" break="no"/>cupiscentia intus pacem creat. quatinus dum 
-                <lb n="4"/>mens tota ad<reg> </reg>internum gaudium colligitur. 
-                <lb n="5"/>plene ac perfecte homo ad<reg> </reg>imaginem dei refor
-                <lb n="6" break="no"/>metur sicut scriptum est. <quote source="Bible.Vul:Matt.5.9">Beati pacifici. quoniam ipsi 
-                    <lb n="7"/><expan><am>.</am>f<am>.</am><ex>ilii</ex> d<am>.</am><ex>ei</ex> u<am>.</am><ex>ocabuntur</ex></expan>.</quote> Ecce frater peticionem tuam non qualiter de
-                <lb n="8" break="no"/>bui. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> qualiter interim potui adimpleui. 
-                <lb n="9"/>Accipe munusculum. de <num n="5">.v.</num> septenis quod 
-                <lb n="10"/>postulasti. et cum illud respexeris<g ref="#f161">⸵</g> memento 
-                <lb n="11"/>mei. <hi rend="smallcaps">Gracia dei sit tecum. Amen.</hi> <note place="right" resp="alt-hand">finis</note>
-            </p>
-        </body>
-    </text>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="la">De quinque septenis</title>
+<author xml:id="HSV">Hugh of St Victor</author>
+<editor xml:id="AD">Andrew Dunning</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Andrew Dunning</authority>
+<availability>
+<licence target="http://creativecommons.org/licences/by-sa/4.0/">Provided under a Creative Commons Attribution-ShareAlike 4.0 International Licence.</licence>
+<p>Produced with thanks to the Bibliothèque Mazarine.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc facs="http://www.calames.abes.fr/pub/#details?id=MAZA13062">
+<msIdentifier>
+<settlement>Paris</settlement>
+<repository>Bibliothèque Mazarine</repository>
+<idno>717</idno>
+</msIdentifier>
+</msDesc>
+<listBibl>
+<biblStruct type="bookSection" xml:id="Baron1969" xml:lang="fr">
+<analytic>
+<title level="a" xml:lang="la">De quinque septenis</title>
+<author>
+<name>Hugues de Saint-Victor</name>
+</author>
+<respStmt>
+<resp>translator</resp>
+<persName>
+<forename>Roger</forename>
+<surname>Baron</surname>
+</persName>
+</respStmt>
+</analytic>
+<monogr>
+<title level="m">Six opuscules spirituels</title>
+<editor>
+<forename>Roger</forename>
+<surname>Baron</surname>
+</editor>
+<imprint>
+<pubPlace>Paris</pubPlace>
+<biblScope type="pp">100–118</biblScope>
+<publisher>Cerf</publisher>
+<date>1969</date>
+</imprint>
+</monogr>
+<series>
+<title level="s">Sources chrétiennes</title>
+<biblScope type="vol">155</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+<p>
+This text is a transcription of Paris, Maz. 717, which was also the basis for Baron's 1963 edition (though with several inaccuracies); the text has been emended only where required for sense. His text will eventually be replaced by a new edition from the Hugo von Sankt Viktor Institut (a preliminary version of which may be consulted through the Library of Latin Texts).
+</p>
+<p>
+Original spelling and punctuation has been retained (with words that might be ambiguous occasionally marked 'sic' to flag unabbreviated forms). An attempt has been made to record the exact word division in the manuscript. Characters from the MUFI private use area have been used for some marks not found in Unicode (following the format of the ENRICH Gaiji Bank).
+</p>
+<normalization>
+<p>
+Hyphens at the ends of lines are not encoded separately from the @break attribute, but modifications have been indicated. Abbreviations are expanded silently except in cases of ambiguity or scribal error.
+</p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+<pb n="210v"/>
+<cb n="a"/>
+<lb n="1"/><space n="1" unit="line"/>
+<p>
+<lb n="2"/><num n="5"><hi rend="dropcap2 blue trim-red">Q</hi><hi rend="smallcaps">uinque</hi></num> septena in<reg> </reg>sacra scriptura 
+<lb n="3"/>frater inueni. quę uolo si possum sicut 
+<lb n="4"/>postulas prius singillatim enumerando ab
+<lb n="5" break="no"/>inuicem<!-- 'ad inuicem' Inst./Baron (var. in app. but claims it only occurs in Va) --> distinguere. Postea uero quam inter se 
+<lb n="6"/>habeant conuenientiam eadem per<reg> </reg>singula sibi 
+<lb n="7"/>conferendo demonstrare. <num n="1">Primo</num> loco ponuntur 
+<lb n="8"/><label place="left" type="later-hand"><num n="7">.7.</num> vitia</label><num n="7">.vii.</num> uitia <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> <num n="1">prima</num> superbia. <num n="2">secunda</num> inuidia. <num n="3">tercia</num> 
+<lb n="9"/>ira. <num n="4">Quarta</num> tristicia. <num n="5">quinta</num> auaricia. <num n="6">sexta</num> gula. 
+<lb n="10"/><num n="7">septima</num> luxuria. <add place="inline" resp="later-hand"><milestone rend="paraph" unit="section"/></add>Contra hec <num n="2">secundo</num> loco consti
+<lb n="11" break="no"/>tuuntur <label place="left" type="later-hand"><num n="7">.7.</num> petitiones</label><num n="7">septem</num> peticiones quę in<reg> </reg>dominica orati
+<lb n="12" break="no"/>one continentur. <num n="1">Prima</num> qua dicitur deo. <quote source="Bible.Vul:Matt.6.9; Bible.Vul:Luke.11.2">Sancti
+<lb n="13" break="no"/>ficetur nomen tuum.</quote> <num n="2">Secunda</num> qua dicitur. <quote source="Bible.Vul:Matt.6.10; Bible.Vul:Luke.11.2">Adue
+<lb n="14" break="no"/>niat regnum tuum.</quote> <num n="3">Tertia</num> qua dicitur. <quote source="Bible.Vul:Matt.6.10">Fiat uo
+<lb n="15" break="no"/>luntas tua <expan>s<am>.</am><ex>icut</ex> in<am>.</am> c<am>.</am><ex>elo</ex> et<am>.</am> in<am>.</am> t<ex>erra</ex></expan>.</quote> <num n="4">Quarta</num> qua dicitur. <quote source="Bible.Vul:Matt.6.11; Bible.Vul:Luke.11.3">Pa
+<lb n="16" break="no"/>nem nostrum cotidianum da nobis hodie.</quote> <num n="5">Quinta</num> qua 
+<lb n="17"/>dicitur. <quote source="Bible.Vul:Matt.6.12">dimitte nobis debita nostra <expan>s<am>.</am><ex>icut</ex> et<am>.</am> n<am>.</am><ex>os</ex> d<am>.</am><ex>imittimus</ex> d<am>.</am><ex>ebitoribus</ex> n<ex>ostris</ex></expan>.</quote> 
+<lb n="18"/><num n="6">Sexta</num> qua dicitur. <quote source="Bible.Vul:Matt.6.13; Bible.Vul:Luke.11.4"><hi rend="smallcaps">N</hi>e nos inducas in<reg> </reg>temptati
+<lb n="19" break="no"/>onem.</quote> <num n="7">Septima</num> qua dicitur. <quote source="Bible.Vul:Matt.6.13">Libera nos a<reg> </reg>malo.</quote> 
+<lb n="20"/><add place="inline" resp="later-hand"><milestone rend="paraph" unit="section"/></add>Postea tercio loco secuntur <num n="7">.vii.</num> dona <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> sancti. <!-- For the following, cf. Isaiah 11.2. -->
+<lb n="21"/><num n="1">primum</num> <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> timoris domini. <num n="2">Secundum</num> spiritus 
+<lb n="22"/>pietatis. <num n="3">Tercium</num> <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> scientię. <num n="4">Quartum</num> <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> 
+<lb n="23"/>fortitudinis. <num n="5">Quintum</num> <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> consilii. <num n="6">Sextum</num> 
+<lb n="24"/><expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> intellectus. <num n="7">Septimum</num> <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> sapientię. 
+<lb n="25"/><add place="inline" resp="later-hand"><milestone rend="paraph" unit="section"/></add><label place="left" type="later-hand"><num n="7">7</num> uirtutes</label>Deinde <num n="4">quarto</num> loco succedunt <num n="7">.vii.</num> uirtutes. <num n="1">prima</num> 
+<lb n="26"/>paupertas <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> humilitas. <num n="2">Secunda</num> mansue
+<lb n="27" break="no"/>tudo siue benignitas. <num n="3">Tercia</num> compunctio siue 
+<lb n="28"/>dolor. <num n="4">Quarta</num> esuries iusticię siue desiderium 
+<lb n="29"/>bonum. <num n="5">Quinta</num> misericordia. <num n="6">Sexta</num> cordis mundi
+<lb n="30" break="no"/>cia. <num n="7">Septima</num> pax. <label place="left" type="later-hand" rend="underline"><num n="7">7</num> beatitudines</label><add place="inline" resp="later-hand"><milestone rend="paraph" unit="section"/></add>Nouissime <num n="5">quinto</num> loco dispo
+<lb n="31" break="no"/>nuntur <num n="7">.vii.</num> beatitudines. <num n="1">Prima</num> regnum cęlorum. 
+<lb n="32"/><num n="2">Secunda</num> possessio terrę uiuentium. <num n="3">Tercia</num> con
+<lb n="33" break="no"/>solatio. <num n="4">Quarta</num> iusticię sacietas. <num n="5">Quinta</num> misericordia. 
+<lb n="34"/><num n="6">Sexta</num> uisio dei. <num n="7">Septima</num> filiatio dei. <add place="inline" resp="later-hand"><milestone rend="paraph" unit="section"/></add>Hec ita 
+<lb n="35"/><metamark function="flag"/><num n="1">primo</num> loco distingue<g ref="#f161">⸵</g> ut intelligas ipsa uicia 
+<lb n="36"/>quasi quosdam<!-- 'esse' add. Inst. --> animę languores. siue uulnera 
+<lb n="37"/>interioris hominis. Ipsum uero hominem 
+<lb n="38"/>quasi egrotum. <hi rend="smallcaps">m</hi>edicum deum. Dona sancti 
+<lb n="39"/><expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> antidotum. Virtutes sanitatem. Beati
+<lb n="40" break="no"/>tudines felicitatis gaudium. Sunt ergo <num n="7">sep
+<lb n="41" break="no"/>tem</num> uicia capitalia siue principalia et ex<reg> </reg>his 
+<lb n="42"/>uniuersa mala oriuntur. Hi sunt fontes abyssi 
+<cb n="b"/>
+<lb n="1"/>tenebrose. de quibus flumina <placeName>babilonis</placeName> exeunt. 
+<lb n="2"/>et in<reg> </reg>omnem terram deducta. stillicidia iniqui
+<lb n="3" break="no"/>tatis<!-- -tatum Inst. --> diffundunt. De quibus fluminibus psalmi
+<lb n="4" break="no"/>sta in persona populi fidelis cecinit dicens. <quote source="Bible.Vul:Ps.136.1–136.2">Super 
+<lb n="5"/>flumina <placeName>babylonis</placeName> illic sedimus et fleuimus. 
+<lb n="6"/>dum recordaremur <placeName>syon</placeName>. In salicibus in<reg> </reg>medio 
+<lb n="7"/>eius <expan><am>.</am>s<am>.</am><ex>uspendimus</ex> o<am>.</am><ex>rgana</ex> n<am>.</am><ex>ostra</ex></expan>.</quote> <label place="right" type="later-hand">De <unclear>uiciis.</unclear>.</label>De his igitur <num n="7">.vii.</num> uiciis uastatoribus et uni
+<lb n="8" break="no"/>uersam nature integritatem corrumpentibus si
+<lb n="9" break="no"/>mulque malorum omnium germina producenti
+<lb n="10" break="no"/>bus. quantum ad presens negotium explican
+<lb n="11" break="no"/>dum sufficere putamus. loquemur. <add place="right" resp="light-hand"><milestone rend="paraph" unit="section"/></add><num n="7">Septem</num> 
+<lb n="12"/>ergo sunt. et ex<reg> </reg>his <num n="3">tria</num> hominem expoliant. 
+<lb n="13"/><num n="4">Quartum</num> expoliatum flagellat. <num n="5">Quintum</num> fla
+<lb n="14" break="no"/>gellatum eicit. <num n="6">Sextum</num> eiectum seducit. 
+<lb n="15"/><num n="7">Septimum</num> <add place="inline" resp="later-hand">s</add>eductum seruituti subicit. Su
+<lb n="16" break="no"/>perbia enim aufert homini deum. Inuidia aufert 
+<lb n="17"/>ei proximum. Ira aufert ei seipsum. Tristicia 
+<lb n="18"/>spoliatum flagellat. Auaricia flagellatum eicit. 
+<lb n="19"/>Gula eiectum seducit. Luxuria seductum serui
+<lb n="20" break="no"/>tuti subicit. Nunc reuertentes singula per<reg> </reg>ordinem<!-- per ordinem singula Inst. --> 
+<lb n="21"/>explanemus. Diximus quod superbia aufert ho
+<lb n="22" break="no"/>mini deum. <label place="right" type="later-hand"><num n="1">.1.</num></label>Superbia namque est amor proprię 
+<lb n="23"/>excellentię. quando mens <seg source="Bible.Vul:Luke.12.19">bonum quod habet</seg> 
+<lb n="24"/>singulariter diligit <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> sine eo a quo bonum ac
+<lb n="25" break="no"/>cepit. O pestifera superbia quid agis? Cur sua
+<lb n="26" break="no"/>des riuulo ut se a fonte diuidat? Cur suades 
+<lb n="27"/>radio ut se a<reg> </reg>sole auertat? Cur nisi ut et ille 
+<lb n="28"/>dum infundi desinit arescat. et iste dum ab 
+<choice><sic><lb break="no" n="29"/></sic><reg><lb n="29"/></reg></choice>illuminante se<!-- Baron suppresses 'se', and indicates that this is the only MS that includes the reading, but it could work if the verb is taken as deponent (cf. DMLBS s.v. *2 avertere* 2); and in some ways it makes more sense, since the point is that it turns itself away, not that it is turned away by an external force. --> auertitur tenebrosus fiat. uterque 
+<lb n="30"/>uero dum accipere cessat id quod necdum habet. 
+<lb n="31"/>continuo illud eciam quod habet amittat. Hoc pro
+<lb n="32" break="no"/>fecto tu agis cum doces donum extra datorem 
+<lb n="33"/>diligere ut qui partem boni quod ab<reg> </reg>illo datum est 
+<lb n="34"/>peruerse sibi uendicat. totum bonum quod in 
+<choice><sic><lb n="35" break="no"/></sic><reg><lb n="35"/></reg></choice>illo est amittat. Sicque fiat ut nec id quod habet uti
+<lb n="36" break="no"/>liter habere possit. dum illud in<reg> </reg>eo a<reg> </reg>quo habet non 
+<choice><sic><lb n="37" break="no"/></sic><reg><lb n="37"/></reg></choice>diligit. <metamark function="flag"/>Sicut enim omne bonum ueraciter 
+<lb n="38"/>a<reg> </reg>deo est. ita nullum bonum extra deum utiliter 
+<lb n="39"/>haberi potest. Immo uero per<reg> </reg>hoc idipsum quod 
+<lb n="40"/>habetur amittitur. quod in<reg> </reg>eo et cum eo a<reg> </reg>quo 
+<lb n="41"/>habetur non amatur. Nam quicumque non nouit 
+<lb n="42"/>nisi hoc quod habet bonum in<reg> </reg>semetipso diligere. 
+<pb n="211r"/>
+<cb n="a"/>
+<lb n="1"/>necesse est ut dum in<reg> </reg>altero bonum quod non habet 
+<lb n="2"/>aspexerit<g ref="#f161">⸵</g> tanto amarius sua eum imperfectio 
+<lb n="3"/>torqueat<g ref="#f161">⸵</g> quanto eum in<reg> </reg>quo omne bonum con
+<lb n="4" break="no"/>sistit non amat. Et<reg> </reg>idcirco superbiam semper <label place="left" type="later-hand"><num n="2">2</num></label>inui
+<lb n="5" break="no"/>dia sequitur. quia qui illic amorem non figit ubi 
+<lb n="6"/>omne bonum est quantum de suo peruerse ex
+<lb n="7" break="no"/>tollitur. tanto grauius de<reg> </reg>bono alieno torquetur. 
+<lb n="8"/>Sua igitur elationi iustissime pena deputata est 
+<lb n="9"/>ipsa quam de se gignit inuidia. que quia com
+<lb n="10" break="no"/>mune omnium bonum diligere noluit<g ref="#f161">⸵</g> recte 
+<lb n="11"/>nunc boni alieni liuore tabescit. Quam profecto 
+<lb n="12"/>aliene felicitatis successus non ureret. si illum 
+<lb n="13"/>in<reg> </reg>quo omne bonum est per<reg> </reg>amorem possideret. 
+<lb n="14"/><metamark function="flag" place="left"/>Nec e<add place="overstrike">nim</add> alienum a<reg> </reg>se iudicaret bonum al
+<lb n="15" break="no"/>terius.<!-- b. alterius i. alienum Inst. --> si suum ibi diligeret. ubi et suum et al
+<lb n="16" break="no"/>terius bonum simul possideret. Nunc ergo quantum 
+<lb n="17"/>s<add place="overstrike">e</add> per<reg> </reg>elationem contra<!-- 'extra' Inst. --> creatorem extollit tantum 
+<lb n="18"/>per<reg> </reg>liuorem sub<reg> </reg>proximo cadit. et quantum ibi 
+<lb n="19"/>fallaciter erigitur. tantum hic ueraciter pre
+<lb n="20" break="no"/>cipitatur. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>ed</ex></expan> neque hic sistere potest semel cepta 
+<lb n="21"/>corruptio. Mox enim ut de superbia inuidia 
+<lb n="22"/>nata fuerit<g ref="#f161">⸵</g> iram ipsa de se parit. <label place="left" type="later-hand"><num n="3">3</num></label>Quia miser 
+<lb n="23"/>animus propterea iam sibi ipsi de sua imperfec
+<lb n="24" break="no"/>tione i<add place="overstrike">ra</add>scitur. <metamark function="flag"/>quia de bono alterius per<reg> </reg>carita
+<lb n="25" break="no"/>tem non letatur. Atque ideo id eciam quod habet. sibi<!-- 'ipsi' Inst./Baron (not in apparatus) and Samuel Presbiter --> 
+<lb n="26"/>displicere incipit quoniam in alio<!-- 'alieno' Inst. --> id quod habere 
+<lb n="27"/>non potest agnoscit. Qui ergo per<reg> </reg>caritatem in<reg> </reg>deo 
+<lb n="28"/>totum habere potuit. id eciam quod per<reg> </reg>elationem 
+<lb n="29"/>extra deum habere conabatur<!-- 'conatur' Inst. --> per<reg> </reg>inuidiam et iram 
+<lb n="30"/>amittit. quia postquam per superbiam deum amit
+<lb n="31" break="no"/>tit<!-- 'perdiderit' Inst. --><g ref="#f161">⸵</g> per<reg> </reg>inuidiam perdit proximum. et per<reg> </reg>iram se
+<lb n="32" break="no"/>metipsum. Quia igitur omnibus amissis nichil super
+<choice><orig><lb n="33"/></orig><reg><lb break="no" n="33"/></reg></choice>est unde gaudeat infelix conscientia per<reg> </reg>tristiciam 
+<lb n="34"/>in<reg> </reg>semetipsa colliditur. et quę de alieno bono pie 
+<lb n="35"/>letari noluit<g ref="#f161">⸵</g> de suo malo iuste cruciatur. Post 
+<lb n="36"/>superbiam ergo et inuidiam et iram que hominem 
+<lb n="37"/><label place="left" type="later-hand"><num n="4">4</num></label>spoliant continuo tristicia sequitur quę nu
+<lb n="38" break="no"/>datum flagellat. <label place="left" type="later-hand"><num n="5">.5.</num></label>Cui deinde succedit auaricia 
+<lb n="39"/>quę flagellatum eicit. quia interno gaudio 
+<lb n="40"/>amisso<g ref="#f161">⸵</g> foris consolationem querere compellit. 
+<lb n="41"/><label place="left" type="later-hand"><subst><del><num n="5">5</num></del><add place="overstrike"><num n="6">6</num></add></subst></label>Postea accedit gula quę eiectum seducit<g ref="#f161">⸵</g> quia 
+<lb n="42"/>animum exterioribus inhiantem hoc uitium imprimis 
+<cb n="b"/>
+<lb n="1"/>quasi e<reg> </reg>uicino temptans per ipsum naturalem ap
+<lb n="2" break="no"/>petitum ad<reg> </reg>excessum illicit. <label place="right" type="later-hand"><num n="7">7</num></label>Postremo superuenit 
+<lb n="3"/>luxuria. quę seductum uiolenter seruituti 
+<lb n="4"/>subicit. quia postquam caro per<reg> </reg>crapulam inflam
+<lb n="5" break="no"/>mata est ardorem libidinis superuenientem 
+<lb n="6"/>emollitus atque eneruiter resolutus animus 
+<lb n="7"/>uincere non potest. Seruit igitur seuissime domi
+<lb n="8" break="no"/>nationi mens turpiter subacta. et<reg> </reg>nisi exorata 
+<lb n="9"/>subueniat saluatoris pietas non erit iam unde cap
+<lb n="10" break="no"/>tiuo seruienti amissa restituatur libertas. 
+<lb n="11"/><add place="inline"><milestone rend="paraph" unit="section"/></add><label place="right" type="later-hand" rend="underline">de peticionibus.</label>Sequuntur itaque <num n="7">.vii.</num> peticiones contra <num n="7">.vii.</num> 
+<lb n="12"/>uicia quibus ille oratur ut subueniat. qui nos 
+<lb n="13"/>et orare docuit. et quod orantibus <expan><abbr>sp</abbr><ex>iritu</ex><abbr>m</abbr></expan> bonum 
+<lb n="14"/>ad<reg> </reg>sananda uulnera nostra et ad<reg> </reg>soluendum iu
+<lb n="15" break="no"/>gum captiuitatis nostre daturus esset promisit. 
+<lb n="16"/><expan><abbr>S<am>&#xA76B;</am></abbr><ex>ed</ex></expan> nos antequam ad explanationem harum 
+<lb n="17"/>ueniamus prius uolumus alia adhuc simi
+<lb n="18" break="no"/>litudine demonstrare quantam in nobis cor
+<lb n="19" break="no"/>ruptionem supradicta uitia generent. ut quanto 
+<lb n="20"/>periculosior languor ostenditur<g ref="#f161">⸵</g> tanto magis 
+<lb n="21"/>necessaria medicina comprobetur. <metamark function="flag"/>Per superbiam 
+<lb n="22"/>igitur cor inflatur. per inuidiam arescit. per iram 
+<lb n="23"/>crepat. per tristiciam conteritur. et quasi in 
+<choice><sic><lb n="24" break="no"/></sic><reg><lb n="24"/></reg></choice>puluerem redigitur. per<reg> </reg>auariciam dispergitur. 
+<lb n="25"/>per gulam inficitur et quasi humectatur<reg>.</reg> per 
+<choice><sic><lb n="26" break="no"/></sic><reg><lb n="26"/></reg></choice>luxuriam conculcatur et in lutum redigitur. 
+<lb n="27"/>ita ut iam miser dicere possit. <quote source="Bible.Vul:Ps.68.3">Infixus sum 
+<lb n="28"/>in<reg> </reg>limo profundi et non est substantia.</quote> Veni in 
+<choice><sic><lb n="29" break="no"/></sic><reg><lb n="29"/></reg></choice>altitudine maris et tempestas demersit me. 
+<lb n="30"/>Cumque huic limo profundi animus fuerit infixus. 
+<lb n="31"/>et luto coinquinationis et immunditię obuo
+<lb n="32" break="no"/>lutus<g ref="#f161">⸵</g> euelli nequaquam potest nisi ad<reg> </reg>illum 
+<lb n="33"/>clamet et eius auxilium postulet. de quo psal
+<lb n="34" break="no"/>mista loquitur dicens. <quote source="Bible.Vul:Ps.39.2–39.3">Expectans expectaui 
+<lb n="35"/>dominum et intendit michi. Et exaudiuit 
+<lb n="36"/>preces meas <expan><am>.</am>et<am>.</am> e<am>.</am><ex>duxit</ex> d<am>.</am><ex>e lacu</ex> m<am>.</am><ex>iserie</ex> et<am>.</am> d<am>.</am><ex>e luto</ex> f<ex>ecis</ex></expan>.</quote> Propterea ergo<!-- 'igitur' Inst. --> 
+<lb n="37"/>ipse <quote source="Bible.Vul:Luke.11.1">nos orare docuit</quote><g ref="#f161">⸵</g> ut totum bonum nostrum 
+<lb n="38"/>ab<reg> </reg>ipso sit ut et quod petimus et quod petentes 
+<lb n="39"/>accipimus eius donum non nostrum meritum 
+<lb n="40"/>esse intelligamus. <label place="right" type="later-hand"><num n="1">.1.</num></label><num n="1">Prima</num> ergo peticio contra 
+<lb n="41"/>superbiam est. qua deo dicimus. <quote source="Bible.Vul:Matt.6.9; Bible.Vul:Luke.11.2"><hi rend="smallcaps">S</hi>anctificetur nomen 
+<lb n="42"/>tuum.</quote> Hoc enim petimus ut det nobis timere 
+<pb n="211v"/>
+<cb n="a"/>
+<lb n="1"/>et uenera<choice><sic>t</sic><corr source="#Baron1969">r</corr></choice>i nomen suum<g ref="#f161">⸵</g> quatinus ei per<reg> </reg>humili
+<lb n="2" break="no"/>tatem subiecti simus. qui per superbiam rebelles 
+<lb n="3"/>et contumaces extitimus. Huic petitioni datur 
+<lb n="4"/>donum <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> timoris domini. ut ille ad cor ue
+<lb n="5" break="no"/>niens uirtutem in eo creet humilitatis que 
+<lb n="6"/>superbię morbum sanet. quatinus ad<reg> </reg>regnum 
+<lb n="7"/>cęlorum quod angelus superbus per<reg> </reg>elationem perdidit. 
+<lb n="8"/>homo humilis peruenire possit. <label place="right" type="later-hand"><num n="2">.2.</num></label><num n="2">Secunda</num> peticio est 
+<lb n="9"/>contra inuidiam. qua dicitur. <quote source="Bible.Vul:Matt.6.10">adueniat regnum 
+<lb n="10"/>tuum.</quote> Regnum siquidem dei est salus homi
+<lb n="11" break="no"/>num. quia tunc deus in<reg> </reg>hominibus<!-- i.h.d. Inst. --> regnare di
+<lb n="12" break="no"/>citur. quando ipsi homines deo subiciuntur. 
+<lb n="13"/>et modo ei adherendo per<reg> </reg>fidem. et<reg> </reg>post inherendo 
+<lb n="14"/>per<reg> </reg>speciem. Qui<del rend="erased">d</del> ergo petit ut regnum dei adueniat. 
+<lb n="15"/>ille profecto salutem querit hominum.<!-- h.q. Inst. --> Ac per 
+<choice><sic><lb n="16" break="no"/></sic><reg><lb n="16"/></reg></choice>hoc dum pro communi omnium salute postu
+<lb n="17" break="no"/>lat. liuoris uicium se reprobare demonstrat. 
+<lb n="18"/>Huic petitioni datur <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> pietatis. ut ipse ad cor 
+<lb n="19"/>ueniens ad benignitatem illud accendat. quatinus 
+<lb n="20"/>ad eandem homo ęterne hereditatis possessionem 
+<lb n="21"/>ad<reg> </reg>quam alios peruenire cupit ipse perueniat.<!-- Cf. Matt. 5.4 --> <label place="right" type="later-hand"><num n="3">.3.</num></label><num n="3">Ter
+<lb n="22" break="no"/>cia</num> peticio est contra iram qua dicitur. <quote source="Bible.Vul:Matt.6.10">fiat uo
+<lb n="23" break="no"/>luntas tua sicut <expan><am>.</am>i<am>.</am><ex>n</ex> c<am>.</am><ex>elo</ex> et<am>.</am> i<am>.</am><ex>n</ex> t<ex>erra</ex></expan>.</quote> Non enim uult con
+<lb n="24" break="no"/>tendere qui dicit. <quote source="Bible.Vul:Matt.6.10">Fiat <expan>u<am>.</am><ex>oluntas</ex> t<ex>ua</ex></expan>.</quote> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> sibi placere indicat 
+<lb n="25"/>quicquid uoluntas dei siue in<reg> </reg>se siue in<reg> </reg>aliis secundum 
+<lb n="26"/>arbitrium sue dignationis dispensat. Huic 
+<lb n="27"/>ergo peticioni datur <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> scientię. ut ipse ad cor 
+<lb n="28"/>ueniens erudiat illud et salubriter compun
+<lb n="29" break="no"/>gat. ut sciat homo malum quod patitur ex 
+<choice><sic><lb n="30" break="no"/></sic><reg><lb n="30"/></reg></choice>sua culpa prouenire<g ref="#f161">⸵</g> si quid autem boni ha
+<lb n="31" break="no"/>buerit ex<reg> </reg>misericordia dei procedere ac per<reg> </reg>hoc discat 
+<lb n="32"/>siue in<reg> </reg>malis quę sustinet. siue in<reg> </reg>bonis quę 
+<lb n="33"/>non habet contra creatorem non irasci. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> per<reg> </reg>omnia 
+<lb n="34"/>patientiam exhibere. Optime ergo per<reg> </reg>compuncti
+<lb n="35" break="no"/>onem cordis quę spiritu scientię operante interius 
+<lb n="36"/>ex humilitate nascitur. ira et indignatio animi 
+<lb n="37"/>mitigatur. quia e<reg> </reg>conuerso <quote source="Bible.Vul:Job.5.2">stultum ira in
+<lb n="38" break="no"/>terficit</quote>. quando in<reg> </reg>aduersis per impatientię 
+<lb n="39"/>uicium agitatus atque cecatus uel malum 
+<lb n="40"/>quod patitur se meruisse<add place="inline"><unclear><g ref="#f1f9">˷</g></unclear></add> uel bonum quod habet 
+<lb n="41"/>per graciam accepisse non agnoscit. Hanc autem 
+<lb n="42"/>uirtutem <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> compunctionem siue dolorem 
+<cb n="b"/>
+<lb n="1"/>premium consolationis sequitur. ut qui se 
+<choice><sic><lb n="2" break="no"/></sic><reg><lb n="2"/></reg></choice>hic sponte coram deo per<reg> </reg>lamenta affligit<g ref="#f161">⸵</g> illic 
+<lb n="3"/>uerum gaudium et leticiam inuenire mereatur.<!-- Cf. Matt. 5.5 --> 
+<lb n="4"/><label place="left" type="later-hand"><num n="4">4</num></label><num n="4">Quarta</num> peticio est contra tristiciam qua dicitur. 
+<lb n="5"/><quote source="Bible.Vul:Matt.6.11; Bible.Vul:Luke.11.3">Panem nostrum cotidianum <expan><am>.</am>d<am>.</am><ex>a</ex> n<am>.</am><ex>obis</ex> h<ex>odie</ex></expan>.</quote> Tristicia 
+<lb n="6"/><metamark function="flag"/>namque tedium est animi cum merore quando 
+<lb n="7"/>mens quodammodo tabefacta et uitio suo amari
+<lb n="8" break="no"/>cata interna bona non appetit<g ref="#f161">⸵</g> atque omni ui
+<lb n="9" break="no"/>gore e<reg> </reg>mortuo nullo spiritualis refectionis desiderio 
+<lb n="10"/>hilarescit. Propterea ad<reg> </reg>sanandum hoc uicium 
+<lb n="11"/>deprecari nos oportet misericordiam domini. ut 
+<lb n="12"/>ipse solita pietate animę tedio<add place="inline"> </add>suo languenti 
+<lb n="13"/>interne refectionis pabulum admoueat. ut quod 
+<lb n="14"/>ipsa absens nescit appetere. gustu presentis 
+<lb n="15"/>ammonita incipiat amare. Datur ergo huic peti
+<lb n="16" break="no"/>cioni <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> fortitudinis ut fatiscentem animam 
+<lb n="17"/>erigat<g ref="#f161">⸵</g> quatinus illa pristini uigoris uirtute 
+<lb n="18"/>recepta a<reg> </reg>defectu sui tedii ad desiderium interni 
+<lb n="19"/>saporis conualescat. Creat ergo <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> fortitudinis 
+<lb n="20"/>in<reg> </reg>corde famem iusticie ut dum hic per desiderium 
+<lb n="21"/>pietatis fortiter accenditur. illic pro<reg> </reg>premio ple
+<lb n="22" break="no"/>nam beatitudinis sacietatem consequatur.<!-- Cf. Matt. 5.6 --> 
+<lb n="23"/><label place="left" type="later-hand"><num n="5">.5.</num></label><num n="5">Quinta</num> peticio est contra auariciam. qua dicitur. 
+<lb n="24"/><quote source="Bible.Vul:Matt.6.12">Dimitte nobis debita nostra <expan>s<am>.</am><ex>icut</ex> et<am>.</am> n<am>.</am><ex>os</ex> d<am>.</am><ex>imittimus</ex> d<am>.</am><ex>ebitoribus</ex></expan> nostris</quote>. 
+<lb n="25"/>Iustum enim est ut in<reg> </reg>reddendo debito non 
+<lb n="26"/>debeat esse anxius qui in<reg> </reg>exigendo noluerit esse 
+<lb n="27"/>auarus.<!-- amarus Inst. --> Atque ideo cum a<reg> </reg>nobis per<reg> </reg>dei graciam 
+<lb n="28"/>uicium auaricię tollitur<g ref="#f161">⸵</g> qualiter a<reg> </reg>nostro debito 
+<lb n="29"/>absolui debeamus ex<reg> </reg>proposita salutis conditi
+<lb n="30" break="no"/>one donatur.<!-- 'docetur' Baron/Inst.; oddly, he notes that 'donatur' is a reading in his MSS Va H L, implying that 'docetur' is in this MS, which it certainly isn't --> Huic ergo petitioni datur <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> consilii 
+<lb n="31"/>qui doceat nos in<reg> </reg>hoc seculo libenter peccan
+<lb n="32" break="no"/>tibus in nos misericordiam impendere quatinus in 
+<choice><sic><lb n="33" break="no"/></sic><reg><lb n="33"/></reg></choice>futuro cum pro peccatis nostris rationem reddituri sumus 
+<lb n="34"/>mereamur misericordiam inuenire.<!-- Cf. Matt. 5.7 --> <label place="left" type="later-hand"><num n="6">.6.</num></label><num n="6">Sexta</num> peticio est 
+<lb n="35"/>contra <del rend="erased">re</del>gulam qua dicitur. <quote source="Bible.Vul:Matt.6.13; Bible.Vul:Luke.11.4">Ne nos inducas</quote> 
+<lb n="36"/><add place="overstrike"><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan></add> <del rend="strikethrough">tempt<am>&#x33E;</am>. </del>induci permittas <quote source="Bible.Vul:Matt.6.13; Bible.Vul:Luke.11.4">in <expan><am>.</am>t<ex>emptationem</ex></expan>.</quote> Hec est tempta
+<lb n="37" break="no"/>tio qua nos illecebra carnis sepe per naturalem 
+<lb n="38"/>appetitum ad excessum trahere nititur<g ref="#f161">⸵</g> et la
+<lb n="39" break="no"/>tenter uoluptatem subicit. dum manifeste 
+<lb n="40"/>nobis de necessitate blanditur. <metamark function="flag" place="right"/>In<reg> </reg>quam profecto 
+<lb n="41"/>temptationem tunc nequaquam inducimur 
+<lb n="42"/>si sic studemus secundum mensuram necessitatis 
+<fw place="bottom" type="catch">nature</fw>
+<gb/>
+<pb n="212r"/>
+<cb n="a"/>
+<lb n="1"/>naturę subsidium impendere. ut tamen semper 
+<lb n="2"/>meminerimus appetitum ab<reg> </reg>illecebra uolup
+<lb n="3" break="no"/>tatis cohercere. Quod ut implere ualeamus<g ref="#f161">⸵</g> 
+<lb n="4"/>datur nobis petentibus <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> intelligentie. ut in
+<lb n="5" break="no"/>terna refectio uerbi dei appetitum exteriorem 
+<lb n="6"/>cohibeat. et<reg> </reg>mentem spiritali cibo roboratam nec 
+<lb n="7"/>ualeat corporalis egestas frangere. nec carnis 
+<lb n="8"/>uoluptas superare. Propterea namque et<reg> </reg>ipse <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> 
+<lb n="9"/>temptatori suo dum esurienti sibi fraudulentam 
+<lb n="10"/>de exterioris panis refectione suggestionem face
+<lb n="11" break="no"/>ret<g ref="#f161">⸵</g> respondit dicens. <quote source="Bible.Vul:Matt.4.4">Non in<reg> </reg>solo pane uiuit homo. 
+<lb n="12"/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> in <expan><am>.</am>o<am>.</am><ex>mni</ex> u<am>.</am><ex>erbo</ex> q<am>.</am><ex>uod</ex> p<am>.</am><ex>rocedit</ex> ab<am>.</am><!-- 'de' Inst. (in app. Baron) --> o<am>.</am><ex>re</ex></expan> dei.</quote> ut aperte demonstraret. 
+<lb n="13"/><metamark function="flag" place="left"/>quia cum mens illo interius pane reficitur. 
+<lb n="14"/>non magnopere curat si foris ad<reg> </reg>tempus famem 
+<lb n="15"/>carnis patiatur. Datur ergo contra gulam <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> 
+<lb n="16"/>intelligentię. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> ille ad<reg> </reg>cor ueniens emundat 
+<lb n="17"/>illud atque purificat. et illum interiorem ocu
+<lb n="18" break="no"/>lum cognitione uerbi dei quasi quodam col
+<lb n="19" break="no"/>lirio sanans eo usque luminosum atque serenum 
+<lb n="20"/>efficit<g ref="#f161">⸵</g> ut ad<reg> </reg>ipsam eciam deitatis claritatem 
+<lb n="21"/>contemplandam perspicax fiat. Contra uicium 
+<lb n="22"/>igitur gule<!-- g.u.i. Inst. --> remedium opponitur <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> intelli
+<lb n="23" break="no"/>gentię. Ex spiritu autem intelligentię. mundi
+<lb n="24" break="no"/>cia cordis nascitur. Munditia uero cordis. 
+<lb n="25"/>uisionem dei promeretur. Sicut scriptum est. <quote source="Bible.Vul:Matt.5.8">Beati 
+<lb n="26"/>mundo corde.<!-- It appears to me that this is functioning as punctuation rather than (or as well as) simply marking the abbreviation. --> <expan>q<am>.</am><ex>uoniam</ex> i<am>.</am><ex>psi</ex> d<am>.</am><ex>eum</ex> u<am>.</am><ex>idebunt</ex></expan>.</quote> <label place="left" type="later-hand"><num n="7">.7.</num></label><num n="7">Septima</num> peticio est contra 
+<lb n="27"/>luxuriam. qua dicitur. <quote source="Bible.Vul:Matt.6.13">libera nos a malo.</quote> Conueni
+<lb n="28" break="no"/>enter sane seruus libertatem petit. et iccirco 
+<lb n="29"/>huic petitioni datur <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> sapientię qui amissam 
+<lb n="30"/>captiuo libertatem restituat et iugum inique 
+<lb n="31"/>dominationis quod suis uiribus ille non ualuit 
+<lb n="32"/>per<reg> </reg>graciam adiutus euadat. <mentioned>Sapientia</mentioned> namque a 
+<choice><sic><lb n="33" break="no"/></sic><reg><lb n="33"/></reg></choice>sapore dicitur. cum mens gustu internę dulce
+<lb n="34" break="no"/>dinis tacta totam se per<reg> </reg>desiderium intus colli
+<lb n="35" break="no"/>git. nec foris iam eneruiter in<reg> </reg>carnis uoluptate<!-- 'uoluptatem' Inst. and Samuel Presbiter --> 
+<lb n="36"/>dissoluitur. quia totum intus possidet in<reg> </reg>quo de
+<lb n="37" break="no"/>lectatur. Congrue igitur contra exteriorem uolupta
+<lb n="38" break="no"/>tem interior dulcedo opponitur ut quanto illa 
+<lb n="39"/>plus sapere et placere inceperit<g ref="#f161">⸵</g> tanto liberius atque 
+<lb n="40"/>libentius ista contempnatur. tandemque pacificata in<reg> </reg>semet
+<lb n="41" break="no"/><metamark function="flag" place="left"/>ipsa mens pacificata<!-- om. Inst. --> dum nichil est quod foris ap
+<lb n="42" break="no"/>petat. tota per amorem intus requiescat. <expan><abbr>Sp<am>c</am></abbr><ex>iritus</ex></expan> ergo 
+<cb n="b"/>
+<lb n="1"/>sapientię cor sua dulcedine tangens et foris 
+<lb n="2"/>concupiscentię ardorem temperat. et sopita con
+<lb n="3" break="no"/>cupiscentia intus pacem creat. quatinus dum 
+<lb n="4"/>mens tota ad<reg> </reg>internum gaudium colligitur. 
+<lb n="5"/>plene ac perfecte homo ad<reg> </reg>imaginem dei refor
+<lb n="6" break="no"/>metur sicut scriptum est. <quote source="Bible.Vul:Matt.5.9">Beati pacifici. quoniam ipsi 
+<lb n="7"/><expan><am>.</am>f<am>.</am><ex>ilii</ex> d<am>.</am><ex>ei</ex> u<am>.</am><ex>ocabuntur</ex></expan>.</quote> Ecce frater peticionem tuam non qualiter de
+<lb n="8" break="no"/>bui. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> qualiter interim potui adimpleui. 
+<lb n="9"/>Accipe munusculum. de <num n="5">.v.</num> septenis quod 
+<lb n="10"/>postulasti. et cum illud respexeris<g ref="#f161">⸵</g> memento 
+<lb n="11"/>mei. <hi rend="smallcaps">Gracia dei sit tecum. Amen.</hi> <note place="right" resp="alt-hand">finis</note>
+</p>
+</body>
+</text>
 </TEI>
