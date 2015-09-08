@@ -78,32 +78,32 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lg>
 <lb/><l><hi rend="enlarged red trim-blue">Q</hi><hi rend="smallcaps">u</hi>i non consiliis abiit que suasit iniquus.</l>
 <lb/><l><hi rend="enlarged">P</hi>eccantumque via qui non stetit atque cathedra<del rend="erased">.</del></l>
-<lb/><l><hi rend="enlarged">P</hi>estis non sedit<g ref="#f161">⸵</g> hic dicitur esse beatus.</l>
-<lb/><l><hi rend="enlarged">I</hi>lli consiliis abierunt impietatis<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">P</hi>estis non sedit⸵ hic dicitur esse beatus.</l>
+<lb/><l><hi rend="enlarged">I</hi>lli consiliis abierunt impietatis⸵</l>
 <lb/><l><hi rend="enlarged">Q</hi>uos aduersantum fidei suggestio praua<del rend="erased">.</del></l>
 <lb/><l><hi rend="enlarged">Q</hi>ue sunt <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>colis credenda relinquere fecit.</l>
-<lb/><l><hi rend="enlarged">P</hi>eccantumque uia stetit hic qui firmiter hesit<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">P</hi>eccantumque uia stetit hic qui firmiter hesit⸵</l>
 <lb/><l><hi rend="enlarged">P</hi>eccatis. nomen fidei tantum retinendo.</l>
-<lb/><l><hi rend="enlarged">A</hi>ssociatus eis qui tantum voce fatentur<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">A</hi>ssociatus eis qui tantum voce fatentur⸵</l>
 <lb/><l><persName><expan><abbr><am rend="enlarged">X</am><am><g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName>. <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>Christ</ex><abbr>i</abbr></expan></persName>cole tantummodo nomine. non re.</l>
-<lb/><l><hi rend="enlarged">Q</hi>uique superbiuit<g ref="#f161">⸵</g> pestis cathedra male sedit.</l>
+<lb/><l><hi rend="enlarged">Q</hi>uique superbiuit⸵ pestis cathedra male sedit.</l>
 </lg>
 <lg>
-<lb/><milestone unit="section" rend="paraph blue"/><l><hi rend="enlarged">H</hi>ic qui peccatis consensit abiuit inepte<g ref="#f161">⸵</g></l>
-<lb/><l><hi rend="enlarged">T</hi>ramite iusticie. dum consensit quod iniquus<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
-<lb/><l><hi rend="enlarged">H</hi>ostis suggessit. vel homo suadens mala. siue<g ref="#f161">⸵</g></l>
+<lb/><milestone unit="section" rend="paraph blue"/><l><hi rend="enlarged">H</hi>ic qui peccatis consensit abiuit inepte⸵</l>
+<lb/><l><hi rend="enlarged">T</hi>ramite iusticie. dum consensit quod iniquus<subst><del>.</del><add place="inline">⸵</add></subst></l>
+<lb/><l><hi rend="enlarged">H</hi>ostis suggessit. vel homo suadens mala. siue⸵</l>
 <lb/><l><hi rend="enlarged">C</hi>arnalis sensus. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> qui peccata peregit.</l>
-<lb/><l><hi rend="enlarged">A</hi>ssuetudine siue mala fi<supplied reason="omitted" resp="#Dinkova-Bruun2009">r</supplied>matur in<reg> </reg>illis<g ref="#f161">⸵</g></l>
-<lb/><l><hi rend="enlarged">P</hi>eccati stetit ipse uia. pestisque cathedra<g ref="#f161">⸵</g></l>
-<lb/><l><hi rend="enlarged">S</hi>edit<del rend="erased">.</del> prefectus aliis. qui scandala prauis<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">A</hi>ssuetudine siue mala fi<supplied reason="omitted" resp="#Dinkova-Bruun2009">r</supplied>matur in<reg> </reg>illis⸵</l>
+<lb/><l><hi rend="enlarged">P</hi>eccati stetit ipse uia. pestisque cathedra⸵</l>
+<lb/><l><hi rend="enlarged">S</hi>edit<del rend="erased">.</del> prefectus aliis. qui scandala prauis⸵</l>
 <lb/><l><hi rend="enlarged">I</hi>ntulit exemplis. nocuitque thyrannide multis.</l>
-<lb/><l><handShift/><hi rend="enlarged">S</hi>ede mala <handShift/>sedit male <add place="above"><handShift/>qui <handShift/></add>requieuit in illis<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
+<lb/><l><handShift/><hi rend="enlarged">S</hi>ede mala <handShift/>sedit male <add place="above"><handShift/>qui <handShift/></add>requieuit in illis<subst><del>.</del><add place="inline">⸵</add></subst></l>
 <lb/><l><hi rend="enlarged">Q</hi>ue praue gessit male delectatus in ipsis<g ref="#f1e2">,</g></l>
 <lb/><l><hi rend="enlarged">N</hi>on per que fieret correctio surgere curans.</l>
 </lg>
 <lg>
-<lb/><l><hi rend="enlarged">P</hi>estifera cathedra sedit qui pernicios<add place="inline">am<g ref="#f161">⸵</g></add></l>
-<lb/><l><hi rend="enlarged">D</hi>octrinam docuit. et qui mund<choice><sic>o</sic><corr resp="#Dinkova-Bruun2009">i</corr></choice> male regnum<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">P</hi>estifera cathedra sedit qui pernicios<add place="inline">am⸵</add></l>
+<lb/><l><hi rend="enlarged">D</hi>octrinam docuit. et qui mund<choice><sic>o</sic><corr resp="#Dinkova-Bruun2009">i</corr></choice> male regnum⸵</l>
 <pb n="1v"/>
 <lb/><l><hi rend="enlarged">A</hi>ppetiit. qui se nimis extulit in<reg> </reg>dominando.</l>
 </lg>
@@ -111,56 +111,56 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <div n="2" subtype="section" type="textpart">
 <lb/><head rend="red">In cathedra derisorum non sed<del rend="erased"><unclear>i</unclear></del>it</head>
 <lg>
-<lb/><milestone unit="section" rend="paraph red"/><l><hi rend="enlarged">I</hi>n derisorum cathedra plerique malorum<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
+<lb/><milestone unit="section" rend="paraph red"/><l><hi rend="enlarged">I</hi>n derisorum cathedra plerique malorum<subst><del>.</del><add place="inline">⸵</add></subst></l>
 <lb/><l><hi rend="enlarged">S</hi>ederunt. per<reg> </reg>quos derisio facta uidetur.</l>
-<lb/><l><hi rend="enlarged">C</hi>um prefecti sint aliis. se profiteantur<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
+<lb/><l><hi rend="enlarged">C</hi>um prefecti sint aliis. se profiteantur<subst><del>.</del><add place="inline">⸵</add></subst></l>
 <lb/><l><hi rend="enlarged">P</hi>lebi prelatos. et sit sua uana cathedra.</l>
-<lb/><l><hi rend="enlarged">C</hi>um non obseruent que pertineant ad honorem<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
+<lb/><l><hi rend="enlarged">C</hi>um non obseruent que pertineant ad honorem<subst><del>.</del><add place="inline">⸵</add></subst></l>
 <lb/><l><hi rend="enlarged">H</hi>uius. rectorem si<reg> </reg>quis se profiteatur<del rend="erased">.</del></l>
 <lb/><l><hi rend="enlarged">E</hi>sse super populum. non attendens ea que sunt<!-- Hope there's no punctuation hiding under that fold. --></l>
-<lb/><l><hi rend="enlarged">A</hi>d regimen populi<g ref="#f161">⸵</g> derisor <surplus resp="#Dinkova-Bruun2009">hic. </surplus>est. reputandus.</l>
+<lb/><l><hi rend="enlarged">A</hi>d regimen populi⸵ derisor <surplus resp="#Dinkova-Bruun2009">hic. </surplus>est. reputandus.</l>
 <lb/><l><hi rend="enlarged">C</hi>um talem qualis non est. se nominet ipse.</l>
 </lg>
 <lg>
-<lb/><milestone unit="section" rend="paraph blue"/><l><hi rend="enlarged">H</hi>ec derisorum dicenda cathedra uidetur<g ref="#f161">⸵</g></l>
+<lb/><milestone unit="section" rend="paraph blue"/><l><hi rend="enlarged">H</hi>ec derisorum dicenda cathedra uidetur⸵</l>
 <lb/><l><hi rend="enlarged">Q</hi>ua per<reg> </reg>sessores stultos derisus habetur.</l>
 <lb/><l><hi rend="enlarged">D</hi>e quibus indignis derisio sit facienda.</l>
-<lb/><l><hi rend="enlarged">H</hi>i sunt derisu digni qui preficiuntur<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">H</hi>i sunt derisu digni qui preficiuntur⸵</l>
 <lb/><l><hi rend="enlarged">P</hi>lebi. quando suam prefecturam male seruant.</l>
 </lg>
 <lg>
-<lb/><milestone unit="section" rend="paraph red"/><l><hi rend="enlarged">I</hi>n cathedra stulte derisorum sedet ille<g ref="#f161">⸵</g></l>
+<lb/><milestone unit="section" rend="paraph red"/><l><hi rend="enlarged">I</hi>n cathedra stulte derisorum sedet ille⸵</l>
 <lb/><l><hi rend="enlarged">I</hi>nter ridentes alios quicumque moratur.</l>
 <lb/><l><hi rend="enlarged">A</hi>c assensor eis alios deridet inique.</l>
 </lg>
 <lg>
-<lb/><milestone unit="section" rend="paraph blue"/><l><hi rend="enlarged">E</hi>cclesia quidam sublimati male tractant<g ref="#f161">⸵</g></l>
-<lb/><l><hi rend="enlarged">E</hi>cclesie bona. que non dignis distribuentes<g ref="#f161">⸵</g></l>
-<lb/><l><hi rend="enlarged">N</hi>on quos approbet omnipotens homines vel honesti<g ref="#f161">⸵</g></l>
-<lb/><l><hi rend="enlarged">A</hi>ttendunt. nec qui sint in<reg> </reg>bona suscipiendi<g ref="#f161">⸵</g></l>
+<lb/><milestone unit="section" rend="paraph blue"/><l><hi rend="enlarged">E</hi>cclesia quidam sublimati male tractant⸵</l>
+<lb/><l><hi rend="enlarged">E</hi>cclesie bona. que non dignis distribuentes⸵</l>
+<lb/><l><hi rend="enlarged">N</hi>on quos approbet omnipotens homines vel honesti⸵</l>
+<lb/><l><hi rend="enlarged">A</hi>ttendunt. nec qui sint in<reg> </reg>bona suscipiendi⸵</l>
 <lb/><l><hi rend="enlarged">E</hi>cclesie. vel sublimandi. taliter ipsi</l>
-<lb/><l><hi rend="enlarged">S</hi>epe probos renuentes<del rend="erased"><g ref="#f161">⸵</g></del> suscipiunt reprobandos.</l>
+<lb/><l><hi rend="enlarged">S</hi>epe probos renuentes<del rend="erased">⸵</del> suscipiunt reprobandos.</l>
 <pb n="2r"/>
 <lb/><l><hi rend="enlarged">V</hi>el pro muneribus. aut obsequiis inhonestis.</l>
 <lb/><l><hi rend="enlarged">S</hi>iue fauoribus. aut aliis causis reprobandis.</l>
-<lb/><l><hi rend="enlarged">S</hi>icut emunt quod emi non congruit at prohibetur<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">S</hi>icut emunt quod emi non congruit at prohibetur⸵</l>
 <lb/><l><add place="interlinear"><hi rend="enlarged">S</hi>ic aliis uendunt ea que uendi prohibentur.</add></l>
 <lb/><l><hi rend="enlarged">A</hi>dquirunt<surplus> </surplus>q<subst><del>ue</del><add place="overstrike"><expan><am>&#xA76B;</am><ex>ue</ex></expan></add></subst> sibi cum <persName>symone</persName> perdicionem.</l>
 <lb/><l><hi rend="enlarged">N</hi>onne deum tales sic irridere uidentur</l>
 <lb/><l><hi rend="enlarged">C</hi>um sua distribuant his quos non approbat ipse?</l>
 </lg>
 <lg>
-<lb/><milestone unit="section" rend="paraph red"/><l><hi rend="enlarged">S</hi>cire uoluntatem <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan> sua distribuendo<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
-<lb/><l><hi rend="enlarged">C</hi>ontempnunt. fatuos admittunt. de quibus ipse<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
-<lb/><l><hi rend="enlarged">V</hi>t non intrent ecclesiam precepit. et inde<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
-<lb/><l><hi rend="enlarged">I</hi>mpius hostis ad ecclesie preciosa rapaces<g ref="#f161">⸵</g></l>
+<lb/><milestone unit="section" rend="paraph red"/><l><hi rend="enlarged">S</hi>cire uoluntatem <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan> sua distribuendo<subst><del>.</del><add place="inline">⸵</add></subst></l>
+<lb/><l><hi rend="enlarged">C</hi>ontempnunt. fatuos admittunt. de quibus ipse<subst><del>.</del><add place="inline">⸵</add></subst></l>
+<lb/><l><hi rend="enlarged">V</hi>t non intrent ecclesiam precepit. et inde<subst><del>.</del><add place="inline">⸵</add></subst></l>
+<lb/><l><hi rend="enlarged">I</hi>mpius hostis ad ecclesie preciosa rapaces⸵</l>
 <lb/><l><hi rend="enlarged">M</hi>ittit sepe manus. animas hominum rapiendo.</l>
-<lb/><l><hi rend="enlarged">D</hi>ispergitque gregem <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan>. varias agitan<add place="overstrike">do</add><subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
-<lb/><l><hi rend="enlarged">I</hi>n culpas plerosque graues. cum debita cura<g ref="#f161">⸵</g></l>
-<lb/><l><hi rend="enlarged">P</hi>astorum desit. cum sint gentiliter ipsi<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">D</hi>ispergitque gregem <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan>. varias agitan<add place="overstrike">do</add><subst><del>.</del><add place="inline">⸵</add></subst></l>
+<lb/><l><hi rend="enlarged">I</hi>n culpas plerosque graues. cum debita cura⸵</l>
+<lb/><l><hi rend="enlarged">P</hi>astorum desit. cum sint gentiliter ipsi⸵</l>
 <lb/><l><hi rend="enlarged">V</hi>iuentes. non ut pastores siue fideles.</l>
 <lb/><l><hi rend="enlarged">T</hi>ales expectant inter se glorificari.</l>
-<lb/><l><hi rend="enlarged">A</hi> solo querenda deo non queritur illis<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">A</hi> solo querenda deo non queritur illis⸵</l>
 <lb/><l><hi rend="enlarged">G</hi>loria. quomodo sic tales bene credere possunt?</l>
 </lg>
 <lg>
@@ -172,8 +172,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb/><l><hi rend="enlarged">N</hi>on recte plebi cupiunt sic. esse. timori</l>
 <pb n="2v"/>
 <lb/><l><hi rend="enlarged">C</hi>um sapientia deficiat per quam timeantur.</l>
-<lb/><l><hi rend="enlarged">L</hi>itibus aut ludis non conuenientibus ipsi<g ref="#f161">⸵</g></l>
-<lb/><l><hi rend="enlarged">S</hi>epius intendunt. aut fabellis. aliis<surplus> </surplus>ve<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">L</hi>itibus aut ludis non conuenientibus ipsi⸵</l>
+<lb/><l><hi rend="enlarged">S</hi>epius intendunt. aut fabellis. aliis<surplus> </surplus>ve⸵</l>
 <lb/><l><hi rend="enlarged">A</hi>d<reg> </reg>que sunt desideriis vanis male moti.<!-- uel stimulati --></l>
 <lb/><l><hi rend="enlarged">A</hi><del rend="erased">d</del>que salutiferis auertunt se documentis.</l>
 <lb/><l><hi rend="enlarged">T</hi>edet eos hec que bona sunt audire. doceri.</l>
@@ -185,47 +185,47 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb/><l><hi rend="enlarged">N</hi>onne velut nichili reputarentur spoliati</l>
 <lb/><l><hi rend="enlarged">I</hi>llis que uani commendat opinio uulgi?<!-- Beatum dixerunt popululum cui hec sunt scilicet bona temporalia --></l>
 <lb/><l><hi rend="enlarged">P</hi>ro quibus in<surplus> </surplus>dignos multos collaudat. honorat.</l>
-<lb/><l><hi rend="enlarged">N</hi>on recte. cum sit uirtuti laus tribuenda<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">N</hi>on recte. cum sit uirtuti laus tribuenda⸵</l>
 <lb/><l><hi rend="enlarged">E</hi>t non diuiciis. quibus et qui sordet habundat.</l>
-<lb/><l><hi rend="enlarged">E</hi><add place="inline">t</add> tamen hi meliores se dignosque probari<g ref="#f161">⸵</g></l>
-<lb/><l><hi rend="enlarged">D</hi>edignantur. et in quantum possunt probitatem<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">E</hi><add place="inline">t</add> tamen hi meliores se dignosque probari⸵</l>
+<lb/><l><hi rend="enlarged">D</hi>edignantur. et in quantum possunt probitatem⸵</l>
 <lb/><l><hi rend="enlarged">H</hi>orum denigrant. ut non appareat illa.</l>
 <lb/><l><hi rend="enlarged">N</hi>on his subueniunt licet illos ang<subst><del>i</del><add place="inline">a</add></subst>t egestas.</l>
-<lb/><l><hi rend="enlarged">A</hi>ssociare sibi similes in moribus ipsi<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">A</hi>ssociare sibi similes in moribus ipsi⸵</l>
 <lb/><l><hi rend="enlarged">Q</hi>uerunt. non illum qui sit corrector eorum.</l>
-<lb/><l><hi rend="enlarged">H</hi>ic grauis est. visus. illis applaudere curant<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
+<lb/><l><hi rend="enlarged">H</hi>ic grauis est. visus. illis applaudere curant<subst><del>.</del><add place="inline">⸵</add></subst></l>
 <lb/><l><hi rend="enlarged">Q</hi>ui quicquid dicant faciant<surplus> </surplus>ue probare parantur.</l>
 <lb/><l><hi rend="enlarged">E</hi>t plaudunt manibus iterantes uerba probando.</l>
-<lb/><l><hi rend="enlarged">H</hi>orum laudant obsequium. vanosque fauores<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">H</hi>orum laudant obsequium. vanosque fauores⸵</l>
 <pb n="3r"/>
-<lb/><l><hi rend="enlarged">I</hi>ocundos reputant. quos ut cito dant cito tollunt<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">I</hi>ocundos reputant. quos ut cito dant cito tollunt⸵</l>
 <lb/><l><hi rend="enlarged">S</hi>epius ex causa facili. mutantur in hora.</l>
 </lg>
 <lg>
 <lb/><milestone unit="section" rend="paraph red"/><l><hi rend="enlarged">N</hi>on ipsos homines <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> diuicias uenerantur<g ref="#f1e2">,</g></l>
 <lb/><l><hi rend="enlarged">N</hi>on amor. est. quod pretendunt <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> munera querunt.</l>
-<lb/><l><hi rend="enlarged">F</hi>ormice frumenta. lupique cadauera. musce<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
-<lb/><l><hi rend="enlarged">Q</hi>uerere mella solent. nebulones et parasiti<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">F</hi>ormice frumenta. lupique cadauera. musce<subst><del>.</del><add place="inline">⸵</add></subst></l>
+<lb/><l><hi rend="enlarged">Q</hi>uerere mella solent. nebulones et parasiti⸵</l>
 <lb/><l><hi rend="enlarged">S</hi>unt tales. qui non homines <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> dona sequuntur.</l>
-<lb/><l><hi rend="enlarged">S</hi>unt tales multi qui si quesita sequ<unclear>a</unclear>ntur<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">S</hi>unt tales multi qui si quesita sequ<unclear>a</unclear>ntur⸵</l>
 <lb/><l><hi rend="enlarged">N</hi>on curant si decidat in foueam dator horum.</l>
-<lb/><l><hi rend="enlarged">H</hi>i uerso tergo tollunt plerumque cachinnos<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">H</hi>i uerso tergo tollunt plerumque cachinnos⸵</l>
 <lb/><l><hi rend="enlarged">I</hi>n populo super hunc qui munera contulit ipsis.</l>
-<lb/><l><hi rend="enlarged">S</hi>ic infamantur per quos famam sibi querunt<subst><del>.</del><add place="inline"><g ref="#f161">⸵</g></add></subst></l>
+<lb/><l><hi rend="enlarged">S</hi>ic infamantur per quos famam sibi querunt<subst><del>.</del><add place="inline">⸵</add></subst></l>
 <lb/><l><hi rend="enlarged">E</hi>cclesie bona qui male distribuunt. aliique.</l>
 </lg>
 <lg>
 <lb/><milestone unit="section" rend="paraph blue"/><l><sic><hi rend="enlarged">S</hi>ed</sic> quia uaniloqui vario sermone quibusdam</l>
-<lb/><l><hi rend="enlarged">E</hi>xcutiunt risus<g ref="#f161">⸵</g> inadulando quoque molles</l>
-<lb/><l><hi rend="enlarged">M</hi>ulcent<g ref="#f161">⸵</g> hos inter socios numerant<add place="inline">.</add> et amicos.</l>
+<lb/><l><hi rend="enlarged">E</hi>xcutiunt risus⸵ inadulando quoque molles</l>
+<lb/><l><hi rend="enlarged">M</hi>ulcent⸵ hos inter socios numerant<add place="inline">.</add> et amicos.</l>
 <lb/><l><hi rend="enlarged">V</hi>iuere iocundum reputant cum talibus ipsi.</l>
-<lb/><l><hi rend="enlarged">P</hi>er quos est polluta domus. conuiue <expan><am>&#xA76F;</am><ex>con</ex></expan>maculantur.</l>
+<lb/><l><hi rend="enlarged">P</hi>er quos est polluta domus. conuiue <expan><am>ꝯ</am><ex>con</ex></expan>maculantur.</l>
 <lb/><l><hi rend="enlarged">T</hi>urpia dum tractant his ad mensam sociati.</l>
 <lb/><l><hi rend="enlarged">I</hi>nquirunt secreta domus vt hinc timeantur<del rend="erased">.</del></l>
-<lb/><l><hi rend="enlarged">N</hi>e<reg> </reg>que tur<add place="overstrike">pia</add> <expan><am>&#xA76F;</am><ex>con</ex></expan>gnorint aliis manifestent.</l>
-<lb/><l><hi rend="enlarged">H</hi>i quia sunt homines siquid dandum foret ipsis<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">N</hi>e<reg> </reg>que tur<add place="overstrike">pia</add> <expan><am>ꝯ</am><ex>con</ex></expan>gnorint aliis manifestent.</l>
+<lb/><l><hi rend="enlarged">H</hi>i quia sunt homines siquid dandum foret ipsis⸵</l>
 <lb/><l><hi rend="enlarged">H</hi>oc extra limen modicumque foret tribuendum.</l>
-<lb/><l><hi rend="enlarged">N</hi>on tot habundarent scurre si parua darentur<add place="inline"><g ref="#f161">⸵</g></add></l>
+<lb/><l><hi rend="enlarged">N</hi>on tot habundarent scurre si parua darentur<add place="inline">⸵</add></l>
 <pb n="3v"/>
 <lb/><l><hi rend="enlarged">I</hi>psis. si uiles fierent crebroque <surplus>que </surplus>repulsi.</l>
 <lb/><l><hi rend="enlarged">S</hi>i ioculatio que fit ab his non acciperetur.</l>
@@ -236,22 +236,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb/><milestone unit="section" rend="paraph red"/><l><hi rend="enlarged">M</hi>ultos occecat sua gloria prosperitasque.</l>
 <lb/><l><hi rend="enlarged">C</hi>ui tanquam desponsati male semper adherrent.</l>
 <lb/><l><hi rend="enlarged">H</hi>uius seruantes indiuiduum comitatum.</l>
-<lb/><l><hi rend="enlarged">Q</hi>uorum diuicie non sunt. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> diuiciarum<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">Q</hi>uorum diuicie non sunt. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> diuiciarum⸵</l>
 <lb/><l><hi rend="enlarged">I</hi>psi. cum rectos sibi non famulentur in usus.</l>
-<lb/><l><hi rend="enlarged">Q</hi>ue deus elatis opponit vt increpet illos<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">Q</hi>ue deus elatis opponit vt increpet illos⸵</l>
 <lb/><l><hi rend="enlarged">H</hi>ec tamquam dormitatnes attendere nolunt.</l>
-<lb/><l><hi rend="enlarged">V</hi>t sompnolenti. pigri. renuunt operari<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">V</hi>t sompnolenti. pigri. renuunt operari⸵</l>
 <lb/><l><hi rend="enlarged">Q</hi>ue bona sunt. ista mala ducunt otia uita.</l>
-<lb/><l><hi rend="enlarged">C</hi>um sic dormi<add place="inline">erint</add> male. p<subst><del rend="expunct">os</del><add place="inline">ost</add></subst> sompnum uigilantes<g ref="#f161">⸵</g></l>
-<lb/><l><hi rend="enlarged">I</hi>n manibus nichil inuenient. operis pietatis<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">C</hi>um sic dormi<add place="inline">erint</add> male. p<subst><del rend="expunct">os</del><add place="inline">ost</add></subst> sompnum uigilantes⸵</l>
+<lb/><l><hi rend="enlarged">I</hi>n manibus nichil inuenient. operis pietatis⸵</l>
 <lb/><l><hi rend="enlarged">E</hi>xpertes. quo fiat eis reuelatio pene.</l>
-<lb/><l><hi rend="enlarged">A</hi>ttollent oculos in penis. quos habuerunt<g ref="#f161">⸵</g></l>
+<lb/><l><hi rend="enlarged">A</hi>ttollent oculos in penis. quos habuerunt⸵</l>
 <lb/><l><hi rend="enlarged">I</hi>n culpis clausos. tunc terribilis deus illis</l>
-<lb/><l><hi rend="enlarged">A</hi>pparens<g ref="#f161">⸵</g> terrebit eos ira manifesta.</l>
+<lb/><l><hi rend="enlarged">A</hi>pparens⸵ terrebit eos ira manifesta.</l>
 <lb/><l><hi rend="enlarged">A</hi>tque potestati diuine nemo resistet.</l>
 </lg>
 <lg>
-<lb/><milestone unit="section" rend="paraph blue"/><l><hi rend="enlarged">L</hi>eticia uana delectati. male capti<g ref="#f161">⸵</g></l>
+<lb/><milestone unit="section" rend="paraph blue"/><l><hi rend="enlarged">L</hi>eticia uana delectati. male capti⸵</l>
 <lb/><l><hi rend="enlarged">P</hi>enas venturas. memorare nouissima nolunt.</l>
 <lb/><l><hi rend="enlarged">N</hi>ec curant que sint habitu<unclear>ri</unclear> premia iusti.</l>
 <lb/><l><hi rend="enlarged">E</hi>t quamuis sapientes conspiciant morientes.</l>
