@@ -121,7 +121,7 @@ This text is a transcription of Paris, Bibliothèque Mazarine, MS 717, which was
 </p>
 <normalization>
 <p>
-The @break attribute is editorial, and does not necessarily correspond to the word division implied by the hyphenation (encoded separately). An attempt has been made to record the exact word division in the manuscript, with added spaces indicated using <element>reg</element>.
+The @break attribute is editorial, and does not necessarily correspond to the word division implied by the hyphenation (encoded separately). An attempt has been made to record the exact word division in the manuscript, with added spaces indicated using 'reg'.
 </p>
 </normalization>
 </editorialDecl>
@@ -177,7 +177,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <cb n="b"/>
 <lb/>tenebrose. de qui<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> flumina <placeName>babilonis</placeName> exeunt. 
 <lb/><milestone unit="column" n="406" edRef="#PL"/><expan><am>&amp;</am><ex>et</ex></expan> in<reg> </reg>omnem terram diducta. stillicidia iniqui<pc rend="hyphen"/>
-<lb break="no"/>tatis diffundunt. De<reg> </reg>qui<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan>s flumini<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> psalmi<pc rend="hyphen"/>
+<lb break="no"/>tatis diffundunt. De<reg> </reg>qui<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> flumini<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> psalmi<pc rend="hyphen"/>
 <lb break="no"/>sta in<reg> </reg><expan><am>ꝑ</am><ex>per</ex></expan>sona populi fidelis cecinit dicens. <quote source="Bible.Vul:Ps.136.1–136.2">Su<expan><am>ꝑ</am><ex>per</ex></expan> 
 <lb/>flumina <placeName>babilonis</placeName> illic sedimus <expan><am>&amp;</am><ex>et</ex></expan> fleuimus. 
 <lb/>dum recordaremur <placeName>syon</placeName>. In salici<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> in<reg> </reg>medio 
@@ -243,7 +243,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>nata fuerit⸵ iram ipsa de se<reg> </reg>parit<hi rend="underline">.</hi> <add place="margin" hand="#B"><label>3</label></add>Quia miser 
 <lb/>animus propterea iam <expan>s<am>&#x365;</am><ex>ibi</ex></expan> ipsi de sua im<expan><am>ꝑ</am><ex>per</ex></expan>fec<pc rend="hyphen"/>
 <lb break="no"/>tione i<subst><del rend="alt"><unclear>t</unclear></del><add place="overstrike">r</add></subst>ascitur. <add place="margin" hand="#B"><metamark function="flag">⸫</metamark></add>quia de bono alterius <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>carita<pc rend="hyphen"/>
-<lb break="no"/>tem non letatur. At<expan>q<am>;</am><ex>ue</ex></expan> ideo id eciam quod <expan><abbr>h</abbr><ex>abe</ex><abbr rend="supraline">t</abbr></expan>. <expan>s<am>&#x365;</am><ex>ibi</ex></expan><!-- 'ipsi' Baron (not in apparatus) --> 
+<lb break="no"/>tem non letatur. At<expan>q<am>;</am><ex>ue</ex></expan> ideo id eciam quod <expan><abbr>h</abbr><ex>abe</ex><abbr rend="supraline">t</abbr></expan>. <expan>s<am>&#x365;</am><ex>ibi</ex></expan><!-- 'ipsi' Baron (not in apparatus or 1506, but in PL) --> 
 <lb/>displicere incipit quoniam in<reg> </reg>alio id quod <expan>h<ex>abe</ex><abbr rend="supraline">r</abbr>e</expan> 
 <lb/>non potest agnoscit. Qui <expan><ex>er</ex>g<am>&#x366;</am><ex>o</ex></expan> <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>caritatem in<reg> </reg>deo 
 <lb/>totum <expan>h<ex>abe</ex><abbr rend="supraline">r</abbr>e</expan> potuit. id eciam quod <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>elationem 
@@ -282,15 +282,15 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb break="no"/>litudine demonstrare quantam in nobis cor<pc rend="hyphen"/>
 <lb break="no"/>ruptionem supradicta uitia generent. ut q<expan><ex>ua</ex>n<am>&#x1DD3;</am></expan>to 
 <lb/><expan><am>ꝑ</am><ex>per</ex></expan>iculosior languor ostenditur⸵ tanto magis 
-<lb/>necessaria medicina com<expan><am>&#xA753;</am><ex>pro</ex></expan>betur. <add place="margin" hand="#B"><metamark function="flag">⸫</metamark></add><seg xml:id="DOD-10"><expan><am>&#xA750;</am><ex>Per</ex></expan> su<expan><am>ꝑ</am><ex>per</ex></expan>biam 
+<lb/>necessaria medicina com<expan><am>&#xA753;</am><ex>pro</ex></expan>betur. <add place="margin" hand="#B"><metamark function="flag">⸫</metamark></add><seg xml:id="DOD-10" next="#DOD-10b"><expan><am>&#xA750;</am><ex>Per</ex></expan> su<expan><am>ꝑ</am><ex>per</ex></expan>biam 
 <lb/><expan><ex>i</ex><abbr>g<am>&#x365;</am></abbr><ex>itur</ex></expan> cor inflatur. <expan><am>ꝑ</am><ex>per</ex></expan> inuidiam arescit. <expan><am>ꝑ</am><ex>per</ex></expan> iram 
 <lb/>crepat. <expan><am>ꝑ</am><ex>per</ex></expan> tristiciam conteritur. <expan><am>&amp;</am><ex>et</ex></expan> quasi in<pc rend="hyphen"/>
-<lb/>puluerem redigitur. <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>auariciam<!-- point? --> dis<expan><am>ꝑ</am><ex>per</ex></expan>gitur. 
+<lb/>puluerem redigitur. <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>auariciam dis<expan><am>ꝑ</am><ex>per</ex></expan>gitur. 
 <lb/><expan><am>ꝑ</am><ex>per</ex></expan> gulam inficitur <expan><am>&amp;</am><ex>et</ex></expan><reg> </reg>quasi humectatur<supplied reason="omitted">.</supplied> per<pc rend="hyphen"/>
 <lb/><milestone unit="column" n="408" edRef="#PL"/>luxuriam conculcatur <expan><am>&amp;</am><ex>et</ex></expan><reg> </reg>in<reg> </reg>lutum redigitur. 
-<lb/>ita ut iam miser dicere possit. <quote source="Bible.Vul:Ps.68.3">Infixus sum 
-<lb/>in<reg> </reg>limo <expan><am>&#xA753;</am><ex>pro</ex></expan>fundi <expan><am>&amp;</am><ex>et</ex></expan> non est substantia.</quote></seg> Veni in<pc rend="hyphen"/>
-<lb/>altitudine maris <expan><am>&amp;</am><ex>et</ex></expan><reg> </reg>tempestas demersit me. 
+<lb/>ita ut iam miser dicere possit.</seg> <quote source="Bible.Vul:Ps.68.3"><seg xml:id="DOD-10b" prev="#DOD-10">Infixus sum 
+<lb/>in<reg> </reg>limo <expan><am>&#xA753;</am><ex>pro</ex></expan>fundi <expan><am>&amp;</am><ex>et</ex></expan> non est substantia.</seg> Veni in<pc rend="hyphen"/>
+<lb/>altitudine maris <expan><am>&amp;</am><ex>et</ex></expan><reg> </reg>tempestas demersit me.</quote> 
 <lb/>Cum<expan>q<am>;</am><ex>ue</ex></expan> huic limo <expan><am>&#xA753;</am><ex>pro</ex></expan>fundi animus fu<expan><am>&#x33E;</am><ex>er</ex></expan>it infix<expan><am>&#xA770;</am><ex>us</ex></expan>. 
 <lb/><expan><am>&amp;</am><ex>et</ex></expan> luto coinquinationis <expan><am>&amp;</am><ex>et</ex></expan> inmunditię obuo<pc rend="hyphen"/>
 <lb break="no"/>lutus⸵ euelli nequaquam potest nisi ad<reg> </reg>illum 
@@ -310,7 +310,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb break="no"/>tatem subiecti simus. qui <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>su<expan><am>ꝑ</am><ex>per</ex></expan>biam rebelles 
 <lb/><expan><am>&amp;</am><ex>et</ex></expan> contumaces extitimus.</seg><!-- quote? --> Huic <seg xml:id="DOD-18">peticioni datur 
 <lb/>donum <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> timoris domini. ut ille ad cor ue<pc rend="hyphen"/>
-<lb break="no"/>niens <add place="margin" hand="#B"><label>1</label></add>uirtutum in eo creet humilitatis que 
+<lb break="no"/>niens <add place="margin" hand="#B"><label>1</label></add>uirtutem in eo creet humilitatis que 
 <lb/>su<expan><am>ꝑ</am><ex>per</ex></expan>bię morbum sanet. quatinus ad<reg> </reg>regnum 
 <lb/>cęlorum q<expan><ex>uo</ex><am>&#x366;</am></expan>d <expan>ang<ex>e</ex><abbr rend="stroke">l</abbr><ex>u</ex>s</expan> su<expan><am>ꝑ</am><ex>per</ex></expan><expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>elationem <expan><am>ꝑ</am><ex>per</ex></expan>didit. 
 <lb/>homo humilis <expan><am>ꝑ</am><ex>per</ex></expan>uenire possit.</seg> <add place="margin"><label>.2.</label></add><seg xml:id="DOD-19"><num n="2"><expan>S<ex>e</ex>c<ex>un</ex><abbr rend="stroke">d</abbr>a</expan></num> peticio <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> 
