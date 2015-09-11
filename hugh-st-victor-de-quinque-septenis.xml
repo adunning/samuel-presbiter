@@ -138,7 +138,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>postulas prius singillatim enumerando ab<pc rend="hyphen"/>
 <lb break="no"/>inuicem<!-- 'ad inuicem' Baron (var. in app. but claims it only occurs in Va) --> distinguere. Postea <expan>u<am>&#x366;</am><ex>ero</ex></expan> quam inter se 
 <lb/>habeant conuenientiam eadem <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>singula sibi 
-<lb/>conferendo demonstrare. <num n="1">Primo</num> loco ponunt<expan><am>&#x1DD1;</am><ex>ur</ex></expan> 
+<lb/>conferendo demonstrare. <milestone unit="chapter" n="1" edRef="#Baron1969"/><num n="1">Primo</num> loco ponunt<expan><am>&#x1DD1;</am><ex>ur</ex></expan> 
 <lb/><add hand="#B" place="margin"><label>.7. vitia⸝</label></add><num n="7">.vii.</num> uitia <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> <num n="1">prima</num> su<expan><am>ꝑ</am><ex>per</ex></expan>bia. <expan>S<ex>e</ex>c<ex>un</ex><abbr rend="stroke">d</abbr>a</expan> inuidia. <num n="3">Tercia</num> 
 <lb/>ira. <num n="4">Quarta</num> tristicia. <num n="5">Quinta</num> auaricia. <num n="6">Sexta</num> gula. 
 <lb/><num n="7">Septima</num> luxuria. <add place="inline" hand="#B"><milestone rend="paraph" unit="section"/></add>Contra hec <num n="2"><expan>s<ex>e</ex>c<ex>un</ex><abbr rend="stroke">d</abbr>o</expan></num> loco consti<pc rend="hyphen"/>
@@ -171,7 +171,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>interioris hominis. Ipsum uero hominem 
 <lb/>quasi egrotum. Medicum deum. Dona sancti 
 <lb/><expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> antidotum. Virtutes sanitatem. Beati<pc rend="hyphen"/>
-<lb break="no"/>tudines felicitatis gaudium. <milestone unit="chapter" n="2" edRef="#Clichtove1506 #PL"/><seg xml:id="DOD-1">Sunt ergo <num n="7">sep<pc rend="hyphen"/>
+<lb break="no"/>tudines felicitatis gaudium. <milestone unit="chapter" n="2" edRef="#Clichtove1506 #PL #Baron1969"/><seg xml:id="DOD-1">Sunt ergo <num n="7">sep<pc rend="hyphen"/>
 <lb break="no"/>tem</num> uicia capitalia siue principalia <expan><am>&amp;</am><ex>et</ex></expan> ex<reg> </reg>his 
 <lb/>uniuersa mala oriuntur. Hi<hi rend="longa">i</hi> sunt fontes abyssi 
 <cb n="b"/>
@@ -181,7 +181,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb break="no"/>sta in<reg> </reg><expan><am>ꝑ</am><ex>per</ex></expan>sona populi fidelis cecinit dicens. <quote source="Bible.Vul:Ps.136.1–136.2">Su<expan><am>ꝑ</am><ex>per</ex></expan> 
 <lb/>flumina <placeName>babilonis</placeName> illic sedimus <expan><am>&amp;</am><ex>et</ex></expan> fleuimus. 
 <lb/>dum recordaremur <placeName>syon</placeName>. In salici<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> in<reg> </reg>medio 
-<lb/>ei<expan><am>&#xA770;</am><ex>us</ex></expan> <expan><am>.</am>s<am>.</am><ex>uspendimus</ex> o<am>.</am><ex>rgana</ex> n<am>.</am><ex>ostra</ex></expan>.</quote></seg> <add place="margin" hand="#B"><label rend="underline">De viciis</label></add>De<reg> </reg>his<!-- Baron adds 'igitur': where is this coming from? --> <num n="7">.vii.</num> uiciis uastatori<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> <expan><am>&amp;</am><ex>et</ex></expan> uni<pc rend="hyphen"/>
+<lb/>ei<expan><am>&#xA770;</am><ex>us</ex></expan> <expan><am>.</am>s<am>.</am><ex>uspendimus</ex> o<am>.</am><ex>rgana</ex> n<am>.</am><ex>ostra</ex></expan>.</quote></seg> <add place="margin" hand="#B"><label rend="underline">De viciis</label></add>De<reg> </reg>his <num n="7">.vii.</num> uiciis uastatori<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> <expan><am>&amp;</am><ex>et</ex></expan> uni<pc rend="hyphen"/>
 <lb break="no"/>uersam nat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>e integritatem corrumpenti<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> si<pc rend="hyphen"/>
 <lb break="no"/>mul<expan>q<am>;</am><ex>ue</ex></expan> malorum omnium g<subst hand="#thin"><del rend="expunct">e</del><add place="above"><expan><am>&#x33E;</am><ex>er</ex></expan></add></subst>mina <expan><am>&#xA753;</am><ex>pro</ex></expan>ducenti<pc rend="hyphen"/>
 <lb break="no"/>bus. quantum ad<reg> </reg>presens negotium explican<pc rend="hyphen"/>
@@ -272,11 +272,11 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb break="no"/>nationi mens turpiter subacta. <expan><am>⁊</am><ex>et</ex></expan><reg> </reg>nisi exorata 
 <lb/><add place="overstrike">subueniat saluatori<hi rend="superscript">s</hi> pietas <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> erit iam unde</add> cap<pc rend="hyphen"/>
 <lb break="no"/>tiuo seruienti amissa restituatur libertas.</seg> 
-<lb/><milestone unit="chapter" n="3" edRef="#Clichtove1506 #PL"/><add place="margin" hand="#B"><label rend="underline">de peticioni<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan>⸝</label></add><add place="inline" hand="#B"><milestone rend="paraph" unit="section"/></add><seg xml:id="DOD-9a">Sequuntur ita<expan>q<am>;</am><ex>ue</ex></expan> <num n="7">.vi<hi rend="longa">i</hi>.</num> peticiones</seg> <seg xml:id="DOD-9b">contra <num n="7">.vi<hi rend="longa">i</hi>.</num> 
+<lb/><milestone unit="chapter" n="3" edRef="#Clichtove1506 #PL #Baron1969"/><add place="margin" hand="#B"><label rend="underline">de peticioni<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan>⸝</label></add><add place="inline" hand="#B"><milestone rend="paraph" unit="section"/></add><seg xml:id="DOD-9a">Sequuntur ita<expan>q<am>;</am><ex>ue</ex></expan> <num n="7">.vi<hi rend="longa">i</hi>.</num> peticiones</seg> <seg xml:id="DOD-9b">contra <num n="7">.vi<hi rend="longa">i</hi>.</num> 
 <lb/>uicia</seg> qui<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> ille oratur ut subueniat. qui nos 
 <lb/><expan><am>&amp;</am><ex>et</ex></expan> orare docuit. <expan><am>&amp;</am><ex>et</ex></expan> quo<subst><del rend="alt">t</del><add place="overstrike">d</add></subst> oranti<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> <expan>s<abbr rend="supraline">p</abbr><ex>iritu</ex>m</expan> bonum 
 <lb/>ad<reg> </reg>sananda uulnera <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>a</expan> <expan><am>&amp;</am><ex>et</ex></expan><reg> </reg>ad<reg> </reg>soluendum iu<pc rend="hyphen"/>
-<lb break="no"/>gum captiuitatis <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>e</expan> daturus <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr></expan>t re<expan><am>&#xA753;</am><ex>pro</ex></expan>misit.<!-- 'promisit' Baron? --> 
+<lb break="no"/>gum captiuitatis <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>e</expan> daturus <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr></expan>t re<expan><am>&#xA753;</am><ex>pro</ex></expan>misit. 
 <lb/><expan><abbr>S<am>&#xA76B;</am></abbr><ex>ed</ex></expan> nos antequam ad explanationem harum 
 <lb/>ueniamus prius uolumus alia adhuc simi<pc rend="hyphen"/>
 <lb break="no"/>litudine demonstrare quantam in nobis cor<pc rend="hyphen"/>
@@ -406,7 +406,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>temptatori suo dum esurienti <expan>s<am>&#x365;</am><ex>ibi</ex></expan> fraudulent<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> 
 <lb/>de ext<expan><am>&#x33E;</am><ex>er</ex></expan>ioris panis refectione suggestionem face<pc rend="hyphen"/>
 <lb break="no"/>ret⸵ respondit dicens. <quote source="Bible.Vul:Matt.4.4">Non in<reg> </reg>solo pane uiuit <expan>h<ex>om</ex><abbr rend="supraline">o</abbr></expan>. 
-<lb/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> in <expan><am>.</am>o<am>.</am><ex>mni</ex> u<am>.</am><ex>erbo</ex> q<am>.</am><ex>uod</ex> p<am>.</am><ex>rocedit</ex> ab<am>.</am><!-- 'de' in app. Baron --> o<am>.</am><ex>re</ex></expan> dei.</quote> ut a<expan><am>ꝑ</am><ex>per</ex></expan>te demonstraret. 
+<lb/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>ed</ex></expan> in <expan><am>.</am>o<am>.</am><ex>mni</ex> u<am>.</am><ex>erbo</ex> q<am>.</am><ex>uod</ex> p<am>.</am><ex>rocedit</ex> ab<am>.</am> o<am>.</am><ex>re</ex></expan> dei.</quote> ut a<expan><am>ꝑ</am><ex>per</ex></expan>te demonstraret. 
 <lb/><add place="margin" hand="#B"><metamark function="flag">⁘</metamark></add>quia cum mens illo interius pane reficitur. 
 <lb/>non magno<expan><am>ꝑ</am><ex>per</ex></expan>e curat si foris ad<reg> </reg>tempus famem 
 <lb/>carnis patiatur.</seg> Datur <expan><ex>er</ex>g<am>&#x366;</am><ex>o</ex></expan> contra gulam <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> 
@@ -435,7 +435,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb break="no"/>tem int<expan><am>&#x33E;</am><ex>er</ex></expan>ior dulcedo opponitur ut quanto illa 
 <lb/>plus sapere <expan><am>&amp;</am><ex>et</ex></expan><reg> </reg>plac<expan><am>&#x33E;</am><ex>er</ex></expan>e ince<expan><am>ꝑ</am><ex>per</ex></expan>it⸵ tanto liberi<expan><am>&#xA770;</am><ex>us</ex></expan> at<expan>q<am>;</am><ex>ue</ex></expan> 
 <lb/>libentius ista contempnatur. tandem<expan>q<am>;</am><ex>ue</ex></expan> in<reg> </reg>semet<pc rend="hyphen"/>
-<lb break="no"/><add place="margin" hand="#B"><metamark function="flag">⸫</metamark></add>ipsa mens pacificata<!-- check Baron --> dum nichil est q<expan><ex>uo</ex><am>&#x366;</am></expan>d foris ap<pc rend="hyphen"/>
+<lb break="no"/><add place="margin" hand="#B"><metamark function="flag">⸫</metamark></add>ipsa mens pacificata dum nichil est q<expan><ex>uo</ex><am>&#x366;</am></expan>d foris ap<pc rend="hyphen"/>
 <lb break="no"/>petat. tota <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>amorem intus requiescat.</seg> <seg xml:id="DOD-40"><expan>S<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> <expan><ex>er</ex>g<am>&#x366;</am><ex>o</ex></expan> 
 <cb n="b"/>
 <lb/>sapientię cor sua dulcedine tangens <expan><am>&amp;</am><ex>et</ex></expan><reg> </reg>foris 
