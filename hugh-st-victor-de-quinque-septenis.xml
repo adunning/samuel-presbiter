@@ -101,7 +101,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <imprint>
 <pubPlace>Paris</pubPlace>
 <biblScope unit="volume">3</biblScope>
-<biblScope unit="column">405–414</biblScope>
+<biblScope unit="column">405–410</biblScope>
 <publisher>Migne</publisher>
 <date>1854</date>
 </imprint>
@@ -392,7 +392,6 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>temptationem tunc nequaq<expan><am>&#x1DD3;</am><ex>ua</ex></expan>m inducimur 
 <lb/>si sic studemus <expan>s<ex>e</ex>c<ex>un</ex><abbr rend="stroke">d</abbr><ex>u</ex>m</expan> <expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>suram necessitatis 
 <fw place="bottom" type="catch">nature</fw>
-<gb/>
 <pb n="212r"/>
 <cb n="a"/>
 <lb/>naturę subsidium impendere. ut tamen sem<expan><am>ꝑ</am><ex>per</ex></expan> 

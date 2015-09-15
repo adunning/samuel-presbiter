@@ -46,7 +46,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <pb n="41v"/>
 <lb/><head rend="red"><hi rend="enlarged">D</hi>e oratione <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>i</expan>ca. <sic>Silicet</sic> Pater <expan>n<ex>oste</ex><abbr rend="supraline">r</abbr></expan>.</head>
 <lg n="1">
-<lb/><l xml:id="DOD-1.1"><!-- With guide for rubricator to left. --><hi rend="enlarged red trim-blue">Q</hi>uam <persName><expan><am>x</am><am rend="supraline">p</am><am>c</am><ex>christus</ex></expan></persName> docuit oratio <num n="5">quin<expan>q<am>ꝫ</am><ex>ue</ex></expan></num> petitiis⸵</l>
+<lb/><l xml:id="DOD-1.1"><!-- With guide for rubricator to left. --><hi rend="enlarged red trim-blue">Q</hi>uam <persName><expan><am>x</am><am rend="supraline">p</am><am>c</am><ex>cristus</ex></expan></persName> docuit oratio <num n="5">quin<expan>q<am>ꝫ</am><ex>ue</ex></expan></num> petitus<subst><del rend="alt">.</del><add place="overstrike">⸵</add></subst></l>
 <note target="#DOD-1.2">
 <lb/><seg type="q" source="DQS#DOD-1:210va[41]–210vb[6]"><num n="7">Septem</num> <expan>s<ex>un</ex><abbr rend="supraline">t</abbr></expan> uicia capitalia siue p<expan><am>&#x365;</am><ex>ri</ex></expan>ncipalia. ex his uniu<expan><am>&#x33E;</am><ex>er</ex></expan>sa mala. 
 <lb/>oriunt<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. Hi <expan>s<ex>un</ex><abbr rend="supraline">t</abbr></expan> fontes abyssi tenebros<add place="inline">e</add> de q<expan><am>&#x365;</am><ex>ui</ex></expan><expan>b<am>ꝫ</am><ex>us</ex></expan> flumina <placeName>babilonis</placeName> 
@@ -144,7 +144,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/><expan><am>ꝑ</am><ex>per</ex></expan>didit⸵ homo humilis <expan><am>ꝑ</am><ex>per</ex></expan>uenire possit.</seg>
 </note>
 <pb n="43r"/>
-<lb/><l xml:id="DOD-2.3"><hi rend="spaced">D</hi>onatur <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>i</expan> timor. <unclear>h</unclear>ic humiles facit. <unclear>H</unclear>is<expan>q<am>ꝫ</am><ex>ue</ex></expan>⸵</l>
+<lb/><l xml:id="DOD-2.3"><hi rend="spaced">D</hi>onatur <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>i</expan> timor. <unclear>h</unclear>ic humiles facit. <unclear>h</unclear>is<expan>q<am>ꝫ</am><ex>ue</ex></expan>⸵</l>
 <note target="#DOD-2.4">
 <lb/><expan>Ew<abbr rend="supraline">a</abbr><ex>n</ex><abbr rend="supraline">g</abbr><ex>elista</ex></expan>. <quote source="Bible.Vul:Matt.5.3">Beati pau<expan><am>ꝑ</am><ex>per</ex></expan>es <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan> <expan>q<ex>uonia</ex><abbr rend="supraline">m</abbr></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>o</expan>rum <expan><abbr rend="supraline">e</abbr><ex>st</ex><am>.</am></expan> regn<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> celor<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>.</quote> pau<expan><am>ꝑ</am><ex>per</ex></expan>es 
 <lb/>spiritu⸵ <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> humiles.
