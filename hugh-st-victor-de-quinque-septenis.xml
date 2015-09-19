@@ -166,12 +166,12 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/><num n="2">Secunda</num> possessio terrę uiuentium. <num n="3">Tercia</num> con<pc rend="hyphen"/>
 <lb break="no"/>solatio. <num n="4">Quarta</num> iusticię sacietas. <num n="5">Quinta</num> <expan>m<ex>isericord</ex><abbr rend="supraline">i</abbr>a</expan>. 
 <lb/><num n="6">Sexta</num> uisio dei. <num n="7">Septima</num> filiatio dei.</seg> <add place="inline" hand="#B"><milestone rend="paraph" unit="section"/></add>Hec ita 
-<lb/><add place="margin" hand="#B"><metamark function="flag">⸫</metamark><!-- similar to MUFI F1E6, but not quite --></add><num n="1">primo</num> loco distingue⸵ ut intelligas ipsa uicia 
+<lb/><add place="margin" hand="#B"><metamark function="flag">⸫</metamark><!-- similar to MUFI F1E6, but not quite --></add><num n="1">primo</num> loco distingue⸵ <seg xml:id="DOD-41">ut intelligas ipsa uicia 
 <lb/>quasi quo<hi rend="superscript">s</hi>dam animę languores. siue uulnera 
 <lb/>interioris hominis. Ipsum uero hominem 
 <lb/>quasi egrotum. Medicum deum. Dona sancti 
 <lb/><expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> antidotum. Virtutes sanitatem. Beati<pc rend="hyphen"/>
-<lb break="no"/>tudines felicitatis gaudium. <milestone unit="chapter" n="2" edRef="#Clichtove1506 #PL #Baron1969"/><seg xml:id="DOD-1">Sunt ergo <num n="7">sep<pc rend="hyphen"/>
+<lb break="no"/>tudines felicitatis gaudium.</seg> <milestone unit="chapter" n="2" edRef="#Clichtove1506 #PL #Baron1969"/><seg xml:id="DOD-1">Sunt ergo <num n="7">sep<pc rend="hyphen"/>
 <lb break="no"/>tem</num> uicia capitalia siue principalia <expan><am>&amp;</am><ex>et</ex></expan> ex<reg> </reg>his 
 <lb/>uniuersa mala oriuntur. Hi<hi rend="longa">i</hi> sunt fontes abyssi 
 <cb n="b"/>
@@ -192,7 +192,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/><num n="7">Septimum</num> <add place="inline" hand="#thin">s</add>eductum seruituti subicit. <seg xml:id="DOD-17">Su<pc rend="hyphen"/>
 <lb break="no"/><expan><am>ꝑ</am><ex>per</ex></expan>bia enim aufert homini deum.</seg></seg> <seg xml:id="DOD-20">Inuidia aufert 
 <lb/>ei proximum.</seg> <seg xml:id="DOD-23">Ira aufert ei seipsum.</seg> <seg xml:id="DOD-27">Tristicia 
-<lb/>spoliatum flagellat.</seg> <seg xml:id="DOD-30">Auaricia flagellatum eicit.</seg> 
+<lb/>spoliatum flagellat.</seg> <seg xml:id="DOD-30a" next="#DOD-30b">Auaricia</seg> <seg xml:id="DOD-30b" prev="#DOD-30a">flagellatum eicit.</seg> 
 <lb/><seg xml:id="DOD-33">Gula eiectum seducit.</seg> <seg xml:id="DOD-38">Luxuria seductum serui<pc rend="hyphen"/>
 <lb break="no"/>tuti subicit.</seg> Nunc reuertentes singula <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>ordinem 
 <lb/>explanemus. Diximus <expan>q<ex>uo</ex><am>&#x366;</am>d</expan> su<expan><am>ꝑ</am><ex>per</ex></expan>bia aufert ho<pc rend="hyphen"/>
@@ -203,7 +203,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb break="no"/>des riuulo ut se <hi rend="acute">a</hi><reg> </reg>fonte diuidat? Cur suades 
 <lb/>radio ut se <hi rend="acute">a</hi><reg> </reg>sole auertat? Cur nisi ut <expan><am>&amp;</am><ex>et</ex></expan> ille 
 <lb/>dum infundi desinit arescat. <expan><am>&amp;</am><ex>et</ex></expan> iste dum ab<pc rend="hyphen"/>
-<lb/>illuminante se<!-- Baron suppresses 'se', and indicates that this is the only MS that includes the reading, but it could work if the verb is taken as deponent (cf. DMLBS s.v. *2 avertere* 2); and in some ways it makes more sense, since the point is that it turns itself away, not that it is turned away by an external force. --> auertitur tenebros<expan><am>&#xA770;</am><ex>us</ex></expan> fiat.</seg> uter<expan>q<am>;</am><ex>ue</ex></expan> 
+<lb/>illuminante <surplus resp="#Clichtove1506 #PL #Baron1969">se</surplus> auertitur tenebros<expan><am>&#xA770;</am><ex>us</ex></expan> fiat.</seg> uter<expan>q<am>;</am><ex>ue</ex></expan> 
 <lb/>uero dum accipere cessat id q<expan><ex>uo</ex><am>&#x366;</am></expan>d necdum habet. 
 <lb/>continuo illud eciam quod <expan><abbr>h</abbr><ex>abe</ex><abbr rend="supraline">t</abbr></expan> amittat. Hoc pro<pc rend="hyphen"/>
 <lb break="no"/>fecto tu<reg> </reg><hi rend="acute">a</hi>gis cum doces donum extra datorem 
@@ -223,7 +223,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>aspexerit⸵ tanto amarius sua eum im<expan><am>ꝑ</am><ex>per</ex></expan>fectio 
 <lb/>torqueat⸵ quanto eum in<reg> </reg>quo omne bonum con<pc rend="hyphen"/>
 <lb break="no"/>sistit non amat. Et<reg> </reg>idcirco su<expan><am>ꝑ</am><ex>per</ex></expan>biam sem<expan><am>ꝑ</am><ex>per</ex></expan> inui<pc rend="hyphen"/>
-<lb break="no"/>dia sequitur. <add place="margin" hand="#B"><label>2</label><!-- check position --></add>quia qui illic amorem non figit <expan>u<am>&#x365;</am><ex>bi</ex></expan> 
+<lb break="no"/>dia sequitur. <add place="margin" hand="#B"><label>2</label></add>quia qui illic amorem non figit <expan>u<am>&#x365;</am><ex>bi</ex></expan> 
 <lb/>omne bonum est quantum de suo <expan><am>ꝑ</am><ex>per</ex></expan>uerse ex<pc rend="hyphen"/>
 <lb break="no"/>tollitur. tanto grauius de<reg> </reg>bono alieno torquet<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</seg> 
 <lb/>Sua <expan><ex>i</ex><abbr>g<am>&#x365;</am></abbr><ex>itur</ex></expan> elationi iustissime pena deputata est 
@@ -306,9 +306,9 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>tuum.</quote> Hoc enim petimus ut det <expan>no<abbr rend="stroke">b</abbr><ex>is</ex></expan> timere 
 <pb n="211v"/>
 <cb n="a"/>
-<lb/><expan><am>&amp;</am><ex>et</ex></expan><reg> </reg>uenera<choice><sic>t</sic><corr>r</corr></choice>i nomen suum⸵ quatinus ei <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>humili<pc rend="hyphen"/>
+<lb/><expan><am>&amp;</am><ex>et</ex></expan><reg> </reg>uenera<choice><sic>t</sic><corr resp="#Clichtove1506 #PL #Baron1969">r</corr></choice>i nomen suum⸵ quatinus ei <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>humili<pc rend="hyphen"/>
 <lb break="no"/>tatem subiecti simus. qui <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>su<expan><am>ꝑ</am><ex>per</ex></expan>biam rebelles 
-<lb/><expan><am>&amp;</am><ex>et</ex></expan> contumaces extitimus.</seg><!-- quote? --> Huic <seg xml:id="DOD-18">peticioni datur 
+<lb/><expan><am>&amp;</am><ex>et</ex></expan> contumaces extitimus.</seg> Huic <seg xml:id="DOD-18">peticioni datur 
 <lb/>donum <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> timoris domini. ut ille ad cor ue<pc rend="hyphen"/>
 <lb break="no"/>niens <add place="margin" hand="#B"><label>1</label></add>uirtutem in eo creet humilitatis que 
 <lb/>su<expan><am>ꝑ</am><ex>per</ex></expan>bię morbum sanet. quatinus ad<reg> </reg>regnum 
@@ -345,7 +345,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>mitigatur. quia <hi rend="acute">e</hi><reg> </reg>conuerso <seg xml:id="DOD-25"><quote source="Bible.Vul:Job.5.2">stultum ira in<pc rend="hyphen"/>
 <lb break="no"/>terficit</quote>. quando in<reg> </reg>aduersis <expan><am>ꝑ</am><ex>per</ex></expan> impatientię 
 <lb/>uicium agitatus at<expan>q<am>;</am><ex>ue</ex></expan> cecatus uel malum 
-<lb/>q<expan><ex>uo</ex><am>&#x366;</am></expan>d patitur se meruisse<!-- punctuation? --> uel bonum q<expan><ex>uo</ex><am>&#x366;</am></expan>d <expan><abbr>h</abbr><ex>abe</ex><abbr rend="supraline">t</abbr></expan> 
+<lb/>q<expan><ex>uo</ex><am>&#x366;</am></expan>d patitur se meruisse uel bonum q<expan><ex>uo</ex><am>&#x366;</am></expan>d <expan><abbr>h</abbr><ex>abe</ex><abbr rend="supraline">t</abbr></expan> 
 <lb/><expan><am>ꝑ</am><ex>per</ex></expan> <expan>gr<ex>aci</ex><abbr rend="supraline">a</abbr></expan>m accepisse non agnoscit. H<expan><abbr rend="supraline">a</abbr><ex>n</ex></expan>c autem 
 <lb/>uirtutem <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> compunctionem siue dolorem 
 <cb n="b"/>
@@ -357,7 +357,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/><add place="margin" hand="#B"><metamark function="flag">⸫</metamark></add>nam<expan>q<am>;</am><ex>ue</ex></expan> tedium est animi cum merore quando 
 <lb/>mens quodam<expan>m<ex>odo</ex><am>&#x366;</am></expan> tabefacta <expan><am>&amp;</am><ex>et</ex></expan><reg> </reg>uitio suo amari<pc rend="hyphen"/>
 <lb break="no"/>cata interna bona non appetit⸵ at<expan>q<am>;</am><ex>ue</ex></expan> omni ui<pc rend="hyphen"/>
-<lb break="no"/>gore <hi rend="acute">e</hi><reg> </reg>mortuo nullo <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>alis refectionis <expan>desi<abbr rend="stroke">d</abbr><ex>er</ex>io</expan> 
+<lb break="no"/>gore <hi rend="acute">e</hi>mortuo nullo <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>alis refectionis <expan>desi<abbr rend="stroke">d</abbr><ex>er</ex>io</expan> 
 <lb/>hilarescit.</seg> Propterea ad<reg> </reg>sanandum hoc uici<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
 <lb/>deprecari nos oportet <expan>mis<ex>eri</ex>c<ex>or</ex><abbr rend="stroke">d</abbr>ia</expan>m domini. ut 
 <lb/>ipse solita pietate animę tedio<add place="inline" hand="#thin"> </add>suo<!-- odd line to right --> languenti 
@@ -378,7 +378,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>auarus.<!-- amarus SP --> At<expan>q<am>;</am><ex>ue</ex></expan> ideo cum <hi rend="acute">a</hi><reg> </reg>nobis <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>dei graciam 
 <lb/>uicium auaricię tollitur⸵ qualiter <hi rend="acute">a</hi><reg> </reg><expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>o</expan> debito 
 <lb/>absolui debeamus ex<reg> </reg><expan><am>&#xA753;</am><ex>pro</ex></expan>posita salutis conditi<pc rend="hyphen"/>
-<lb break="no"/>one donatur.<!-- 'docetur' Baron; oddly, he notes that 'donatur' is a reading in his MSS Va H L, implying that 'docetur' is in this MS, which it certainly isn't --></seg> Huic <expan><ex>er</ex>g<am>&#x366;</am><ex>o</ex></expan> <seg xml:id="DOD-31">petitioni datur <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> consili<hi rend="longa">i</hi> 
+<lb break="no"/>one donatur.<!-- 'docetur' Baron, with 'donatur' listed as a variant only in Va H L --></seg> Huic <expan><ex>er</ex>g<am>&#x366;</am><ex>o</ex></expan> <seg xml:id="DOD-31">petitioni datur <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> consili<hi rend="longa">i</hi> 
 <lb/>qui doceat nos in<reg> </reg>hoc seculo libenter peccan<pc rend="hyphen"/>
 <lb break="no"/>ti<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> in nos <expan>mis<ex>eri</ex>c<ex>or</ex><abbr rend="stroke">d</abbr>ia</expan>m impendere quatinus in<pc rend="hyphen"/>
 <lb/>futuro cum <expan><am>&#xA753;</am><ex>pro</ex></expan> peccatis <expan><abbr rend="supraline">n</abbr><ex>ost</ex><abbr rend="supraline">ri</abbr>s</expan> <expan><abbr rend="supraline">r</abbr><ex>aci</ex><abbr rend="supraline">o</abbr>nem</expan> reddit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>i sum<expan><am>&#xA770;</am><ex>us</ex></expan> 

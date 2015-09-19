@@ -66,7 +66,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>tor<expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan>at⸵ q<expan><ex>ua</ex>n<am>&#x1DD3;</am></expan>to eum in quo <expan>o<abbr rend="supraline">m</abbr><ex>n</ex>e</expan> bon<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>sistit <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> amat. iccirco su<expan><am>ꝑ</am><ex>per</ex></expan><pc rend="hyphen"/>
 <lb break="no"/>biam sem<expan><am>ꝑ</am><ex>per</ex></expan> inuidia sequitur. quia <expan>q<am>&#x365;</am><ex>ui</ex></expan> illic amor<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> figit ubi 
 <lb/>omne bonum <expan><am>∻</am><ex>est</ex></expan>⸵ q<expan><ex>ua</ex>n<am>&#x1DD3;</am></expan>tum de<reg> </reg>suo <expan><am>ꝑ</am><ex>per</ex></expan>uerse extollitur⸵ tanto gra<pc rend="hyphen"/>
-<lb break="no"/>uius de alieno bono torquetur</seg> <seg type="q" source="DQS#DOD-7:211ra[14]–211ra[20]"><del rend="strikethrough expunct">ho</del><subst><del rend="alt">mo</del><add place="overstrike">n<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan></add></subst><!-- 'Nec' Baron --> a<reg> </reg>se bonum alterius 
+<lb break="no"/>uius de alieno bono torquetur</seg><supplied reason="omitted">.</supplied> <seg type="q" source="DQS#DOD-7:211ra[14]–211ra[20]"><del rend="strikethrough expunct">ho</del><subst><del rend="alt">mo</del><add place="overstrike">n<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan></add></subst><!-- 'Nec' Baron --> a<reg> </reg>se bonum alterius 
 <lb/>iudicaret alien<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan><subst><del rend="alt">.</del><add place="overstrike">⸵</add></subst> si suum <del rend="erased">s</del>ibi diligeret<add place="inline" hand="#SP">⸵</add> ubi <expan><am>⁊</am><ex>et</ex></expan> su<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>⁊</am><ex>et</ex></expan> alterius 
 <lb/>bonum sim<expan><ex>u</ex><abbr rend="stroke">l</abbr></expan> possideret. q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>ntum ergo<!-- 'Nunc ergo quantum' Baron --> se <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>elation<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> extra<!-- 'contra' Baron --> crea<pc rend="hyphen"/>
 <lb break="no"/>torem extollit⸵ tantum <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>liuorem sub<reg> </reg><expan><am>ꝓ</am><ex>pro</ex></expan>ximo ca<del rend="strikethrough expunct">n</del>dit. <expan><am>⁊</am><ex>et</ex></expan> q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>nt<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
@@ -104,17 +104,17 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>unde illud. <seg type="q" source="DQS#DOD-11:211rb[35]–211rb[36]"><quote source="Bible.Vul:Ps.39.3">exaudiuit <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>ces meas <expan><am>⁊</am><ex>et</ex></expan> eduxit me de<reg> </reg>lacu miserie⸵ 
 <lb/><expan><am>⁊</am><ex>et</ex></expan> de luto fecis.</quote></seg>
 </note>
-<lb/><l xml:id="DOD-1.2"><hi rend="spaced">C</hi>ontinet at<expan>q<am>ꝫ</am><ex>ue</ex></expan> duos. <unclear>H</unclear>is pelluntur mala <num n="7">septem</num>.</l>
+<lb/><l xml:id="DOD-1.2"><hi rend="spaced">C</hi>ontinet at<expan>q<am>ꝫ</am><ex>ue</ex></expan> duos. his pelluntur mala <num n="7">septem</num>.</l>
 <note target="#DOD-1.3">
 <lb/><seg type="q" source="DQS#DOD-12:210va[21]–210va[24]">Spiritus timoris <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>i</expan>. spiritus pietatis. spirit<expan><am>ꝰ</am><ex>us</ex></expan> scientie. <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> 
 <lb/>fortudinis. <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>sili<hi rend="longa">i</hi>. <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> intellect<expan><am>ꝰ</am><ex>us</ex></expan>. <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> sapientie.</seg>
 </note>
-<lb/><l xml:id="DOD-1.3"><hi rend="spaced">E</hi>t bona <num n="7">septem</num> dona feruntur. <unclear>A</unclear>b his oriuntur⸵</l>
+<lb/><l xml:id="DOD-1.3"><hi rend="spaced">E</hi>t bona <num n="7">septem</num> dona feruntur. Ab his oriuntur⸵</l>
 <note target="#DOD-1.4">
 <lb/><seg type="q" source="DQS#DOD-13:210va[26]–210va[30]">Pau<expan><am>ꝑ</am><ex>per</ex></expan>tas spirit<expan><am>ꝰ</am><ex>us</ex></expan> <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> humilitas. Mansuetudo siue benignitas. 
 <lb/><expan><am>Ꝯ</am><ex>Con</ex></expan>punctio siue dolor. Esuries iusticie s<add place="above">i</add>ue desideri<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> bonum. 
 <lb/><expan>Mis<ex>eri</ex>c<ex>or</ex><abbr rend="stroke">d</abbr>i<subst><del rend="alt">e</del><add place="overstrike">a</add></subst></expan>. Cordis mundicia. Pax.</seg> He <num n="7">septem</num> u<expan><am>&#x365;</am><ex>ir</ex></expan>tutes notant<expan><am>&#x1DD1;</am><ex>ur</ex></expan> 
-<lb/>in illo eu<expan><am>&#x1DD3;</am><ex>a</ex></expan>ng<expan><ex>e</ex><abbr rend="stroke">l</abbr></expan>io <quote source="Bible.Vul:Matt.5.1">Videns turbas <persName><expan>i<am rend="stroke">h</am><am>c</am><ex>esus</ex></expan></persName> ascendit in<reg> </reg>mont<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan></quote> <expan><am>⁊</am><ex>et</ex> c<am>&#x33E;.</am><ex>etera</ex></expan> 
+<lb/>in illo eu<expan><am>&#x1DD3;</am><ex>a</ex></expan>ng<expan><ex>e</ex><abbr rend="stroke">l</abbr></expan>io <quote source="Bible.Vul:Matt.5.1">Videns turbas <persName><expan>i<am rend="stroke">h</am><am>c</am><ex>esus</ex></expan></persName> ascendit in<reg> </reg>mont<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan></quote> <expan><am>⁊</am><ex>et</ex> c<am>&#x33E;</am><ex>etera</ex></expan>. 
 <lb/>In<reg> </reg>illo <expan>q<am>&#x366;</am><ex>uo</ex>q<am>ꝫ</am><ex>ue</ex></expan> e<expan>u<am>&#x1DD3;</am><ex>a</ex></expan>ngelio designantur <seg type="q" source="DQS#DOD-14:210va[31]"><num n="7">sept<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan></num> beatitudines</seg>. He <expan><am>.</am>s<ex>cilicet</ex></expan>. <seg type="q" source="DQS#DOD-15:210va[31]–210va[34]">Reg
 <lb break="no"/>num celorum. possessio t<expan><am>&#x33E;</am><ex>er</ex></expan>re uiuenti<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. <expan><am>ꝯ</am><ex>con</ex></expan>solatio. iusticie saci<pc rend="hyphen"/>
 <lb break="no"/>etas. <expan>mis<ex>eri</ex>c<ex>or</ex><abbr rend="stroke">d</abbr>ia</expan>. uisio dei. filiatio dei.</seg>
@@ -136,7 +136,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <note target="#DOD-2.2">
 <lb/><seg type="q" source="DQS#DOD-17:210vb[15]–210vb[16]">su<expan><am>ꝑ</am><ex>per</ex></expan>bia aufert <expan>hom<ex>in</ex><abbr rend="supraline">i</abbr></expan> deum.</seg>
 </note>
-<lb/><l xml:id="DOD-2.2"><hi rend="spaced">Q</hi>ua deus aufertur homini. <num n="1"><unclear>P</unclear><expan><am>&#x365;</am><ex>ri</ex></expan>mo</num><expan>q<am>ꝫ</am><ex>ue</ex></expan> petitu⸵</l>
+<lb/><l xml:id="DOD-2.2"><hi rend="spaced">Q</hi>ua deus aufertur homini. <num n="1">P<expan><am>&#x365;</am><ex>ri</ex></expan>mo</num><expan>q<am>ꝫ</am><ex>ue</ex></expan> petitu⸵</l>
 <note target="#DOD-2.3">
 <lb/><num n="1">P<expan><am>&#x365;</am><ex>ri</ex></expan>me</num> <seg type="q" source="DQS#DOD-18:211va[3]–211va[8]">peticioni dat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> spirit<expan><am>ꝰ</am><ex>us</ex></expan> timoris <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>i</expan>. ut ille ad cor ueni<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>s. 
 <lb/>uirtutem in eo creet humilitatis. que su<expan><am>ꝑ</am><ex>per</ex></expan>bie morb<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> sanet. 
@@ -144,10 +144,10 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/><expan><am>ꝑ</am><ex>per</ex></expan>didit⸵ homo humilis <expan><am>ꝑ</am><ex>per</ex></expan>uenire possit.</seg>
 </note>
 <pb n="43r"/>
-<lb/><l xml:id="DOD-2.3"><hi rend="spaced">D</hi>onatur <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>i</expan> timor. <unclear>h</unclear>ic humiles facit. <unclear>h</unclear>is<expan>q<am>ꝫ</am><ex>ue</ex></expan>⸵</l>
+<lb/><l xml:id="DOD-2.3"><hi rend="spaced">D</hi>onatur <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>i</expan> timor. Hic humiles facit. his<expan>q<am>ꝫ</am><ex>ue</ex></expan>⸵</l>
 <note target="#DOD-2.4">
-<lb/><expan>Ew<abbr rend="supraline">a</abbr><ex>n</ex><abbr rend="supraline">g</abbr><ex>elista</ex></expan>. <quote source="Bible.Vul:Matt.5.3">Beati pau<expan><am>ꝑ</am><ex>per</ex></expan>es <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan> <expan>q<ex>uonia</ex><abbr rend="supraline">m</abbr></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>o</expan>rum <expan><abbr rend="supraline">e</abbr><ex>st</ex><am>.</am></expan> regn<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> celor<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>.</quote> pau<expan><am>ꝑ</am><ex>per</ex></expan>es 
-<lb/>spiritu⸵ <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> humiles.
+<lb/><expan>Ew<abbr rend="supraline">a</abbr><ex>n</ex><abbr rend="supraline">g</abbr><ex>elista</ex></expan>. <quote source="Bible.Vul:Matt.5.3">Beati pau<expan><am>ꝑ</am><ex>per</ex></expan>es <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan> <expan>q<ex>uonia</ex><abbr rend="supraline">m</abbr></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>o</expan>rum <expan><abbr rend="supraline">e</abbr><ex>st</ex><am>.</am></expan> regn<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> celor<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>.</quote> <quote source="Bible.Vul:Matt.5.3">pau<expan><am>ꝑ</am><ex>per</ex></expan>es 
+<lb/>spiritu</quote>⸵ <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> humiles.
 </note>
 <lb/><l xml:id="DOD-2.4"><hi rend="spaced">C</hi>on<subst><del rend="erased">u</del><add place="overstrike">f</add></subst>er<del rend="strikethrough expunct">te</del>tur celi regnum. gaudent<expan>q<am>ꝫ</am><ex>ue</ex></expan> beati.</l>
 </lg>
@@ -161,25 +161,25 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>querit.<!-- again, follows Inst. --> ac <expan><am>ꝑ</am><ex>per</ex></expan> <expan>h<am>&#x307;</am><ex>oc</ex></expan> dum <expan><am>ꝓ</am><ex>pro</ex></expan> c<expan><abbr rend="supraline">o</abbr><ex>m</ex></expan>muni <expan>om<ex>n</ex><abbr rend="supraline">i</abbr>um</expan> salute postulat⸵ 
 <lb/>liuoris uicium se re<expan><am>ꝓ</am><ex>pro</ex></expan>bare demonstrat.</seg>
 </note>
-<lb/><milestone unit="lg" rend="enlarged paraph blue"/><l xml:id="DOD-3.1"><hi rend="spaced">S</hi>i sit digne facta <num n="2">secunda</num> petitio. <unclear>l</unclear>iuor⸵</l>
+<lb/><milestone unit="lg" rend="enlarged paraph blue"/><l xml:id="DOD-3.1"><hi rend="spaced">S</hi>i sit digne facta <num n="2">secunda</num> petitio. liuor⸵</l>
 <note target="#DOD-3.2a">
 <lb/><add place="inline" hand="#SP"><expan><ex>ue</ex><abbr rend="stroke">l</abbr></expan></add> <mentioned>De<surplus> </surplus>pulsatur</mentioned>.
 </note>
 <note target="#DOD-3.2">
 <seg type="q" source="DQS#DOD-20:210vb[16]–210vb[17]">Inuidia aufert <expan>hom<ex>in</ex><abbr rend="supraline">i</abbr></expan> <expan><am>ꝓ</am><ex>pro</ex></expan>ximum.</seg>
 </note>
-<lb/><l xml:id="DOD-3.2"><hi rend="spaced">I</hi>nde <seg xml:id="DOD-3.2a">fugatur</seg>. <unclear>d</unclear>icitur hic auferre <expan><am>ꝓ</am><ex>pro</ex></expan>pinquum.</l>
+<lb/><l xml:id="DOD-3.2"><hi rend="spaced">I</hi>nde <seg xml:id="DOD-3.2a">fugatur</seg>. dicitur hic auferre <expan><am>ꝓ</am><ex>pro</ex></expan>pinquum.</l>
 <note target="#DOD-3.3">
 <lb/><num n="2"><expan>Sec<ex>un</ex><abbr rend="stroke">d</abbr>e</expan></num> <seg type="q" source="DQS#DOD-21:211va[18]–211va[21]">petitioni datur <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> pietatis. ut <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>e</expan> ad cor ueniens⸵ ad 
 <lb/>benignitatem illud acc<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>dat. quatin<expan><am>ꝰ</am><ex>us</ex></expan> ad eand<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> homo et<expan><am>&#x33E;</am><ex>er</ex></expan>ne 
 <lb/>hereditatis possession<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> ad quam alios <expan><am>ꝑ</am><ex>per</ex></expan>uenire cupit⸵ <expan><am>⁊</am><ex>et</ex></expan><!-- om. Baron --> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>e</expan> 
 <lb/><expan><am>ꝑ</am><ex>per</ex></expan>ueniat.</seg>
 </note>
-<lb/><l xml:id="DOD-3.3"><hi rend="spaced">H</hi>ac prece donatur pietas. <expan><am><unclear>ꝑ</unclear></am><ex>per</ex></expan> quam generatur⸵</l>
+<lb/><l xml:id="DOD-3.3"><hi rend="spaced">H</hi>ac prece donatur pietas. <expan><am>ꝑ</am><ex>per</ex></expan> quam generatur⸵</l>
 <note target="#DOD-3.4">
-<lb/><expan>Ewan<abbr rend="supraline">g</abbr><ex>elista</ex></expan>. <quote source="Bible.Vul:Matt.5.3">Beati mites <expan>q<ex>uonia</ex><abbr rend="supraline">m</abbr></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>i</expan> possidebunt t<expan><am>&#x33E;</am><ex>er</ex></expan>ram.</quote>
+<lb/><expan>Ewan<abbr rend="supraline">g</abbr><ex>elista</ex></expan>. <quote source="Bible.Vul:Matt.5.4">Beati mites <expan>q<ex>uonia</ex><abbr rend="supraline">m</abbr></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>i</expan> possidebunt t<expan><am>&#x33E;</am><ex>er</ex></expan>ram.</quote>
 </note>
-<lb/><l xml:id="DOD-3.4"><hi rend="spaced">M</hi>ansuetudo. <unclear>q</unclear>ua uiuentum sit data terra.</l>
+<lb/><l xml:id="DOD-3.4"><hi rend="spaced">M</hi>ansuetudo. qua uiuentum sit data terra.</l>
 </lg>
 <lg n="4">
 <note target="#DOD-4.1">
@@ -192,12 +192,12 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <note target="#DOD-4.2">
 <lb/><seg type="q" source="DQS#DOD-23:210vb[17]">ira aufert homini se <expan>i<abbr rend="supraline">p</abbr><ex>su</ex>m</expan>.</seg>
 </note>
-<lb/><l xml:id="DOD-4.2"><hi rend="spaced">H</hi>ec aufert homini semet. <unclear>s</unclear>poliatur. <unclear>a</unclear>b ipso⸵</l>
+<lb/><l xml:id="DOD-4.2"><hi rend="spaced">H</hi>ec aufert homini semet. spoliatur. ab ipso⸵</l>
 <note target="#DOD-4.3">
 <lb/>Cum su<expan><am>ꝑ</am><ex>per</ex></expan>bia auferat <expan>h<abbr rend="supraline">o</abbr><ex>min</ex>i</expan> <expan>d<ex>eu</ex><abbr rend="supraline">m</abbr></expan>. <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan>uidia <expan><am>ꝓ</am><ex>pro</ex></expan>xim<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. ira se <expan>i<abbr rend="supraline">p</abbr><ex>su</ex>m</expan>⸵ exspo<pc rend="hyphen"/>
 <lb break="no"/>liatur<supplied reason="omitted">.</supplied>
 </note>
-<lb/><l xml:id="DOD-4.3"><hi rend="spaced">C</hi>um <expan>d<ex>eu</ex><abbr rend="supraline">s</abbr></expan> aufertur. <expan><am><unclear>⁊</unclear></am><ex>et</ex></expan> <expan><am>ꝓ</am><ex>pro</ex></expan>ximus. <expan><am><unclear>⁊</unclear></am><ex>et</ex></expan> simul <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>e</expan>.</l>
+<lb/><l xml:id="DOD-4.3"><hi rend="spaced">C</hi>um <expan>d<ex>eu</ex><abbr rend="supraline">s</abbr></expan> aufertur. <expan><am>⁊</am><ex>et</ex></expan> <expan><am>ꝓ</am><ex>pro</ex></expan>ximus. <expan><am>⁊</am><ex>et</ex></expan> simul <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>e</expan>.</l>
 <note target="#DOD-4.4 #DOD-4.5">
 <lb/><num n="3">Tertie</num> <seg type="q" source="DQS#DOD-24:211va[27]–211va[34]">petitioni datur spirit<expan><am>ꝰ</am><ex>us</ex></expan> scientie. ut <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>e</expan> ad cor ueniens⸵ 
 <lb/>erudiat illud <expan><am>⁊</am><ex>et</ex></expan><reg> </reg>salubriter <expan><am>ꝯ</am><ex>con</ex></expan>pungat. ut sciat homo malum 
@@ -205,17 +205,17 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/><expan>mis<ex>eri</ex>c<ex>or</ex><abbr rend="stroke">d</abbr>ia</expan> dei <expan><am>ꝓ</am><ex>pro</ex></expan>cedere. ac <expan><am>ꝑ</am><ex>per</ex></expan> hoc discat siue in malis <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> sustinet. 
 <lb/>siue in bonis <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> habet⸵ <expan><am>ꝯ</am><ex>con</ex></expan>tra creatorem <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> irasci. <expan>s<am>ꝫ</am><ex>ed</ex></expan> <expan><am>ꝑ</am><ex>per</ex></expan> <expan>o<abbr rend="supraline">m</abbr><ex>n</ex>ia</expan>⸵ 
 <pb n="43v"/>
-<lb/>patienti<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> exhibere.</seg> <seg type="q" source="DQS#DOD-25:211va[37]–211vb[3]">stult<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> ira int<expan><am>&#x33E;</am><ex>er</ex></expan>ficit. q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>ndo in<reg> </reg>adu<expan><am>&#x33E;</am><ex>er</ex></expan>sis <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>inpatien<pc rend="hyphen"/>
+<lb/>patienti<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> exhibere.</seg> <seg type="q" source="DQS#DOD-25:211va[37]–211vb[3]"><quote source="Bible.Vul:Job.5.2">stult<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> ira int<expan><am>&#x33E;</am><ex>er</ex></expan>ficit.</quote> q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>ndo in<reg> </reg>adu<expan><am>&#x33E;</am><ex>er</ex></expan>sis <expan><am>ꝑ</am><ex>per</ex></expan><reg> </reg>inpatien<pc rend="hyphen"/>
 <lb break="no"/>tie uici<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> agitat<expan><am>ꝰ</am><ex>us</ex></expan> at<expan>q<am>ꝫ</am><ex>ue</ex></expan> cecat<expan><am>ꝰ</am><ex>us</ex></expan> uel mal<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> quod patit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> se meruisse. vel 
 <lb/>bon<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> <expan>h<ex>abe</ex><abbr rend="supraline">t</abbr></expan> <expan><am>ꝑ</am><ex>per</ex></expan> <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan>m se<!-- om. Baron --> accepisse <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> agnoscit. H<expan><abbr rend="supraline">a</abbr><ex>n</ex></expan>c u<expan><am>&#x365;</am><ex>ir</ex></expan>tutem <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> 
-<lb/><expan><am>ꝯ</am><ex>con</ex></expan>punction<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> siue dolorem<add place="inline">⸵</add> <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>mium <expan><am>ꝯ</am><ex>con</ex></expan>solationis sequit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. Vt q<expan><am>&#x365;</am><ex>ui</ex></expan> 
+<lb/><expan><am>ꝯ</am><ex>con</ex></expan>punction<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> siue dolorem<add place="inline">⸵</add> <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>mium <expan><am>ꝯ</am><ex>con</ex></expan>solationis sequit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. vt q<expan><am>&#x365;</am><ex>ui</ex></expan> 
 <lb/>se hic sponte coram deo <expan><am>ꝑ</am><ex>per</ex></expan> la<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>ta affligit⸵<!-- 'illic' add. Baron --> ver<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> gaudium <expan><am>&amp;</am><ex>et</ex></expan> 
 <lb/>leticiam inuenire mereatur.</seg>
 </note>
-<lb/><l xml:id="DOD-4.4"><hi rend="spaced">I</hi>sta largitur prece sana scientia. <expan><am><unclear>Ꝑ</unclear></am><ex>Per</ex></expan> quam⸵</l>
-<lb/><l xml:id="DOD-4.5"><hi rend="spaced">P</hi>rouenit in<reg> </reg>fletu <expan><am>ꝯ</am><ex>con</ex></expan>punctio. <unclear>g</unclear>rata saluti.</l>
+<lb/><l xml:id="DOD-4.4"><hi rend="spaced">I</hi>sta largitur prece sana scientia. <expan><am>ꝑ</am><ex>per</ex></expan> quam⸵</l>
+<lb/><l xml:id="DOD-4.5"><hi rend="spaced">P</hi>rouenit in<reg> </reg>fletu <expan><am>ꝯ</am><ex>con</ex></expan>punctio. grata saluti.</l>
 <note target="#DOD-4.6a">
-<lb/><expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>punctione.
+<lb/><expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> <mentioned><expan><am>ꝯ</am><ex>con</ex></expan>punctione</mentioned>.
 </note>
 <note target="#DOD-4.6">
 <expan>Ew<abbr rend="supraline">a</abbr><ex>n</ex><abbr rend="supraline">g</abbr><ex>elista</ex></expan>. <quote source="Bible.Vul:Matt.5.5">Beati qui lugent <expan>q<ex>uonia</ex><abbr rend="supraline">m</abbr></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>i</expan> <expan><am>ꝯ</am><ex>con</ex></expan>solab<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>t<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</quote>
@@ -230,16 +230,16 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>at<expan>q<am>ꝫ</am><ex>ue</ex></expan> o<expan><abbr rend="supraline">m</abbr><ex>n</ex></expan>i uigore e<reg> </reg>mortuo⸵ nullo desiderio <expan>sp<ex>irit</ex><abbr rend="supraline">u</abbr>alis</expan> refectionis hi
 <lb break="no"/>larescit.</seg> <seg type="q" source="DQS#DOD-27:210vb[17]–210vb[18]">tristicia flagellat hominem.</seg>
 </note>
-<lb/><milestone unit="lg" rend="enlarged paraph red"/><l xml:id="DOD-5.1"><num n="4"><hi rend="spaced">Q</hi>uarta</num> peticio tristiciam fugat. <unclear>i</unclear>sta flagellat⸵</l>
+<lb/><milestone unit="lg" rend="enlarged paraph red"/><l xml:id="DOD-5.1"><num n="4"><hi rend="spaced">Q</hi>uarta</num> peticio tristiciam fugat. ista flagellat⸵</l>
 <note target="#DOD-5.2 #DOD-5.3">
 <lb/><num n="4">Quarte</num> <seg type="q" source="DQS#DOD-28:211vb[15]–211vb[22]">peticioni datur <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> fortitudinis. ut fatiscentem ani<pc rend="hyphen"/>
 <lb break="no"/>mum erigat. quatin<expan><am>ꝰ</am><ex>us</ex></expan> illa p<expan><am>&#x365;</am><ex>ri</ex></expan>stini uigoris uirtute recepta⸵ a<del rend="erased">d</del> 
 <lb/><subst><del rend="erased"><unclear>in</unclear></del><add place="overstrike">de</add></subst>fectu<del rend="erased">m</del> sui tedi<hi rend="longa">i</hi> ad desi<expan><abbr rend="stroke">d</abbr><ex>er</ex></expan>ium <add place="overstrike"><expan><abbr rend="supraline">i</abbr><ex>n</ex></expan></add>terni saporis <expan><am>ꝯ</am><ex>con</ex></expan>ualescat. creat 
-<lb/><expan><ex>er</ex>g<am>&#x366;</am><ex>o</ex></expan> spirit<expan><am>ꝰ</am><ex>us</ex></expan> fortitudinis in corde fam<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> iusticie. Vt q<expan><am>&#x365;</am><ex>ui</ex></expan><!-- 'dum' Baron --> hic <expan><am>ꝑ</am><ex>per</ex></expan> desi<expan><abbr rend="stroke">d</abbr><ex>er</ex></expan>i<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
+<lb/><expan><ex>er</ex>g<am>&#x366;</am><ex>o</ex></expan> spirit<expan><am>ꝰ</am><ex>us</ex></expan> fortitudinis in corde fam<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> iusticie. vt q<expan><am>&#x365;</am><ex>ui</ex></expan><!-- 'dum' Baron --> hic <expan><am>ꝑ</am><ex>per</ex></expan> desi<expan><abbr rend="stroke">d</abbr><ex>er</ex></expan>i<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
 <lb/>pietatis fortiter accendit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>⸵ illic <expan><am>ꝓ</am><ex>pro</ex></expan> premio plen<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> beatitudinis 
 <lb/>sacietatem consequatur.</seg>
 </note>
-<lb/><l xml:id="DOD-5.2"><!-- Ex- originally started one line higher --><hi rend="spaced">E</hi>xpoliatum. <unclear>f</unclear>ortis spiritus<unclear>.</unclear> <unclear>h</unclear>ac prece <add place="overstrike">fertur.</add></l>
+<lb/><l xml:id="DOD-5.2"><!-- Ex- originally started one line higher --><hi rend="spaced">E</hi>xpoliatum. Fortis spiritus hac prece <add place="overstrike">fertur.</add></l>
 <lb/><l xml:id="DOD-5.3"><hi rend="spaced">E</hi>suries bona iusticie producit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> inde.</l>
 <note target="#DOD-5.4">
 <lb/><expan>Ewang<am>&#x33E;</am><ex>elista</ex></expan>. <quote source="Bible.Vul:Matt.5.6">Beati qui esuriunt <expan><am>⁊</am><ex>et</ex></expan> sitiunt i<expan><am>ꝰ</am><ex>us</ex></expan>ticiam<add place="inline">⸵</add> <expan>q<ex>uonia</ex><abbr rend="supraline">m</abbr></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>i</expan> satu<pc rend="hyphen"/>
@@ -254,9 +254,9 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb break="no"/>do debito <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> debeat <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> anxi<expan><am>ꝰ</am><ex>us</ex></expan>⸵ qui in<reg> </reg>exigendo noluerit <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> amar<expan><am>ꝰ</am><ex>us</ex></expan>.
 <lb/>At<expan>q<am>ꝫ</am><ex>ue</ex></expan> ideo cum a <expan>no<abbr rend="stroke">b</abbr><ex>is</ex></expan> <expan><am>ꝑ</am><ex>per</ex></expan> dei <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan>m uici<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> auari<add place="overstrike">c</add>ie tollitur⸵ qua<pc rend="hyphen"/>
 <lb break="no"/>liter a<reg> </reg><expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>o</expan> debito absolui <space quantity="2" unit="character"/> debeam<expan><am>ꝰ</am><ex>us</ex></expan><add place="inline">⸵</add> exposita<!-- 'ex proposita' Baron --> salutis <expan><am>ꝯ</am><ex>con</ex></expan>ditione 
-<lb/>donatur.</seg> <seg type="q" source="DQS#DOD-30:210vb[18]">auaricia hominem spoliat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <add place="overstrike"><expan><am>⁊</am><ex>et</ex></expan></add> flagellat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> eicit.</seg>
+<lb/>donatur.</seg> <seg type="q" source="DQS#DOD-30a:210vb[18]">auaricia</seg> hominem spoliat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <add place="overstrike"><expan><am>⁊</am><ex>et</ex></expan></add> <seg type="q" source="DQS#DOD-30b:210vb[18]">flagellat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> eicit.</seg>
 </note>
-<lb/><milestone unit="lg" rend="enlarged paraph blue"/><l xml:id="DOD-6.1"><num n="5"><hi rend="spaced">Q</hi>uinta</num> petitio trudit auariciam. <unclear>s</unclear>poliatum⸵</l>
+<lb/><milestone unit="lg" rend="enlarged paraph blue"/><l xml:id="DOD-6.1"><num n="5"><hi rend="spaced">Q</hi>uinta</num> petitio trudit auariciam. spoliatum⸵</l>
 <note target="#DOD-6.2 #DOD-6.3">
 <lb/><num n="5">Quinte</num> <seg type="q" source="DQS#DOD-31:211vb[30]–211vb[34]">peticioni datur spirit<expan><am>ꝰ</am><ex>us</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>sili<hi rend="longa">i</hi> qui doceat nos in <expan>h<am>&#x307;</am><ex>oc</ex></expan> sec<expan><ex>u</ex><abbr rend="stroke">l</abbr></expan>o 
 <pb n="44r"/>
@@ -264,10 +264,10 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>cum <expan><am>ꝓ</am><ex>pro</ex></expan> peccatis <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>is</expan> ration<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> reddituri sum<expan><am>ꝰ</am><ex>us</ex></expan><add place="inline">⸵</add> mereamur mise<pc rend="hyphen"/>
 <lb break="no"/>ricordiam inuenire.</seg>
 </note>
-<lb/><l xml:id="DOD-6.2"><hi rend="spaced">E</hi>icit hec hominem. <unclear>d</unclear>onatur spirit<expan><am>ꝰ</am><ex>us</ex></expan> inde<subst><del rend="alt">.</del><add place="overstrike">⸵</add></subst></l>
-<lb/><l xml:id="DOD-6.3"><hi rend="spaced">C</hi>onsili<hi rend="longa">i</hi>. <unclear>F</unclear>acit hic homines fratrum miserentes.</l>
+<lb/><l xml:id="DOD-6.2"><hi rend="spaced">E</hi>icit hec hominem. Donatur spirit<expan><am>ꝰ</am><ex>us</ex></expan> inde<subst><del rend="alt">.</del><add place="overstrike">⸵</add></subst></l>
+<lb/><l xml:id="DOD-6.3"><hi rend="spaced">C</hi>onsili<hi rend="longa">i</hi>. facit hic homines fratrum miserentes.</l>
 <note target="#DOD-6.4a">
-<lb/><expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> misericordi<expan>b<am>ꝫ</am><ex>us</ex></expan>.
+<lb/><expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> <mentioned>misericordi<expan>b<am>ꝫ</am><ex>us</ex></expan></mentioned>.
 </note>
 <note target="#DOD-6.4">
 <expan>Ewang<am>&#x33E;</am><ex>elista</ex></expan>. <quote source="Bible.Vul:Matt.5.6">Beati 
@@ -285,11 +285,11 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/><expan>s<ex>e</ex>c<ex>un</ex><abbr rend="stroke">d</abbr><ex>u</ex>m</expan> mensur<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> necessitatis nature subsidi<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> inpendere⸵ ut 
 <lb/><expan>t<ex>ame</ex><abbr rend="supraline">n</abbr></expan> semper memin<add place="overstrike">eri</add>m<expan><am>ꝰ</am><ex>us</ex></expan> appetit<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> ab<reg> </reg>illecebra uoluptatis cohercere.</seg>
 </note>
-<lb/><milestone unit="lg" rend="enlarged paraph red"/><l xml:id="DOD-7.1"><num n="6"><hi rend="spaced">S</hi>exta</num> gulam pulsare petitio dicitur. <unclear>i</unclear>sta⸵</l>
+<lb/><milestone unit="lg" rend="enlarged paraph red"/><l xml:id="DOD-7.1"><num n="6"><hi rend="spaced">S</hi>exta</num> gulam pulsare petitio dicitur. ista⸵</l>
 <note target="#DOD-7.2">
 <lb/><seg type="q" source="DQS#DOD-33:210vb[19]">Gula hominem eiectum se<del rend="strikethrough"> </del>ducit.</seg>
 </note>
-<lb/><l xml:id="DOD-7.2"><hi rend="spaced">E</hi>iectum male seducit. <unclear>d</unclear>atur hac <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>ce digna⸵</l>
+<lb/><l xml:id="DOD-7.2"><hi rend="spaced">E</hi>iectum male seducit. Datur hac <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>ce digna⸵</l>
 <note target="#DOD-7.3">
 <lb/><num n="6">Sexte</num> petitioni <seg type="q" source="DQS#DOD-34:212ra[4]–212ra[15]">datur spirit<expan><am>ꝰ</am><ex>us</ex></expan> intelligentie. <expan>V<am>&#x365;</am><ex>t</ex></expan> in<del rend="strikethrough"> </del>t<expan><am>&#x33E;</am><ex>er</ex></expan>na refectio 
 <lb/>uerbi dei<add place="inline">⸵</add> appetitum ext<expan><am>&#x33E;</am><ex>er</ex></expan>iorem cohibeat. <expan><am>⁊</am><ex>et</ex></expan> <expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>tem <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>ali cibo 
@@ -297,11 +297,11 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>uoluptas su<expan><am>ꝑ</am><ex>per</ex></expan>are. <expan><am>ꝓ</am><ex>pro</ex></expan>pt<expan><am>&#x33E;</am><ex>er</ex></expan>ea n<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan><expan>q<am>ꝫ</am><ex>ue</ex></expan> <expan><am>⁊</am><ex>et</ex></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>e</expan> <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex>s</expan> t<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>ptatori suo. dum 
 <lb/>esurienti sibi fraudulent<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> de ext<expan><am>&#x33E;</am><ex>er</ex></expan>ioris panis refectione sug
 <lb break="no"/>gestionem faceret⸵ respondit dicens. <quote source="Bible.Vul:Matt.4.4"><expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> in solo pane uiu<subst><del rend="expunct">e</del><add place="above">i</add></subst>t <expan>h<ex>om</ex><abbr rend="supraline">o</abbr></expan>. 
-<lb/><expan>s<am>ꝫ</am><ex>ed</ex></expan> in <expan>om<ex>n</ex><abbr rend="supraline">i</abbr></expan> u<expan><am>&#x33E;</am><ex>er</ex></expan>bo <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> <expan><am>ꝓ</am><ex>pro</ex><am>.</am><ex>cedit</ex> d<ex>e ore dei</ex></expan></quote>. ut a<expan><am>ꝑ</am><ex>per</ex></expan>te demonstret<!-- 'demonstraret' Baron -->⸵ q<expan><am>&#x365;</am><ex>ui</ex></expan>a q<expan><am>&#x365;</am><ex>ui</ex></expan> <expan><abbr rend="supraline">c</abbr><ex>um</ex></expan> <subst><del rend="erased"><expan><abbr rend="supraline">m</abbr><ex>en</ex></expan><unclear>u</unclear></del><add place="overstrike">m<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan></add></subst>s illo int<expan><am>&#x33E;</am><ex>er</ex></expan>ius 
+<lb/><expan>s<am>ꝫ</am><ex>ed</ex></expan> in <expan>om<ex>n</ex><abbr rend="supraline">i</abbr></expan> u<expan><am>&#x33E;</am><ex>er</ex></expan>bo <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> <expan><am>ꝓ</am><ex>pro</ex><am>.</am><ex>cedit</ex> d<ex>e ore dei</ex></expan></quote>. ut a<expan><am>ꝑ</am><ex>per</ex></expan>te demonst<supplied reason="omitted" source="#DQS">ra</supplied>ret⸵ q<expan><am>&#x365;</am><ex>ui</ex></expan>a <surplus>q<expan><am>&#x365;</am><ex>ui</ex></expan></surplus> <expan><abbr rend="supraline">c</abbr><ex>um</ex></expan> <subst><del rend="erased"><expan><abbr rend="supraline">m</abbr><ex>en</ex></expan><unclear>u</unclear></del><add place="overstrike">m<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan></add></subst>s illo int<expan><am>&#x33E;</am><ex>er</ex></expan>ius 
 <lb/>pane reficit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>⸵ <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> magno<surplus><!-- something added above the line? --> o</surplus><expan><am>ꝑ</am><ex>per</ex></expan>e<!-- 'magnopere' Baron --> curat si foris ad temp<expan><am>ꝰ</am><ex>us</ex></expan>⸵ fam<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> carnis 
 <lb/>patiat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</seg> <seg type="q" source="DQS#DOD-35:212ra[23]–212ra[24]">ex <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan> intelligentie mundicia cordis nascit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</seg>
 </note>
-<lb/><l xml:id="DOD-7.3"><hi rend="spaced">S</hi>piritus intellectus. <unclear>m</unclear>undiciam creat <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>e</expan>.</l>
+<lb/><l xml:id="DOD-7.3"><hi rend="spaced">S</hi>piritus intellectus. mundiciam creat <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>e</expan>.</l>
 <note target="#DOD-7.4">
 <lb/><del rend="erased"><expan><am>ꝯ</am><ex>con</ex></expan></del><seg type="q" source="DQS#DOD-36:212ra[24]–212ra[26]">m<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>dicia cordis uision<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> dei <expan><am>ꝓ</am><ex>pro</ex></expan>meret<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. sicut script<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan>. <quote source="Bible.Vul:Matt.5.8">Beati m<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>do 
 <lb/>corde <expan>q<ex>uonia</ex><abbr rend="supraline">m</abbr></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>i</expan> <expan>d<ex>eu</ex><abbr rend="supraline">m</abbr></expan> uidebunt.</quote></seg>
@@ -316,7 +316,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <note target="#DOD-8.2">
 <lb/><seg type="q" source="DQS#DOD-38:210vb[19]–210vb[20]">Luxuria hominem seduct<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> seruituti subicit.</seg>
 </note>
-<lb/><l xml:id="DOD-8.2"><hi rend="spaced">D</hi>icitur. <unclear>h</unclear>ec hominem seduct<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> subicit. <unclear>u</unclear>t sit⸵</l>
+<lb/><l xml:id="DOD-8.2"><hi rend="spaced">D</hi>icitur. hec hominem seduct<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> subicit. ut sit⸵</l>
 <note target="#DOD-8.3">
 <lb/><num n="7">Septime</num> <seg type="q" source="DQS#DOD-39:212ra[29]–212ra[42]">petitioni dat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan> sapientie. q<expan><am>&#x365;</am><ex>ui</ex></expan> amiss<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> captiuo li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>tatem⸵ 
 <pb n="44v"/>
@@ -330,7 +330,7 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>tandem<!-- 'tandemque' Baron --> pacificata in semet <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>a</expan> mens d<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> nichil <expan><am>∻</am><ex>est</ex></expan> <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> foris ap<pc rend="hyphen"/>
 <lb break="no"/>petat⸵ tota <expan><am>ꝑ</am><ex>per</ex></expan><add place="inline"> </add>amorem intus requiescat.</seg>
 </note>
-<lb/><l xml:id="DOD-8.3"><hi rend="spaced">S</hi>eruus. <unclear>d</unclear>onatur sapientia spiritualis⸵</l>
+<lb/><l xml:id="DOD-8.3"><hi rend="spaced">S</hi>eruus. Donatur sapientia spiritualis⸵</l>
 <note target="#DOD-8.4 #DOD-8.5 #DOD-8.6 #DOD-8.7">
 <lb/><seg type="q" source="DQS#DOD-40:212ra[42]–212rb[7]">Spirit<expan><am>ꝰ</am><ex>us</ex></expan> sapientie cor sua dulcedine tangens⸵ <expan><am>⁊</am><ex>et</ex></expan> foris <expan><am>ꝯ</am><ex>con</ex></expan>cupisc<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>tie 
 <lb/>ardorem t<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan><expan><am>ꝑ</am><ex>per</ex></expan>at⸵ <expan><am>⁊</am><ex>et</ex></expan> sopita <expan><am>ꝯ</am><ex>con</ex></expan>cupisc<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>tia int<expan><am>ꝰ</am><ex>us</ex></expan> pac<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> creat. quatin<expan><am>ꝰ</am><ex>us</ex></expan> 
@@ -338,9 +338,9 @@ The @break attribute is editorial, and does not necessarily correspond to the wo
 <lb/>homo ad ymaginem dei reformet<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. sicut scriptum <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan>. <quote source="Bible.Vul:Matt.5.9">Beati pa<pc rend="hyphen"/>
 <lb break="no"/>cifici <expan>q<ex>uonia</ex><abbr rend="supraline">m</abbr></expan> fili<hi rend="longa">i</hi> dei uocabunt<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</quote></seg>
 </note>
-<lb/><l xml:id="DOD-8.4"><hi rend="spaced">H</hi>ac prece. <unclear>f</unclear>eruorem<expan>q<am>ꝫ</am><ex>ue</ex></expan> foris sapientia sedat.</l>
+<lb/><l xml:id="DOD-8.4"><hi rend="spaced">H</hi>ac prece. feruorem<expan>q<am>ꝫ</am><ex>ue</ex></expan> foris sapientia sedat.</l>
 <lb/><l xml:id="DOD-8.5"><hi rend="spaced">S</hi>opito<expan>q<am>ꝫ</am><ex>ue</ex></expan> malo motu<add place="inline">⸵</add> pacem creat int<expan><am>ꝰ</am><ex>us</ex></expan>.</l>
-<lb/><l xml:id="DOD-8.6"><hi rend="spaced">S</hi>ic<expan>q<am>ꝫ</am><ex>ue</ex></expan> reformatur homo. <unclear>p</unclear>ax facit ut sit⸵</l>
+<lb/><l xml:id="DOD-8.6"><hi rend="spaced">S</hi>ic<expan>q<am>ꝫ</am><ex>ue</ex></expan> reformatur homo. Pax facit ut sit⸵</l>
 <lb/><l xml:id="DOD-8.7"><hi rend="spaced">F</hi>ili<expan><am>ꝰ</am><ex>us</ex></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>e</expan> dei collata pace superna.</l>
 <note target="#DOD-8.8 #DOD-8.9 #DOD-8.10">
 <lb/><seg type="q" source="DQS#DOD-41:210va[35]–210va[40]">Intellige<!-- 'ut intelligas' Baron --> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>a</expan> uicia quasi q<expan><am>&#x366;</am><ex>uo</ex></expan>sdam esse <expan>a<ex>n</ex><abbr rend="supraline">i</abbr><ex>m</ex>e</expan> languores siue uulnera in
