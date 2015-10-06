@@ -1,0 +1,1818 @@
+---
+references:
+- id: newhauser:2009capital
+  type: chapter
+  author:
+  - family: Newhauser
+    given: Richard
+  editor:
+  - family: Flüeler
+    given: Christoph
+  - family: Rohde
+    given: Martin
+  issued:
+  - year: '2009'
+    month: '4'
+    day: '17'
+  accessed:
+  - year: '2015'
+    month: '9'
+    day: '5'
+  title: The capital vices as medieval anthropology
+  container-title: <span class="nocase">Laster im Mittelalter</span>/Vices in the
+    Middle Ages
+  collection-title: Scrinium Friburgense
+  collection-number: '23'
+  publisher: De Gruyter
+  publisher-place: Berlin
+  event-place: Berlin
+  page: '105-124'
+  source: CrossRef
+  DOI: 10.1515/9783110217377.105
+  URL: http://www.degruyter.com/view/books/9783110217377/9783110217377.105/9783110217377.105.xml
+  ISBN: '978-3-11-020274-8'
+  language: en
+
+- id: baron:1956étude
+  type: article-journal
+  author:
+  - family: Baron
+    given: Roger
+  issued:
+  - year: '1956'
+  title: Étude sur l’authenticité de l’œuvre de Hugues de Saint-Victor d’après les
+    manuscrits Paris, B. Mazarine 717, BN 14506 et Douai 360–366
+  container-title: Scriptorium
+  container-title-short: scrip
+  page: '182-220'
+  volume: '10'
+  issue: '2'
+  DOI: 10.3406/scrip.1956.2703
+  ISSN: '0036-9772'
+  language: French
+
+- id: rudolph:2014mystic
+  type: book
+  author:
+  - family: Rudolph
+    given: Conrad
+  issued:
+  - year: '2014'
+  title: 'The Mystic Ark: Hugh of Saint Victor, art, and thought in the twelfth
+    century'
+  title-short: The Mystic Ark
+  publisher: Cambridge University Press
+  publisher-place: New York
+  event-place: New York
+  number-of-pages: '609'
+  source: Library of Congress ISBN
+  DOI: 10.1017/CBO9781139583459
+  URL: http://doi.org/10.1017/CBO9781139583459
+  ISBN: '978-1-107-03705-2'
+  call-number: ND553.H82 R83 2014
+
+- id: sharpe:1998reconstructing
+  type: chapter
+  author:
+  - family: Sharpe
+    given: Richard
+  editor:
+  - family: Gransden
+    given: Antonia
+  issued:
+  - year: '1998'
+  title: 'Reconstructing the medieval library of Bury St Edmunds Abbey: the lost
+    catalogue of Henry of Kirkstead'
+  container-title: 'Bury St Edmunds: medieval art, architecture, archaeology, and
+    economy'
+  collection-title: Conference transactions
+  collection-number: '20'
+  publisher: British Archaeological Association
+  publisher-place: Leeds
+  event-place: Leeds
+  page: 204–218
+  source: Library of Congress ISBN
+  ISBN: '0-901286-88-5'
+  call-number: NA5471.B9 B87 1998
+
+- id: baron:1963études
+  type: book
+  author:
+  - family: Baron
+    given: Roger
+  issued:
+  - year: '1963'
+  title: Études sur Hugues de Saint-Victor
+  publisher: de Brouwer
+  publisher-place: Paris
+  event-place: Paris
+  number-of-pages: '274'
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: B765 .H74 B32 1963 IMS
+  language: French
+
+- id: rorem:2009hugh
+  type: book
+  author:
+  - family: Rorem
+    given: Paul
+  issued:
+  - year: '2009'
+  accessed:
+  - year: '2015'
+    month: '6'
+    day: '19'
+  title: Hugh of Saint Victor
+  collection-title: Great medieval thinkers
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  event-place: Oxford
+  source: Open WorldCat
+  DOI: 10.1093/acprof:oso/9780195384369.001.0001
+  abstract: Hugh of Saint Victor (1096-1141) was an incredibly influential philosopher
+    and theologian in 10th century France. Here, Paul Rorem offers a basic introduction
+    to Hugh’s theology, through a comprehensive survey of his works.
+  URL: http://doi.org/10.1093/acprof:oso/9780195384369.001.0001
+  ISBN: '978-0-19-972501-4'
+  language: English
+
+- id: thomson:1989catalogue
+  type: book
+  author:
+  - family: Thomson
+    given: Rodney M.
+  issued:
+  - year: '1989'
+  title: Catalogue of the manuscripts of Lincoln Cathedral Chapter Library
+  publisher: Brewer
+  publisher-place: Woodbridge, Suffolk
+  event-place: Woodbridge, Suffolk
+  number-of-pages: '277'
+  source: toroprod.library.utoronto.ca Library Catalog
+  ISBN: '0-85991-278-7'
+  call-number: Z6621 .L456 L57 1989 IMS
+
+- id: dinkovabruun:2009samuel
+  type: chapter
+  author:
+  - family: Dinkova-Bruun
+    given: Greti
+  editor:
+  - family: Meirinhos
+    given: José Francisco
+  - family: Weijers
+    given: Olga
+  issued:
+  - year: '2009'
+  title: 'Samuel Presbyter and the Glosses to His Versification of Psalm 1: An Anti-Church
+    Invective?'
+  title-short: Samuel Presbyter
+  container-title: 'Florilegium mediaevale: Études offertes à Jacqueline Hamesse
+    à l’occasion de son éméritat'
+  collection-title: Textes et études du moyen âge
+  collection-number: '50'
+  publisher: Fédération Internationale des Instituts d’Études Médiévales
+  publisher-place: Louvain-la-Neuve
+  event-place: Louvain-la-Neuve
+  page: 155–174
+  source: Library of Congress ISBN
+  ISBN: '978-2-503-53146-5'
+  call-number: CB351 .F564 2009
+  language: French
+
+- id: pierazzo:2014digital
+  type: article-journal
+  author:
+  - family: Pierazzo
+    given: Elena
+  issued:
+  - year: '2014'
+  accessed:
+  - year: '2014'
+    month: '11'
+    day: '2'
+  title: Digital documentary editions and the others
+  container-title: Scholarly Editing
+  volume: '35'
+  URL: http://scholarlyediting.org/2014/essays/essay.pierazzo.html
+
+- id: giraud:2010rayonnement
+  type: chapter
+  author:
+  - family: Giraud
+    given: Cédric
+  - family: Stirnemann
+    given: Patricia
+  editor:
+  - family: Poirel
+    given: Dominique
+  issued:
+  - year: '2010'
+  accessed:
+  - year: '2013'
+    month: '10'
+    day: '15'
+  title: 'Le rayonnement de l’école de Saint-Victor: Manuscrits de la Bibliothèque
+    Mazarine'
+  container-title: 'L’école de Saint-Victor de Paris: Influence et rayonnement du
+    Moyen Âge à l’époque moderne'
+  collection-title: Bibliotheca Victorina
+  collection-number: '22'
+  publisher: Brepols
+  publisher-place: Turnhout
+  event-place: Turnhout
+  page: '653-666'
+  source: MetaPress
+  DOI: 10.1484/M.BV-EB.3.4430
+  URL: http://dx.doi.org/10.1484/M.BV-EB.3.4430
+  ISBN: '978-2-503-53562-3'
+  language: French
+
+- id: edstam:2014twelfthcentury
+  type: thesis
+  author:
+  - family: Edstam
+    given: Torsten Kitada
+  issued:
+  - year: '2014'
+  accessed:
+  - year: '2015'
+    month: '9'
+    day: '15'
+  title: 'From twelfth-century renaissance to fifteenth-century reform: The reception
+    of Hugh of St. Victor in the later Middle Ages'
+  title-short: From twelfth-century renaissance to fifteenth-century reform
+  publisher: University of Chicago
+  publisher-place: United States – Illinois
+  event-place: United States – Illinois
+  number-of-pages: '401'
+  source: ProQuest
+  genre: PhD diss.
+  abstract: For over four decades, historians have acknowledged the popularity of
+    twelfth-century spiritual writings in the later Middle Ages. However, the reception
+    of Hugh of St. Victor (c. 1096-1141), one of the most prominent writers of the
+    twelfth century, has received relatively little scholarly attention. This dissertation
+    seeks to expand our understanding of that reception by analyzing how Observant
+    reformers read and interpreted Hugh’s writings during the fifteenth century. Based
+    on a study of the reformers’ own writings and the manuscripts they produced, the
+    dissertation argues that this later audience used Hugh’s works in order to promote
+    the different approaches to religious renewal that they were developing in their
+    own communities. As the dissertation demonstrates, these reformers were not interested
+    only in the works that modern scholars have claimed were Hugh’s most important
+    contributions to intellectual history. Rather, they also directed their attention
+    toward many of his less studied writings because these texts resonated with their
+    own concerns. By revising our current understanding of the history of Hugh’s corpus,
+    the dissertation offers new insights into the relationship between this twelfth-century
+    author and his later readers, presents an innovative approach to studying the
+    connections between reformed monastic communities, and suggests how the materiality
+    of manuscripts allows us to examine the different ways that later audiences used
+    earlier texts. In order to analyze the various ways that fifteenth-century reformers
+    adapted Hugh’s writings for their own use, the dissertation first examines a series
+    of diverse manuscripts that represent different models of his reception (Ch. 1).
+    It then looks at the usage of Hugh’s writings among Modern Devout communities,
+    particularly the role that his works played in the devotional reading program
+    of these reformers (Ch. 2). Next, the dissertation explores Hugh’s reception at
+    the Benedictine Abbey of St. Colomon in Melk, Austria where reformers adapted
+    his writings for their discussions of discipline, prayer, and affection (Ch. 3).
+    Finally, the dissertation examines his readership at the nearby monastery of St.
+    Quirinus in Tegernsee, Bavaria where other reformers reinterpreted his writings
+    in the context of an ongoing debate about the nature of mystical theology (Ch.
+    4).
+  URL: http://search.proquest.com/docview/1615129493
+  language: English
+
+- id: parkes:1994latin
+  type: chapter
+  author:
+  - family: Parkes
+    given: M.B.
+  editor:
+  - family: Chiesa
+    given: Paolo
+  - family: Pinelli
+    given: Lucia
+  issued:
+  - year: '1994'
+  title: 'Latin Autograph Manuscripts: Orthography and Punctuation'
+  container-title: 'Gli autografi medievali: Problemi paleografici e filologici.
+    Atti del convegno di studio della Fondazione Ezio Franceschini, Erice, 25 settembre–2
+    ottobre 1990'
+  collection-title: Quaderni di cultura mediolatina
+  collection-number: '5'
+  publisher: Centro italiano di studi sull’alto Medioevo
+  publisher-place: Spoleto
+  event-place: Spoleto
+  page: '23-36'
+  source: Library of Congress ISBN
+  ISBN: '88-7988-594-4'
+  call-number: Z106.5.E85 A98 1994
+  language: Texts in English, French, German, Italian, and Spanish
+
+- id: hugodesanctovictore:1474didascalicon
+  type: book
+  author:
+  - literal: Hugo de Sancto Victore
+  issued:
+  - year: '1474'
+  title: Didascalicon de studio legendi et alia opuscula
+  publisher-place: Strasbourg
+  event-place: Strasbourg
+  URL: https://nbn-resolving.org/urn:nbn:de:hbz:061:1-68066
+  language: Latin
+
+- id: 1526primo
+  type: book
+  issued:
+  - year: '1526'
+  title: Primo hoc Tomo Operum M. Hugonis a S. Victore contenta Epistola nuncupatoria
+    et epigrammata, Opera tribus tomis hactenus impressa, Loca bibliorum sacrorrum
+    ab Hugone exposita, deinde primi tomi tabula et post erratula
+  publisher: Jodocus Badius and Johannes Parvus
+  publisher-place: Paris
+  event-place: Paris
+  URL: http://bibliotecavirtual.larioja.org/bvrioja/i18n/consulta/registro.cmd?id=1026
+  language: Latin
+
+- id: rehm:1994bebilderte
+  type: book
+  author:
+  - family: Rehm
+    given: Ulrich
+  issued:
+  - year: '1994'
+  title: Bebilderte Vaterunser-Erklärungen des Mittelalters
+  title-short: Bebilderte Vaterunser-Erklärungen
+  collection-title: Saecula spiritalia
+  collection-number: '28'
+  publisher: Koerner
+  publisher-place: Baden-Baden
+  event-place: Baden-Baden
+  number-of-pages: '339'
+  source: Library of Congress ISBN
+  ISBN: '978-3-87320-428-7'
+  call-number: BV230 .R38 1994
+  language: German
+
+- id: vandeneynde:1960essai
+  type: book
+  author:
+  - family: Eynde
+    given: Damien
+    non-dropping-particle: van den
+  issued:
+  - year: '1960'
+  title: Essai sur la succession et la date des écrits de Hugues de Saint-Victor
+  collection-title: Spicilegium Pontificii Athenaei Antoniani
+  collection-number: '13'
+  publisher: Pontificium Athenaeum Antonianum
+  publisher-place: Rome
+  event-place: Rome
+  number-of-pages: '250'
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: B765 .H74 E9 1960 IMS
+  language: French
+
+- id: hunt:1895summary
+  type: book
+  author:
+  - family: Hunt
+    given: R.W.
+  - family: Madan
+    given: Falconer
+  - family: Record
+    given: P.D.
+  issued:
+  - year: '1895'
+  - year: '1953'
+  title: A summary catalogue of Western manuscripts in the Bodleian Library at Oxford
+  publisher: Clarendon Press
+  publisher-place: Oxford
+  event-place: Oxford
+  number-of-volumes: 7 in 8
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: Z6621 .O96 W4
+
+- id: wenzel:1968seven
+  type: chapter
+  author:
+  - family: Newhauser
+    given: Richard
+  editor:
+  - family: Flüeler
+    given: Christoph
+  - family: Rohde
+    given: Martin
+  issued:
+  - year: '2009'
+    month: '4'
+    day: '17'
+  accessed:
+  - year: '2015'
+    month: '9'
+    day: '5'
+  title: The capital vices as medieval anthropology
+  container-title: <span class="nocase">Laster im Mittelalter</span>/Vices in the
+    Middle Ages
+  collection-title: Scrinium Friburgense
+  collection-number: '23'
+  publisher: De Gruyter
+  publisher-place: Berlin
+  event-place: Berlin
+  page: '105-124'
+  source: CrossRef
+  DOI: 10.1515/9783110217377.105
+  URL: http://www.degruyter.com/view/books/9783110217377/9783110217377.105/9783110217377.105.xml
+  ISBN: '978-3-11-020274-8'
+  language: en
+
+- id: lemoine:1991hugues
+  type: book
+  translator:
+  - family: Lemoine
+    given: Michel
+  issued:
+  - year: '1991'
+  title: Hugues de Saint-Victor. L’art de lire/Didascalicon
+  publisher: Cerf
+  publisher-place: Paris
+  event-place: Paris
+  source: Open WorldCat
+  ISBN: '978-2-204-04369-4'
+  language: French
+
+- id: sicard:1993diagrammes
+  type: book
+  author:
+  - family: Sicard
+    given: Patrice
+  issued:
+  - year: '1993'
+  title: 'Diagrammes médiévaux et exégèse visuelle: Le *Libellus de formatione arche*
+    de Hugues de Saint-Victor'
+  title-short: Diagrammes médiévaux et exégèse visuelle
+  collection-title: Bibliotheca Victorina
+  collection-number: '4'
+  publisher: Brepols
+  publisher-place: Turnhout
+  event-place: Turnhout
+  source: toroprod.library.utoronto.ca Library Catalog
+  note: 'Local call number: B 765 .H73L52 1993 ROBA Local call number: B 765 .H7S54
+    1993 IMS Physical description: viii, 303 p., \[8\] p. of plates : ill. (some col.)
+    ; 25 cm Subject, personal: Hugh, of Saint-Victor, 1096?-1141 Subject, personal:
+    Hugh, of Saint-Victor, 1096?-1141. Libellus de formatione arche Bibliography note:
+    Includes bibliographical references (p. \[273\]-285) and indexes key: 1320823'
+  ISBN: 2-503-50339-X
+  call-number: B765 .H73 L52 1993
+  language: French
+
+- id: dinkovabruun:2007biblical
+  type: chapter
+  author:
+  - family: Dinkova-Bruun
+    given: Greti
+  editor:
+  - family: Otten
+    given: Willemien
+  - family: Pollmann
+    given: Karla
+  issued:
+  - year: '2007'
+  title: 'Biblical versifications from late antiquity to the middle of the thirteenth
+    century: History or allegory?'
+  title-short: Biblical versifications from late antiquity to the middle of the thirteenth
+    century
+  container-title: 'Poetry and exegesis in premodern Latin Christianity: the encounter
+    between classical and Christian strategies of interpretation'
+  collection-title: Supplements to *Vigiliae Christianae*
+  collection-number: '87'
+  publisher: Brill
+  publisher-place: Leiden
+  event-place: Leiden
+  page: '315-342'
+  source: Library of Congress ISBN
+  DOI: 10.1163/ej.9789004160699.i-364.65
+  URL: http://dx.doi.org/10.1163/ej.9789004160699.i-364.65
+  ISBN: '978-90-04-16069-9'
+  call-number: PA8030.C47 P64 2007
+
+- id: tanner:1748bibliotheca
+  type: book
+  author:
+  - family: Tanner
+    given: Thomas
+  editor:
+  - family: Wilkins
+    given: David
+  issued:
+  - year: '1748'
+  title: Bibliotheca Britannico-Hibernica, siue, De scriptoribus, qui in Anglia, Scotia,
+    et Hibernia ad saeculi XVII initium floruerunt, commentarius
+  title-short: Bibliotheca britannico-hibernica
+  publisher: Bowyer
+  publisher-place: London
+  event-place: London
+  number-of-pages: '788'
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: Z2002 .T3
+  language: Latin
+
+- id: foster:1931registrum
+  type: book
+  editor:
+  - family: Foster
+    given: C.W.
+  - family: Major
+    given: Kathleen
+  issued:
+  - year: '1931'
+  - year: '1968'
+  title: The Registrum antiquissimum of the cathedral church of Lincoln
+  title-short: Registrum antiquissimum
+  collection-title: Publications of the Lincoln Record Society
+  collection-number: 27–29, 32, 34, 41, 42, 46, 51, 62, 67, 68
+  publisher: Lincoln Record Society
+  publisher-place: Hereford
+  event-place: Hereford
+  number-of-volumes: '10'
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: DA670 .L69 R52 suppl.1 IMS
+
+- id: hauréau:1886œuvres
+  type: book
+  author:
+  - family: Hauréau
+    given: Barthélemy
+  issued:
+  - year: '1886'
+  accessed:
+  - year: '2015'
+    month: '9'
+    day: '14'
+  title: 'Les œuvres de Hugues de Saint-Victor: Essai critique'
+  title-short: Les oeuvres de Hugues de Saint-Victor
+  publisher: Hachette
+  publisher-place: Paris
+  event-place: Paris
+  number-of-pages: '258'
+  source: Internet Archive
+  URL: https://archive.org/details/lesoeuvresdehugu00haur
+  call-number: B 765 .H74 Z995 1886
+  language: fre
+
+- id: poirel:2006hugo
+  type: article-journal
+  author:
+  - family: Poirel
+    given: Dominique
+  issued:
+  - year: '2006'
+  title: '*Hugo Saxo*. Les origines germaniques de la pensée d’Hugues de Saint-Victor'
+  container-title: Francia
+  page: '163-174'
+  volume: '33'
+  issue: '1'
+  URL: http://francia.digitale-sammlungen.de/Blatt_bsb00016419,00193.html
+  language: French
+
+- id: baron:1969hugues
+  type: book
+  editor:
+  - family: Baron
+    given: Roger
+  translator:
+  - family: Baron
+    given: Roger
+  issued:
+  - year: '1969'
+  title: Hugues de Saint-Victor. Six opuscules spirituels
+  collection-title: Sources chrétiennes
+  collection-number: '155'
+  publisher: Cerf
+  publisher-place: Paris
+  event-place: Paris
+  number-of-pages: '144'
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: B765 .H73 S4914 1969 IMS
+  language: French
+
+- id: green:1943hugo
+  type: article-journal
+  author:
+  - family: Green
+    given: William M.
+  issued:
+  - year: '1943'
+    month: '10'
+  accessed:
+  - year: '2015'
+    month: '9'
+    day: '16'
+  title: 'Hugo of St. Victor: *<span class="nocase">De tribus maximis circumstantiis
+    gestorum</span>*'
+  title-short: Hugo of St. Victor
+  container-title: Speculum
+  container-title-short: Speculum
+  page: '484-493'
+  volume: '18'
+  issue: '4'
+  source: JSTOR
+  URL: http://www.jstor.org/stable/2853664
+  DOI: 10.2307/2853664
+  ISSN: '0038-7134'
+
+- id: pierazzo:2011rationale
+  type: article-journal
+  author:
+  - family: Pierazzo
+    given: Elena
+  issued:
+  - year: '2011'
+    month: '12'
+  accessed:
+  - year: '2015'
+    month: '6'
+    day: '18'
+  title: A rationale of digital documentary editions
+  container-title: Literary and Linguistic Computing
+  container-title-short: Lit Linguist Computing
+  page: '463-477'
+  volume: '26'
+  issue: '4'
+  source: llc.oxfordjournals.org
+  abstract: 'Publishing the diplomatic edition of a document on the web instead
+    of in print implies a series of methodological and practical changes in the nature
+    of the published text and in the operations to be performed by the editors. For
+    print the choice of which features to include in the transcription is limited
+    largely by the limits of the publishing technology. In contrast, the digital medium
+    has proved to be much more permissive and so editors need new scholarly guidelines
+    to establish ‘where to stop’. This article discusses a list of criteria and parameters
+    for choosing which features to include in transcriptions. It also sketches the
+    theoretical implications which result from the change of medium and technology.
+    It is argued that the very definition of ‘diplomatic edition’ needs to be substantially
+    revised if the edition is published on the web. Even more importantly, the discussion
+    argues for the existence of a new editorial object which is generated by the changed
+    conditions: a new publication form called the ‘digital documentary edition’ which
+    is composed of the source, the outputs and the tools able to produce and display
+    them.'
+  URL: http://llc.oxfordjournals.org/content/26/4/463
+  DOI: 10.1093/llc/fqr033
+  ISSN: 0268-1145, 1477-4615
+  language: en
+
+- id: berndt:2011writings
+  type: chapter
+  author:
+  - family: Berndt
+    given: Rainer
+  issued:
+  - year: '2011'
+  title: 'The Writings of Hugh of St Victor: An Author and His Contexts'
+  title-short: The Writings of Hugh of St Victor
+  container-title: 'Ugo di San Vittore: Atti del XLVII Convegno storico internazionale,
+    Todi, 10–12 ottobre 2010'
+  collection-title: Atti dei Convegni del Centro italiano di studi sul basso Medioevo,
+    Accademia Tudertina
+  collection-number: n.s., 24
+  publisher: Fondazione Centro italiano di studi sull’alto Medioevo
+  publisher-place: Spoleto
+  event-place: Spoleto
+  page: '1-20'
+  source: Library of Congress ISBN
+  ISBN: '978-88-7988-346-7'
+  call-number: B765.H74 C46 2010
+  language: ita eng fre
+
+- id: bernard:1697catalogi
+  type: book
+  author:
+  - family: Bernard
+    given: Edward
+  issued:
+  - year: '1697'
+  title: Catalogi librorum manuscriptorum Angliæ et Hiberniæ in unum collecti
+  publisher: Sheldonian Theatre
+  publisher-place: Oxford
+  event-place: Oxford
+  number-of-volumes: '2'
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: Online resource 1173483
+  language: Latin
+
+- id: deferrari:1951sacraments
+  type: book
+  translator:
+  - family: Deferrari
+    given: Roy J.
+  issued:
+  - year: '1951'
+  title: On the sacraments of the Christian faith (<span class="nocase">De sacramentis</span>)
+  title-short: On the sacraments of the Christian faith
+  collection-title: Mediaeval Academy of America Publication
+  collection-number: '58'
+  publisher: Mediaeval Academy of America
+  publisher-place: Cambridge, MA
+  event-place: Cambridge, MA
+  number-of-pages: '486'
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: BX2200 .H843 1951
+
+- id: baron:1959hugues
+  type: article-journal
+  author:
+  - family: Baron
+    given: Roger
+  issued:
+  - year: '1959'
+  accessed:
+  - year: '2015'
+    month: '9'
+    day: '11'
+  title: 'Hugues de Saint-Victor: Contribution à un nouvel examen de son œuvre'
+  container-title: Traditio
+  container-title-short: Traditio
+  page: '223-297'
+  volume: '15'
+  source: JSTOR
+  URL: http://jstor.org/stable/27830387
+  ISSN: '0362-1529'
+  language: French
+
+- id: bloomfield:1979incipits
+  type: book
+  author:
+  - family: Bloomfield
+    given: Morton W.
+  - family: Guyot
+    given: Bertrand-Georges
+  - family: Howard
+    given: Donald R.
+  - family: Kabealo
+    given: Thyra B.
+  issued:
+  - year: '1979'
+  title: 'Incipits of Latin works on the virtues and vices, 1100–1500 A.D.: including
+    a section of incipits of works on the Pater noster'
+  title-short: Incipits of Latin works on the virtues and vices
+  collection-title: Mediaeval Academy of America publication
+  collection-number: '88'
+  publisher: Mediaeval Academy of America
+  publisher-place: Cambridge, MA
+  event-place: Cambridge, MA
+  number-of-pages: '779'
+  source: Library of Congress ISBN
+  URL: http://hdl.handle.net/2027/heb.31131.0001.001
+  ISBN: '978-0-910956-61-1'
+  call-number: Z6611.T3 BV4630 I52
+
+- id: adriaen:1979gregorii
+  type: book
+  editor:
+  - family: Adriaen
+    given: Marc
+  issued:
+  - year: '1979'
+  - year: '1985'
+  title: S. Gregorii Magni Moralia in Iob
+  collection-title: Corpus Christianorum, series latina
+  collection-number: 143, 143a, 143b
+  publisher: Brepols
+  publisher-place: Turnhout
+  event-place: Turnhout
+  source: Open WorldCat
+  ISBN: '2-503-01431-3'
+  language: Latin
+
+- id: offergeld:1997hugo
+  type: book
+  translator:
+  - family: Offergeld
+    given: Thilo
+  issued:
+  - year: '1997'
+  title: Hugo von Sankt Viktor. Didascalicon de studio legendi/Studienbuch
+  title-short: Didascalicon de studio legendi
+  collection-title: Fontes Christiani
+  collection-number: '27'
+  publisher: Herder
+  publisher-place: Freiburg
+  event-place: Freiburg
+  number-of-pages: '455'
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: '978-3-451-23810-9'
+  language: ger lat
+
+- id: james:1895abbey
+  type: book
+  author:
+  - family: James
+    given: M.R.
+  issued:
+  - year: '1895'
+  title: On the abbey of S. Edmund at Bury
+  publisher: Cambridge Antiquarian Society
+  publisher-place: Cambridge
+  event-place: Cambridge
+  number-of-pages: '220'
+  source: toroprod.library.utoronto.ca Library Catalog
+  URL: https://archive.org/details/abbeyofsedmundat00jame
+  call-number: BX2596 .B875 J25 1895  IMST
+
+- id: kestemont:2015collaborative
+  type: article-journal
+  author:
+  - family: Kestemont
+    given: Mike
+  - family: Moens
+    given: Sara
+  - family: Deploige
+    given: Jeroen
+  issued:
+  - year: '2015'
+    month: '6'
+  accessed:
+  - year: '2015'
+    month: '8'
+    day: '26'
+  title: 'Collaborative authorship in the twelfth century: A stylometric study of
+    Hildegard of Bingen and Guibert of Gembloux'
+  title-short: Collaborative authorship in the twelfth century
+  container-title: Digital Scholarship in the Humanities
+  page: '199-224'
+  volume: '30'
+  issue: '2'
+  source: dsh.oxfordjournals.org.myaccess.library.utoronto.ca
+  abstract: 'Hildegard of Bingen (1098–1179) is one of the most influential female
+    authors of the Middle Ages. From the point of view of computational stylistics,
+    the oeuvre attributed to Hildegard is fascinating. Hildegard dictated her texts
+    to secretaries in Latin, a language of which she did not master all grammatical
+    subtleties. She therefore allowed her scribes to correct her spelling and grammar.
+    Especially Hildegard’s last collaborator, Guibert of Gembloux, seems to have considerably
+    reworked her works during his secretaryship. Whereas her other scribes were only
+    allowed to make superficial linguistic changes, Hildegard would have permitted
+    Guibert to render her language stylistically more elegant. In this article, we
+    focus on two shorter texts: the Visio ad Guibertum missa and Visio de Sancto Martino,
+    both of which Hildegard allegedly authored during Guibert’s secretaryship. We
+    analyze a corpus containing the letter collections of Hildegard, Guibert, and
+    Bernard of Clairvaux using a number of common stylometric techniques. We discuss
+    our results in the light of the Synergy Hypothesis, suggesting that texts resulting
+    from collaboration can display a style markedly different from that of the collaborating
+    authors. Finally, we demonstrate that Guibert must have reworked the disputed
+    visionary texts allegedly authored by Hildegard to such an extent that style-oriented
+    computational procedures attribute the texts to Guibert.'
+  URL: http://dsh.oxfordjournals.org.myaccess.library.utoronto.ca/content/30/2/199
+  DOI: 10.1093/llc/fqt063
+  ISSN: 2055-7671, 2055-768X
+  language: en
+
+- id: sharpe:1996english
+  type: book
+  editor:
+  - family: Sharpe
+    given: Richard
+  - family: Carley
+    given: James P.
+  - family: Thomson
+    given: Rodney M.
+  - family: Watson
+    given: Andrew G.
+  issued:
+  - year: '1996'
+  title: 'English Benedictine libraries: the shorter catalogues'
+  title-short: English Benedictine libraries
+  collection-title: Corpus of British medieval library catalogues
+  collection-number: '4'
+  publisher: British Library
+  publisher-place: London
+  event-place: London
+  number-of-pages: '931'
+  source: Library of Congress ISBN
+  ISBN: '0-7123-0336-7'
+
+- id: stirnemann:1994où
+  type: chapter
+  author:
+  - family: Stirnemann
+    given: Patricia
+  editor:
+  - family: Gasparri
+    given: Françoise
+  issued:
+  - year: '1994'
+  title: Où ont été fabriqués les livres de la glose ordinaire dans la première moitié
+    du XIIe siècle?
+  container-title: 'Le XIIe siècle: Mutations et renouveau en France dans la première
+    moitié du XIIe siècle'
+  collection-title: Cahiers du Léopard d’or
+  collection-number: '3'
+  publisher: Léopard d’or
+  publisher-place: Paris
+  event-place: Paris
+  page: '257-301'
+  source: Library of Congress ISBN
+  ISBN: '978-2-86377-123-5'
+  call-number: DC33.2 .A16 1994
+  language: French
+
+- id: migne:1854hugonis
+  type: book
+  editor:
+  - family: Migne
+    given: Jacques Paul
+  issued:
+  - year: '1854'
+  title: Hugonis de S. Victore, canonici regularis, Sancti Victoris Parisiensis, tum
+    pietate, tum doctrina insignis, Opera omnia tribus tomis digesta
+  title-short: Hugonis de S. Victore Opera
+  collection-title: Patrologia Latina
+  collection-number: 175–177
+  publisher: Migne
+  publisher-place: Paris
+  event-place: Paris
+  number-of-volumes: '3'
+  language: Latin
+
+- id: quantin:2010réception
+  type: chapter
+  author:
+  - family: Quantin
+    given: Jean-Louis
+  editor:
+  - family: Poirel
+    given: Dominique
+  issued:
+  - year: '2010'
+  title: La réception d’Hugues et Richard de Saint-Victor au miroir de leurs *Opera
+    omnia* (XVIe–XVIIe siècles)
+  container-title: 'L’école de Saint-Victor de Paris: Influence et rayonnement du
+    Moyen Âge à l’époque moderne'
+  collection-title: Bibliotheca Victorina
+  collection-number: '22'
+  publisher: Brepols
+  publisher-place: Turnhout
+  event-place: Turnhout
+  page: '601-642'
+  source: Library of Congress ISBN
+  DOI: 10.1484/M.BV-EB.3.4428
+  ISBN: '978-2-503-53562-3'
+  call-number: BX2615.P35 E36 2010
+  language: fre lat
+
+- id: coolman:2007hugh
+  type: chapter
+  author:
+  - family: Coolman
+    given: Boyd Taylor
+  editor:
+  - family: Greenman
+    given: Jeffrey P.
+  - family: Larsen
+    given: Timothy
+  - family: Spencer
+    given: Stephen R.
+  issued:
+  - year: '2007'
+  title: Hugh of St. Victor
+  container-title: The Sermon on the Mount through the centuries
+  publisher: Brazos Press
+  publisher-place: Grand Rapids, MI
+  event-place: Grand Rapids, MI
+  page: 59–80
+  source: Library of Congress ISBN
+  ISBN: '978-1-58743-205-7'
+  call-number: BT380.3 .R43 2007
+
+- id: deghellinck:1910table
+  type: article-journal
+  author:
+  - family: Ghellinck
+    given: Joseph
+    non-dropping-particle: de
+  issued:
+  - year: '1910'
+  title: La table des matières de la première édition des œuvres de Hugues de Saint-Victor
+  container-title: Recherches de science religieuse
+  page: 270–289, 385–396
+  volume: '1'
+  language: French
+
+- id: taylor:2013present
+  type: article-journal
+  author:
+  - family: Taylor
+    given: Barry
+  issued:
+  - year: '2013'
+  accessed:
+  - year: '2015'
+    month: '9'
+    day: '16'
+  title: 'Past, Present and Future for Thirteenth-Century Wales: Two Diagrams in
+    British Library, Cotton Roll XIV.12'
+  title-short: Past, Present and Future for Thirteenth-Century Wales
+  container-title: Electronic British Library Journal
+  abstract: 'Past, Present and Future for Thirteenth-Century Wales: Two Diagrams
+    in British Library, Cotton Roll XIV.12'
+  URL: http://bl.uk/eblj/2013articles/article13.html
+  ISSN: '1478-0259'
+  language: eng
+
+- id: poirel:2002livre
+  type: book
+  author:
+  - family: Poirel
+    given: Dominique
+  issued:
+  - year: '2002'
+  title: 'Livre de la nature et débat trinitaire au XIIe siècle: Le <span class="nocase">*De
+    tribus diebus*</span> de Hugues de Saint-Victor'
+  title-short: Livre de la nature
+  collection-title: Bibliotheca Victorina
+  collection-number: '14'
+  publisher: Brepols
+  publisher-place: Turnhout
+  event-place: Turnhout
+  number-of-pages: '511'
+  source: Library of Congress ISBN
+  ISBN: '978-2-503-51253-2'
+  call-number: B765.H74 P65 2002
+  language: French
+
+- id: boyle:1986interconciliar
+  type: chapter
+  author:
+  - family: Boyle
+    given: Leonard E.
+  editor:
+  - family: Liotta
+    given: Filippo
+  issued:
+  - year: '1986'
+  accessed:
+  - year: '2013'
+    month: '4'
+    day: '26'
+  title: The inter-conciliar period 1179–1215 and the beginnings of pastoral manuals
+  container-title: Miscellanea Rolando Bandinelli, Papa Alessandro III
+  publisher: Accademia senese degli intronati
+  publisher-place: Siena
+  event-place: Siena
+  page: 45–56
+  source: Hathi Trust
+  call-number: BX 1226 .M5711 1986
+
+- id: sweeney:2012aquinas
+  type: chapter
+  author:
+  - family: Sweeney
+    given: Eileen C.
+  editor:
+  - family: Newhauser
+    given: Richard
+  - family: Ridyard
+    given: Susan J.
+  issued:
+  - year: '2012'
+  title: 'Aquinas on the seven deadly sins: Tradition and innovation'
+  container-title: 'Sin in medieval and early modern culture: the tradition of the
+    seven deadly sins'
+  publisher: York Medieval Press
+  publisher-place: Woodbridge, Suffolk
+  event-place: Woodbridge, Suffolk
+  page: '85-106'
+  source: Library of Congress ISBN
+  ISBN: '978-1-903153-41-3'
+  call-number: BV4626 .S56 2012
+
+- id: sannelli:2011ugo
+  type: book
+  translator:
+  - family: Sannelli
+    given: Massimo
+  issued:
+  - year: '2011'
+  title: Ugo di San Vittore, Didascalicon. De studio legendi/Dell’arte di leggere
+  title-short: Didascalicon
+  publisher: La finestra
+  publisher-place: Lavis
+  event-place: Lavis
+  source: Open WorldCat
+  ISBN: '978-88-95925-27-1'
+  language: Italian, Latin.
+
+- id: dunning:2015samuel
+  type: book
+  author:
+  - family: Dunning
+    given: Andrew
+  issued:
+  - year: '2015'
+  title: 'Samuel Presbiter: Notes from the School of William de Montibus. <span
+    class="nocase">Collecta ex diuersis auditis in scola magistri Willelmi de Monte</span>'
+  title-short: Samuel Presbiter
+  collection-title: Toronto Medieval Latin Texts
+  collection-number: '33'
+  publisher: Pontifical Institute of Mediaeval Studies
+  publisher-place: Toronto
+  event-place: Toronto
+  language: Latin
+
+- id: abbeyofstvictorparis:1648hugonis
+  type: book
+  author:
+  - literal: Abbey of St Victor, Paris
+  issued:
+  - year: '1648'
+  title: M. Hugonis de S. Victore, canonici regularis, sancti Victoris parisiensis,
+    tum pietate, tum doctrina insignis; Opera omnia tribus tomis digesta
+  publisher: Berthelin
+  publisher-place: Rouen
+  event-place: Rouen
+  number-of-pages: '684'
+  number-of-volumes: '3'
+  source: Google Books
+  language: la
+
+- id: valgimogli:2006speculum
+  type: book
+  author:
+  - family: Valgimogli
+    given: Lorenzo
+  issued:
+  - year: '2006'
+  title: Lo «Speculum Gregorii» di Adalberto di Metz
+  collection-title: Archivum Gregorianum
+  collection-number: '8'
+  publisher: SISMEL
+  publisher-place: Florence
+  event-place: Florence
+  number-of-pages: '279'
+  source: Library of Congress ISBN
+  abstract: 'L’A. si propone di indagare la figura e l’opera di Adalberto di Metz,
+    ripercorrendone la fortuna critica dal medioevo al Novecento, quindi esaminando
+    le caratteristiche dello Speculum, opera che si configura come una raccolta di
+    estratti dai Moralia in Iob di Gregorio Magno. Nel prologo, giunto in una doppia
+    redazione indicata dall’A. con le sigle D e R, viene chiarita la tecnica adottata
+    per realizzare la raccolta; gli interventi originali di Adalberto sono individuati
+    nell’elaborazione di tituli esplicativi per ciascun capitolo, nell’adattamento
+    al contesto della parte iniziale degli estratti, nella correzione degli errori
+    della tradizione manoscritta della fonte, nell’organizzazione della raccolta in
+    più libri con titolo unico e nell’utilizzazione del rosso per l’inizio dei capitoli.
+    Viene quindi analizzata la tradizione manoscritta dello Speculum e vengono editi
+    i due prologhi e l’epilogo dell’opera. I mss. che conservano il testo sono: Arras,
+    BM, 760 (sec. XV); Auxerre, BM, 21 (sec. XII); Berlin, SB, Phillipps 1692 (sec.
+    XI); Cambridge, Clare College, 16 (sec. XIII); CCC, 1 (sec. XV); Peterhouse, 204
+    (sec. XV) e 219 (sec. XIV); Queens’ College, 7 (sec. XII); Trinity College, 141
+    (sec. X); Charleville, BM, 234 (sec. XIV); Vat. Barb. lat. 500 (sec. XIII); Dublin,
+    Trinity College, 257 (sec. XIII); Genève, BU, lat. 20 (sec. XIII); Hereford, Cathedral
+    Libr., O.II.11 (sec. XIII); Lincoln, Cathedral Libr., 196 (sec. XII); London,
+    BL, Add. 21007 (sec. XIII); Arundel 218 (sec. XII); Royal 5.F.V (sec. XIII); Royal
+    8.F.VIII (sec. XIII); Royal 8.F.X (sec. XIII); München, BSB, lat. 18542a (sec.
+    XII); Oxford, Bodl. Libr., Bodl. 413 (sec. XIII); Rawlinson C 669 (sec. XII);
+    Jesus College, 42 (sec. XIII); Paris, Arsenal, 390 (sec. XII) e 494 (sec. XII);
+    Paris, BNF, lat. 1707 (sec. XII); lat. 2871 (sec. XII); lat. 17442 (sec. XII);
+    Rouen, BM, 504 (sec. XIII); Salisbury, Cathedral Libr., 101 (sec. X); Sevilla,
+    Biblioteca Capitular y Colombina, 5-6-5 (sec. XV); Shrewsbury, County Libr. Parochial
+    Libraries Collection, s.n. (sec. XII); Soisson, BM, 139 (131) (sec. XII); Toledo,
+    Archivo y Biblioteca Capitulares, 21-25 (sec. X-XI); Troyes, BM, 463 (sec. XII).
+    Le edizioni dei testi sono seguite da un apparato delle fonti (pp. 93-198), organizzato
+    in schede elaborate secondo due tipologie, l’una relativa al testo di Gregorio
+    e l’altra a quello originale di Adalberto. Incipit ed explicit di ciascuno dei
+    capitoli dello Speculum sono raccolti e riportati in un incipitario (capitolo
+    5, «Incipitario dello Speculum Gregorii»). Sono presenti due appendici: la prima,
+    «La tradizione manoscritta dei Moralia utilizzati da Adalberto» (pp. 249-53),
+    sviluppa alcune riflessioni dell’A. circa il ramo della tradizione dei Moralia
+    al quale si sarebbe rifatto Adalberto; la seconda, «Adalberto autore» (pp. 254-62),
+    riporta l’elenco degli interventi originali di Adalberto nello Speculum. Il vol.
+    è corredato dalla bibliografia (pp. 265-72), dall’indice degli autori e delle
+    opere antiche e medievali (pp. 273-5) e da un indice degli autori moderni (pp.
+    277-9). (S.D.I.)'
+  ISBN: '88-8450-184-9'
+  call-number: BS1415.3 .V35 2006
+  language: Italian
+
+- id: clichtove:1506hoc
+  type: book
+  editor:
+  - family: Clichtove
+    given: Josse
+  - family: Porta
+    given: Pierre
+    non-dropping-particle: de
+  issued:
+  - year: '1506'
+  title: In hoc libro contenta opera Hugonis de Sancto Victore. De institutione novitiorum.
+    De operibus trium dierum. De arra anime. De laude charitatis. De modo orandi.
+    Duplex exposito orationis dominice. De quinque septenis. De septem donis Spiritus
+    Sancti
+  publisher: Stephanus
+  publisher-place: Paris
+  event-place: Paris
+  number-of-pages: '186'
+  source: Google Books
+  URL: http://lib.ugent.be/catalog/bkt01:000321097
+  language: fr
+
+- id: goering:1992william
+  type: book
+  author:
+  - family: Goering
+    given: Joseph W.
+  issued:
+  - year: '1992'
+  title: 'William de Montibus (c. 1140–1213): the schools and the literature of
+    pastoral care'
+  title-short: William de Montibus
+  collection-title: Studies and texts
+  collection-number: '108'
+  publisher: Pontifical Institute of Mediaeval Studies
+  publisher-place: Toronto
+  event-place: Toronto
+  number-of-pages: '638'
+  source: toroprod.library.utoronto.ca Library Catalog
+  ISBN: '0-88844-108-8'
+  call-number: BV4009 .W55 1992
+
+- id: sicard:2001hugonis
+  type: book
+  editor:
+  - family: Sicard
+    given: Patrice
+  issued:
+  - year: '2001'
+  title: Hugonis de Sancto Victore De archa Noe. Libellus de formatione arche
+  collection-title: Corpus Christianorum, continuatio mediaevalis
+  collection-number: '176'
+  publisher: Brepols
+  publisher-place: Turnhout
+  event-place: Turnhout
+  number-of-pages: '287'
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: '978-2-503-04761-4'
+  call-number: BQ310 .C9 v.176 IMSF
+  language: Latin
+
+- id: newhauser:1993treatise
+  type: book
+  author:
+  - family: Newhauser
+    given: Richard
+  issued:
+  - year: '1993'
+  title: The Treatise on Vices and Virtues in Latin and the Vernacular
+  collection-title: Typologie des sources du Moyen Age occidental
+  collection-number: '68'
+  publisher: Brepols
+  publisher-place: Turnhout
+  event-place: Turnhout
+  number-of-pages: '205'
+  source: Library of Congress ISBN
+  ISBN: '978-2-503-36068-3'
+  call-number: Z6203 .T95 fasc. 68
+  language: French
+
+- id: knauer:2010hugo
+  type: book
+  translator:
+  - family: Knauer
+    given: Peter S.
+  issued:
+  - year: '2010'
+  title: Hugo von Sankt Viktor. Über die Heiltümer des christlichen Glaubens
+  collection-title: Corpus Victorinum, Schriften
+  collection-number: '1'
+  publisher: Aschendorff
+  publisher-place: Münster
+  event-place: Münster
+  number-of-pages: '697'
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: '978-3-402-10425-5'
+  language: ger
+
+- id: gobbitt:2012orthographic
+  type: article-journal
+  author:
+  - family: Gobbitt
+    given: Thomas
+  issued:
+  - year: '2012'
+  title: Orthographic preferences in the production of Cambridge, Corpus Christi College
+    MS 383 at the turn of the twelfth century
+  container-title: Scriptorium
+  page: 3–24
+  volume: '66'
+
+- id: caillau:1836sancti
+  type: book
+  editor:
+  - family: Caillau
+    given: Armand-Benjamin
+  - family: Saint-Yves
+    given: Benjamin
+  issued:
+  - year: '1836'
+  title: Sancti Aurelii Augustini Hipponensis episcopi Operum supplementum I. Continens
+    Sermones ineditos extractos ex Archivio Montis-Cassini et ex Bibliotheca Laurentiana-Medicea
+    Florentiæ
+  title-short: Augustini Operum supplementum I
+  publisher: Parent-Desbarres
+  publisher-place: Paris
+  event-place: Paris
+  number-of-pages: '494'
+  source: Google Books
+  language: la
+
+- id: inguanez:1915codicum
+  type: book
+  author:
+  - family: Inguanez
+    given: Maurus
+  issued:
+  - year: '1915'
+  - year: '1941'
+  title: Codicum casinensium manuscriptorum catalogus
+  publisher-place: Monte Cassino
+  event-place: Monte Cassino
+  number-of-volumes: '3'
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: Bb M V.1
+  language: Latin
+
+- id: goy:1976überlieferung
+  type: book
+  author:
+  - family: Goy
+    given: Rudolf
+  issued:
+  - year: '1976'
+  title: 'Die Überlieferung der Werke Hugos von St. Viktor: Ein Beitrag zur Kommunikationsgeschichte
+    des Mittelalters'
+  title-short: Die Überlieferung der Werke Hugos von St. Viktor
+  collection-title: Monographien zur Geschichte des Mittelalters
+  collection-number: '14'
+  publisher: Hiersemann
+  publisher-place: Stuttgart
+  event-place: Stuttgart
+  number-of-pages: '634'
+  source: Library of Congress ISBN
+  ISBN: '978-3-7772-7627-4'
+  call-number: Z8423.7 B765.H74 .G68
+  language: German
+
+- id: berndt:2008hugonis
+  type: book
+  editor:
+  - family: Berndt
+    given: Rainer
+  issued:
+  - year: '2008'
+  title: Hugonis de Sancto Victore De sacramentis Christiane fidei
+  collection-title: Corpus Victorinum, Textus historici
+  collection-number: '1'
+  publisher: Aschendorff
+  publisher-place: Münster
+  event-place: Münster
+  number-of-pages: '647'
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: '978-3-402-10420-0'
+  language: lat
+
+- id: newhauser:2008supplement
+  type: book
+  author:
+  - family: Newhauser
+    given: Richard
+  - family: Bejczy
+    given: István
+  issued:
+  - year: '2008'
+  title: A supplement to Morton W. Bloomfield <span class="nocase">et al.,</span>
+    *Incipits of latin works on the virtues and vices, 1100–1500 A.D.*
+  collection-title: Instrumenta Patristica et Mediaevalia
+  collection-number: '50'
+  publisher: Brepols
+  publisher-place: Turnhout
+  event-place: Turnhout
+  number-of-pages: '414'
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: '978-2-503-52857-1'
+  language: eng lat
+
+- id: weber:2007biblia
+  type: book
+  editor:
+  - family: Weber
+    given: Robert
+  - family: Fischer
+    given: Bonifatius
+  - family: Gribomont
+    given: Jean
+  - family: Sparks
+    given: Hedley F.D.
+  - family: Thiele
+    given: Walter
+  - family: Gryson
+    given: Roger
+  issued:
+  - year: '2007'
+  title: Biblia Sacra iuxta vulgatam versionem
+  publisher: Deutsche Bibelgesellschaft
+  publisher-place: Stuttgart
+  event-place: Stuttgart
+  edition: '5'
+  abstract: This edition of the Vulgate is a revised and corrected edition of Weber’s
+    Vulgata, prepared by Roger Gryson. It is based on the OT edition of the Benedictines
+    of St. Jerome’s Monastery in Rome, and the NT edition of Wordsworth and White.
+    It includes a critical apparatus and introduction in Latin, German, French, and
+    English. There is a new revised apparatus in the books of Ruth, Isaiah, and Revelation.
+  ISBN: '978-3-438-05303-9'
+  language: Latin
+
+- id: mutzenbecher:1967sancti
+  type: book
+  editor:
+  - family: Mutzenbecher
+    given: Almut
+  issued:
+  - year: '1967'
+  title: Sancti Aurelii Augustini De sermone domini in monte libros duos
+  title-short: Augustini De sermone domini in monte
+  collection-title: Corpus Christianorum, series latina
+  collection-number: '35'
+  publisher: Brepols
+  publisher-place: Turnhout
+  event-place: Turnhout
+  source: Open WorldCat
+  ISBN: '978-2-503-00352-8'
+  language: Latin
+
+- id: stammberger:2005edition
+  type: chapter
+  author:
+  - family: Stammberger
+    given: Ralf M.W.
+  editor:
+  - family: Berndt
+    given: Rainer
+  issued:
+  - year: '2005'
+  title: Die Edition der Werke Hugos von Sankt Viktor († 1141) durch Abt Gilduin von
+    Sankt Viktor († 1155) – Eine Rekonstruktion
+  title-short: Die Edition der Werke Hugos von Sankt Viktor
+  container-title: 'Schrift, Schreiber, Schenker: Studien zur Abtei Sankt Viktor
+    in Paris und den Viktorinern'
+  collection-title: Corpus Victorinum, Instrumenta
+  collection-number: '1'
+  publisher: Akademie Verlag
+  publisher-place: Berlin
+  event-place: Berlin
+  source: Library of Congress ISBN
+  ISBN: '978-3-05-004038-7'
+  call-number: B765.H74 S34 2005
+  language: ger eng lat
+
+- id: james:1926bury
+  type: article-journal
+  author:
+  - family: James
+    given: M.R.
+  issued:
+  - year: '1926'
+    month: '4'
+  accessed:
+  - year: '2013'
+    month: '9'
+    day: '19'
+  title: Bury St. Edmunds Manuscripts
+  container-title: English Historical Review
+  container-title-short: The English Historical Review
+  page: '251-260'
+  volume: '41'
+  issue: '162'
+  source: JSTOR
+  note: 'ArticleType: research-article / Full publication date: Apr., 1926 / Copyright
+    © 1926 Oxford University Press'
+  URL: http://www.jstor.org/stable/551955
+  DOI: 10.1093/ehr/XLI.CLXII.251
+  ISSN: 0013-8266, 1477-4534
+
+- id: buttimer:1939hugonis
+  type: book
+  author:
+  - family: Buttimer
+    given: Charles Henry
+  issued:
+  - year: '1939'
+  title: '<span class="nocase">Hugonis de Sancto Victore Didascalicon de studio
+    legendi</span>: a critical text'
+  publisher: Catholic University Press
+  publisher-place: Washington, DC
+  event-place: Washington, DC
+  number-of-pages: '160'
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: B765 .H73 D5313 1939 IMS
+
+- id: boyle:1976optimist
+  type: chapter
+  author:
+  - family: Boyle
+    given: Leonard E.
+  editor:
+  - family: O’Meara
+    given: John J.
+  - family: Naumann
+    given: Bernd
+  issued:
+  - year: '1976'
+  title: 'Optimist and recensionist: “Common errors” or “common variations”?'
+  title-short: Optimist and recensionist
+  container-title: 'Latin script and letters, AD 400–900: Festschrift presented to Ludwig Bieler on the occasion of his 70th birthday'
+  publisher: Brill
+  publisher-place: Leiden
+  event-place: Leiden
+  page: 264–274
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: '90-04-04725-5'
+
+- id: ouy:1999manuscrits
+  type: book
+  author:
+  - family: Ouy
+    given: Gilbert
+  issued:
+  - year: '1999'
+  title: 'Les manuscrits de l’Abbaye de Saint-Victor: catalogue établi sur la base du répertoire de Claude de Grandrue (1514)'
+  title-short: Les manuscrits de l’Abbaye de Saint-Victor
+  collection-title: Bibliotheca Victorina
+  collection-number: '10'
+  publisher: Brepols
+  publisher-place: Turnhout
+  event-place: Turnhout
+  number-of-volumes: '2'
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  ISBN: '978-2-503-50833-7'
+  language: fre
+
+- id: russell:1936dictionary
+  type: book
+  author:
+  - family: Russell
+    given: Josiah Cox
+  issued:
+  - year: '1936'
+  title: Dictionary of writers of thirteenth-century England
+  collection-title: Bulletin of the Institute of Historical Research, Special supplement
+  collection-number: '3'
+  publisher: Longmans
+  publisher-place: London
+  event-place: London
+  number-of-pages: '209'
+  source: toroprod.library.utoronto.ca Library Catalog
+  call-number: Z2012 .R87
+
+- id: diem:2004virtues
+  type: article-journal
+  author:
+  - family: Diem
+    given: Albrecht
+  issued:
+  - year: '2004'
+  accessed:
+  - year: '2013'
+    month: '9'
+    day: '19'
+  title: Virtues and vices in early texts on pastoral care
+  container-title: Franciscan Studies
+  page: '193-223'
+  volume: '62'
+  source: Project MUSE
+  note: Volume 62, 2004
+  abstract: Investigates the role of catalogues of virtues and vices within the small
+    corpus of “pre-conciliar” pastoral texts, focusing on the transformation of theoretical
+    concepts into perceptions suitable for pastoral care.
+  URL: http://muse.jhu.edu/journals/franciscan_studies/v062/62.diem.html
+  DOI: 10.1353/frc.2004.0008
+  ISSN: '1945-9718'
+
+- id: carruthers:2008book
+  type: book
+  author:
+  - family: Carruthers
+    given: Mary J.
+  issued:
+  - year: '2008'
+  title: 'The book of memory: A study of memory in medieval culture'
+  title-short: The Book of Memory
+  collection-title: Cambridge Studies in Medieval Literature
+  collection-number: '10'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  event-place: Cambridge
+  number-of-pages: '519'
+  edition: '2'
+  source: Library of Congress ISBN
+  DOI: 10.1017/CBO9781107051126
+  URL: http://doi.org/10.1017/CBO9781107051126
+  ISBN: '0-521-88820-4'
+  call-number: BF371 .C325 2008
+
+- id: lottin:1957doctrine
+  type: article-journal
+  author:
+  - family: Lottin
+    given: Odon
+  issued:
+  - year: '1957'
+  title: La doctrine d’Anselme de Laon sur les dons du Saint-Esprit et son influence
+  container-title: Recherches de théologie ancienne et médiévale
+  page: 267–295
+  volume: '24'
+  language: French
+
+- id: coolman:2010theology
+  type: book
+  author:
+  - family: Coolman
+    given: Boyd Taylor
+  issued:
+  - year: '2010'
+  title: 'The theology of Hugh of St. Victor: an interpretation'
+  title-short: The theology of Hugh of St. Victor
+  publisher: Cambridge University Press
+  publisher-place: New York
+  event-place: New York
+  number-of-pages: '247'
+  source: Library of Congress ISBN
+  abstract: “In the context of the early twelfth-century urbanization of Paris, Hugh
+    of St. Victor developed a pioneering program of intellectual and moral practices
+    focused on reforming the soul. Boyd Taylor Coolman identifies the signature theme
+    of spiritual re-formation as the unifying motif to Hugh’s theology, and analyzes
+    the symbolic and aesthetic dimensions of re-formation conceived as ‘soul-construction’,
+    in the manner of Gothic cathedrals being built at the time. This study places
+    Hugh of St. Victor within the context of the profound economic, political and
+    cultural changes characteristic of the twelfth century. Drawing on the majority
+    of Hugh’s writings, it reveals links between various aspects of his theology -
+    exegesis and spirituality; theology and cultivation of virtue - and highlights
+    the practical nature of his reforming program, aimed both at restoring the beauty
+    of the soul and re-forming the human person into a dwelling place for the presence
+    of God”–Provided by publisher
+  ISBN: '978-0-521-88625-3'
+  call-number: BX4705.H786 C66 2010
+
+- id: james:1600ecloga
+  type: book
+  author:
+  - family: James
+    given: Thomas
+  issued:
+  - year: '1600'
+  title: Ecloga Oxonio-Cantabrigiensis
+  title-short: Ecloga
+  publisher: Bishop and Norton
+  publisher-place: London
+  event-place: London
+  number-of-pages: '306'
+  number-of-volumes: '2'
+  source: Google Books
+  language: la
+
+- id: pierazzo:2011putting
+  type: chapter
+  author:
+  - family: Pierazzo
+    given: Elena
+  - family: Stokes
+    given: Peter A.
+  editor:
+  - family: Fischer
+    given: Franz
+  - family: Fritze
+    given: Christiane
+  - family: Vogeler
+    given: Georg
+  issued:
+  - year: '2011'
+  accessed:
+  - year: '2015'
+    month: '8'
+    day: '26'
+  title: 'Putting the Text back into Context: A Codicological Approach to Manuscript
+    Transcription'
+  title-short: Putting the Text back into Context
+  container-title: Kodikologie und Paläographie im digitalen Zeitalter/Codicology
+    and Palaeography in the Digital Age
+  collection-title: Schriften des Instituts für Dokumentologie und Editorik
+  collection-number: '3'
+  publisher: BoD
+  publisher-place: Norderstedt
+  event-place: Norderstedt
+  page: '397-429'
+  volume: '2'
+  source: kups.ub.uni-koeln.de
+  abstract: 'Textual scholars have tended to produce editions which present the
+    text without its manuscript context. Even though digital editions now often present
+    single-witness editions with facsimiles of the manuscripts, nevertheless the text
+    itself is still transcribed and represented as a linguistic object rather than
+    a physical one. Indeed, this is explicitly stated as the theoretical basis for
+    the de facto standard of markup for digital texts: the Guidelines of the Text
+    Encoding Initiative (TEI). These explicitly treat texts as semantic units such
+    as paragraphs, sentences, verses and so on, rather than physical elements such
+    as pages, openings, or surfaces, and some scholars have argued that this is the
+    only viable model for representing texts. In contrast, this chapter presents arguments
+    for considering the document as a physical object in the markup of texts. The
+    theoretical arguments of what constitutes a text are first reviewed, with emphasis
+    on those used by the TEI and other theoreticians of digital markup. A series of
+    cases is then given in which a document-centric approach may be desirable, with
+    both modern and medieval examples. Finally a step forward in this direction is
+    raised, namely the results of the Genetic Edition Working Group in the Manuscript
+    Special Interest Group of the TEI: this includes a proposed standard for documentary
+    markup, whereby aspects of codicology and mise en page can be included in digital
+    editions, putting the text back into its manuscript context.'
+  URL: https://nbn-resolving.org/urn:nbn:de:hbz:38-43605
+  ISBN: '978-3-8423-5032-8'
+  language: German
+
+- id: piperollsociety:1900feet
+  type: book
+  editor:
+  - literal: Pipe Roll Society
+  issued:
+  - year: '1900'
+  title: Feet of Fines of the Tenth Year of the Reign of King Richard I, AD 1198 to
+    AD 1199
+  collection-title: Publications of the Pipe Roll Society
+  collection-number: '24'
+  publisher: Love and Wyman
+  publisher-place: London
+  event-place: London
+  number-of-pages: '292'
+  source: Google Books
+  URL: https://archive.org/details/piperollsociety24pipeuoft
+  language: en
+
+- id: gransden:2007history
+  type: book
+  author:
+  - family: Gransden
+    given: Antonia
+  issued:
+  - year: '2007'
+  title: 'A history of the Abbey of Bury St Edmunds, 1182–1256: Samson of Tottington
+    to Edmund of Walpole'
+  title-short: History of the Abbey of Bury St Edmunds
+  collection-title: Studies in the history of medieval religion
+  collection-number: '31'
+  publisher: Boydell Press
+  publisher-place: Woodbridge, Suffolk
+  event-place: Woodbridge, Suffolk
+  ISBN: '1-84383-324-7'
+  call-number: BX2595 .A23 G73 2007 IMST
+
+- id: james:1905descriptive
+  type: book
+  author:
+  - family: James
+    given: M.R.
+  - family: Minns
+    given: Ellis H.
+  issued:
+  - year: '1905'
+  accessed:
+  - year: '2013'
+    month: '7'
+    day: '16'
+  title: A descriptive catalogue of the manuscripts in the library of Pembroke College,
+    Cambridge, with a hand list of the printed books to the year 1500
+  title-short: Catalogue of the manuscripts in the library of Pembroke College
+  publisher: University Press
+  publisher-place: Cambridge
+  event-place: Cambridge
+  number-of-pages: '385'
+  source: Internet Archive
+  DOI: 10.1017/CBO9780511692796
+  URL: https://archive.org/details/adescriptivecat09librgoog
+  language: eng
+
+- id: taylor:1961didascalicon
+  type: book
+  translator:
+  - family: Taylor
+    given: Jerome
+  issued:
+  - year: '1961'
+  title: 'The Didascalicon of Hugh of St. Victor: A medieval guide to the arts'
+  collection-title: Records of civilization, sources and studies
+  collection-number: '64'
+  publisher: Columbia University Press
+  publisher-place: New York
+  event-place: New York
+  number-of-pages: '280'
+  source: toroprod.library.utoronto.ca Library Catalog
+  note: 'Local call number: AE 2 .H83 1961 VUCR Local call number: B 765 .H73D53
+    1961 TRIN/WYC Local call number: AE 2 .H83 1961 VUPT Local call number: AE 2 .H83
+    1961 SMC Local call number: AE 2 .H83 1961 ROBA Local call number: BQ 6661 .A5D5
+    IMS Physical description: xii, 254 p. : ill. ; 24 cm Bibliography note: Includes
+    bibliographical references (p. \[229\]-236) and index Portion of title: Didascalicon
+    : a medieval guide to the arts key: 1395572'
+  URL: https://archive.org/details/didascaliconmedi00hugh
+  call-number: AE2 .H83 1961
+...
