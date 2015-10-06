@@ -1,0 +1,3 @@
+# Hugh of St Victor's *De quinque septenis* (*On the Five Sevens*) and its Versification in Samuel Presbiter's *De oratione dominica* (*On the Lord's Prayer*)
+
+Introduction, texts, and translations submitted to *Scholarly Editing* 37 (2016). Introduction in TEI Lite (converted from [Pandoc Markdown](http://pandoc.org) using the [TEI Stylesheets](https://github.com/TEIC/Stylesheets) via XHTML, with manual adjustments); texts and translations encoded using [EpiDoc](http://epidoc.sourceforge.net), from [Paris, Bibliothèque Mazarine, MS 717](http://calames.abes.fr/pub/#details?id=MAZA13062) (formerly of the Abbey of St Victor, Paris) and Cambridge, Pembroke College, MS 115 (formerly of Bury St Edmunds).
