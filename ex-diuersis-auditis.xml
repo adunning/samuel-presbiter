@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:space="preserve">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="la">Collecta ex diuersis auditis in scola magistri Willelmi de Monte</title>
+<author xml:id="SP">Samuel Presbiter</author>
+<editor xml:id="AD">Andrew Dunning</editor>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<availability>
+<licence target="http//creativecommons.org/licences/by-sa/4.0/">Provided under a Creative Commons Attribution-ShareAlike 4.0 International Licence.</licence>
+<p>Produced with thanks to the Keeper of Special Collections of the Bodleian Library, University of Oxford.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement>Oxford</settlement>
+<repository>Bodleian Library</repository>
+<idno>Bodley 860</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text xml:lang="la">
+<group>
+<gb/>
+<pb n="94r"/>
+<head rend="red"><lb/>Hec collecta s<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>t ex diu<expan><am>&#x33E;</am><ex>er</ex></expan>sis auditis in scola magistri Wilelmi de <expan>mon<abbr rend="supraline">t</abbr><ex>e</ex></expan>.</head>
+<text n="1">
+<body>
+<head rend="red margin">
+<lb/>In his p<expan><am>&#x365;</am><ex>ri</ex></expan>mis osten
+<lb/>dit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> q<expan><am>&#x366;</am><ex>uo</ex></expan>d li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>um ar
+<lb/>bitrium coo<expan><am>ꝑ</am><ex>per</ex></expan>atur 
+<lb/>gratie.
+</head>
+<note>
+<lb/>Duo mecessaria sunt ad hoc ut ali<expan><am>ꝙ&#x365;</am><ex>quid</ex></expan> uideat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> usu corporeo. Claritas ext<expan><am>&#x33E;</am><ex>er</ex></expan>ior. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> 
+<lb/>uis<expan><am>ꝰ</am><ex>us</ex></expan> int<expan><am>&#x33E;</am><ex>er</ex></expan>ior.
+</note>
+<lb/><l><hi rend="red trim-blue">N</hi><hi rend="smallcaps">v</hi>lli cernentur oc<expan><ex>u</ex><abbr rend="stroke">l</abbr></expan>is que subicientur<add place="inline" hand="#SP">⸵</add></l>
+<note><lb/>lux <expan>int<am>&#x33E;</am><ex>er</ex><abbr rend="supraline">i</abbr><ex>or</ex></expan> <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> uis<expan><am>ꝰ</am><ex>us</ex></expan> int<expan><am>&#x33E;</am><ex>er</ex></expan>ior</note>
+<lb/><l>Ni lux exterior assit. et interior.</l>
+<note>
+<lb/>Ad hoc <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> aliquis uideat spiritualia oportet <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> duo <expan><am>ꝯ</am><ex>con</ex></expan>c<expan><am>&#x1DD1;</am><ex>ur</ex></expan>ant. <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan> <expan>d<ex>e</ex><abbr rend="supraline">i</abbr></expan> <expan><am>⁊</am><ex>et</ex></expan> bona uo
+<lb break="no"/>luntas. <expan>V<abbr rend="supraline">n</abbr><ex>de</ex></expan> in psalmo <expan>d<ex>icitu</ex><abbr rend="supraline">r</abbr></expan>. Conserua me <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>e</expan> <expan>q<ex>uonia</ex><abbr rend="supraline">m</abbr></expan> speraui in te <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> serua me me<expan><abbr rend="supraline">c</abbr><ex>um</ex></expan>. 
+<lb/><expan><am>Ꝑ</am><ex>Per</ex></expan> <expan>h<am>&#x307;</am><ex>oc</ex></expan> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>um arbit<expan><am>&#x365;</am><ex>ri</ex></expan>um coo<expan><am>ꝑ</am><ex>per</ex></expan>at<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>e</expan>. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> notan<expan><abbr rend="stroke">d</abbr><ex>um</ex></expan> <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan>dam auctoritates at
+<lb break="no"/>tribuunt tot<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>e</expan> <expan>d<ex>e</ex><abbr rend="supraline">i</abbr></expan>. <expan><am>⁊</am><ex>et</ex></expan> <expan>h<am>&#x307;</am><ex>oc</ex></expan> <expan><am>ꝯ&#x1DD3;</am><ex>contra</ex></expan> peligianos q<expan><am>&#x365;</am><ex>ui</ex></expan> dicunt li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan><expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> arbit<expan><am>&#x365;</am><ex>ri</ex></expan>um suffic<expan><am>&#x33E;</am><ex>er</ex></expan>e abs<expan>q<am>ꝫ</am><ex>ue</ex></expan> <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan> 
+<lb/>ad m<expan><am>&#x33E;</am><ex>er</ex></expan>itum uite et<expan><am>&#x33E;</am><ex>er</ex></expan>ne. <expan><abbr rend="supraline">Q</abbr><ex>ue</ex></expan>dam auctoritates att<expan><am>&#x365;</am><ex>ri</ex></expan>buunt tot<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>o arbit<expan><am>&#x365;</am><ex>ri</ex></expan>o. <expan><am>⁊</am><ex>et</ex></expan> <expan>h<am>&#x307;</am><ex>oc</ex></expan> <expan><am>ꝯ&#x1DD3;</am><ex>contra</ex></expan> pig<expan><ex>ro</ex><am>&#x366;</am></expan>s 
+<lb/>q<expan><am>&#x365;</am><ex>ui</ex></expan> reput<expan><abbr rend="supraline">a</abbr><ex>n</ex></expan>t <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan> <expan><am>ꝯ</am><ex>con</ex></expan>f<expan><am>&#x33E;</am><ex>er</ex></expan>ri bonum abs<expan>q<am>ꝫ</am><ex>ue</ex></expan> li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>o arbit<expan><am>&#x365;</am><ex>ri</ex></expan>o <expan><am>⁊</am><ex>et</ex></expan> illo<expan><am>ꝝ</am><ex>rum</ex></expan> conamine. <expan><abbr rend="supraline">Q</abbr><ex>ue</ex></expan>d<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> auctoritate<hi rend="superscript">s</hi> 
+<lb/><expan><am>ꝑ</am><ex>per</ex></expan>ciuntur. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> att<expan><am>&#x365;</am><ex>ri</ex></expan>buunt <expan><am>ꝑ</am><ex>par</ex></expan>t<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>e</expan> partem li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>o atbit<expan><am>&#x365;</am><ex>ri</ex></expan>o. <expan>V<abbr rend="supraline">n</abbr><ex>de</ex></expan> <name>paul<expan><am>ꝰ</am><ex>us</ex></expan></name> dicit. Non ego <expan>s<am>ꝫ</am><ex>et</ex></expan> <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan> 
+<lb/><expan>d<ex>e</ex><abbr rend="supraline">i</abbr></expan> me<expan><abbr rend="supraline">c</abbr><ex>um</ex></expan>. <expan>d<ex>e</ex><abbr rend="supraline">i</abbr><am>.</am></expan> <expan><am>ʜ</am><ex>enim</ex><am>.</am></expan> adiutores sum<expan><am>ꝰ</am><ex>us</ex></expan>. <expan>s<am>ꝫ</am><ex>et</ex></expan> lic<expan><am>⁊</am><ex>et</ex></expan> li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>um arbit<expan><am>&#x365;</am><ex>ri</ex></expan><expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> coo<expan><am>ꝑ</am><ex>per</ex></expan>et<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>e</expan>⸵ <expan>t<ex>ame</ex><abbr rend="supraline">n</abbr></expan> <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan> <expan><abbr rend="supraline">p</abbr><ex>re</ex>ue<abbr rend="supraline">n</abbr><ex>it</ex></expan>. <expan><am>⁊</am><ex>et</ex></expan> <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan> ea <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> 
+<lb/>principalitas. <expan>V<abbr rend="supraline">n</abbr><ex>de</ex></expan> ait q<expan><am>&#x365;</am><ex>ui</ex></expan>d<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan>. Quic<expan><am>ꝙ&#x365;</am><ex>quid</ex></expan> <expan>h<ex>abe</ex><abbr rend="supraline">s</abbr></expan> m<expan><am>&#x33E;</am><ex>er</ex></expan>iti <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>uent<expan><am>&#x365;</am><ex>ri</ex></expan>x <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan> donat. Nil <expan>d<ex>eu</ex><abbr rend="supraline">s</abbr></expan> in <expan>no<abbr rend="stroke">b</abbr><ex>is</ex></expan> <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>t<expan><am>&#x33E;</am><ex>er</ex></expan> 
+<lb/>sua dona coronat. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> in<reg> </reg><expan>o<abbr rend="supraline">r</abbr><ex>ati</ex>o</expan>ne <expan>d<ex>icitu</ex><abbr rend="supraline">r</abbr></expan>. <expan>G<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan> tua <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>e</expan> nos <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>uen<choice><sic><unclear>t</unclear></sic><corr>i</corr></choice>at. <expan><am>⁊</am><ex>et</ex></expan> seq<expan><am>&#x1DD3;</am><ex>ua</ex></expan>t<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. <expan>G<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan> <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>uenit<add place="inline" hand="#SP">⸵</add> 
+<lb/>ut <expan>h<ex>om</ex><abbr rend="supraline">o</abbr></expan> bon<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> uelit. <expan>seq<am>&#x1DD1;</am><ex>uitur</ex></expan>. ne frustra uel<subst><del rend="erased"><unclear>ut</unclear></del><add place="overstrike">it</add></subst>. <expan>G<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan> sem<expan><am>ꝑ</am><ex>per</ex></expan> <expan><abbr rend="supraline">p</abbr><ex>re</ex>ue<abbr rend="supraline">n</abbr><ex>it</ex></expan> li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>um arbit<expan><am>&#x365;</am><ex>ri</ex></expan><expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan>nat<am>&#x1DD1;</am><ex>ural</ex>li</expan> or<pc rend="hyphen"/>
+<lb break="no"/>dine <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan>c<ex>aus</ex><abbr rend="supraline">a</abbr></expan> licet <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> <expan>t<ex>em</ex><abbr rend="supraline">p</abbr><ex>o</ex>r<ex>e</ex></expan>. Infusio <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>e</expan> <expan>c<ex>aus</ex><abbr rend="supraline">a</abbr></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>re conu<expan><am>&#x33E;</am><ex>er</ex></expan>tat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>h<ex>om</ex><abbr rend="supraline">o</abbr></expan> ad <expan>d<ex>eu</ex><abbr rend="supraline">m</abbr></expan>. <expan>s<am>ꝫ</am><ex>et</ex></expan> <expan><am>ꝙ&#x1DD3;</am><ex>quam</ex></expan> cito infundit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> 
+<lb/><expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan><subst><del rend="alt">.</del><add place="overstrike">⸵</add></subst> <expan><am>⁊</am><ex>et</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>u<expan><am>&#x33E;</am><ex>er</ex></expan>tit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>h<ex>om</ex><abbr rend="supraline">o</abbr></expan> ad <expan>d<ex>eu</ex><abbr rend="supraline">m</abbr></expan>. <expan><am>⁊</am><ex>et</ex></expan> <expan>i<am>&#x0363;</am><ex>ta</ex></expan> <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan> <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> <expan><abbr rend="supraline">p</abbr><ex>re</ex>ue<abbr rend="supraline">n</abbr><ex>it</ex></expan> <expan>t<ex>em</ex><abbr rend="supraline">p</abbr><ex>o</ex>r<ex>e</ex></expan>. <expan>s<am>ꝫ</am><ex>et</ex></expan> <expan>n<am>&#x0363;</am><ex>atura</ex></expan>li ordine <expan><am>⁊</am><ex>et</ex></expan> <expan>c<ex>aus</ex><abbr rend="supraline">a</abbr></expan><supplied reason="omitted">.</supplied>
+</note>
+<lb/><l>Nulli dernentur celestia. ni socientur⸵</l>
+<lb/><l>Bina. dei bonum <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan>. Velle bonum.</l>
+</body>
+</text>
+<text n="2">
+<body>
+<note>
+<lb/>In <expan>h<am>&#x307;</am><ex>oc</ex></expan> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>alitas. <expan>di<abbr rend="supraline">c</abbr><ex>it</ex></expan> <name>paulus</name> de eo <expan>s<ex>i</ex><abbr rend="supraline">n</abbr>e</expan> <expan>p<ex>at</ex><abbr rend="supraline">r</abbr>e</expan> <expan>s<ex>i</ex><abbr rend="supraline">n</abbr>e</expan> <expan>m<ex>at</ex><abbr rend="supraline">r</abbr>e</expan> <expan>s<ex>i</ex><abbr rend="supraline">n</abbr>e</expan> genealogia <expan>n<am>&#x368;</am><ex>ec</ex></expan> inici<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> die<expan><am>ꝝ</am><ex>rum</ex></expan> 
+<lb/>ne<expan>q<am>ꝫ</am><ex>ue</ex></expan> finem uite <expan>h<ex>abe</ex><abbr rend="supraline">n</abbr>s</expan> assimilat<add place="inline"><expan><am>ꝰ</am><ex>us</ex></expan></add> filio <expan>d<ex>e</ex><abbr rend="supraline">i</abbr></expan> manet sac<expan><am>&#x33E;</am><ex>er</ex></expan>dos in<reg> </reg>et<expan><am>&#x33E;</am><ex>er</ex></expan>n<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>.
+</note>
+<note>
+<lb/>In <expan>h<am>&#x307;</am><ex>oc</ex></expan> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>off<ex>iciu</ex><abbr rend="supraline">m</abbr></expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>docii. scilic<expan><am>⁊</am><ex>et</ex></expan> <expan><am>ꝙ</am><ex>quod</ex></expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>dos debeat pacificare se <expan><am rend="crossed">⁊</am><ex>et</ex></expan> alios.
+</note>
+<note>
+<lb/>In <expan>h<am>&#x307;</am><ex>oc</ex></expan> <expan><am>ꝙ</am><ex>quod</ex></expan> <expan>d<ex>icitu</ex><abbr rend="supraline">r</abbr></expan> rex <expan><am rend="crossed">⁊</am><ex>et</ex></expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>dos<add place="inline" hand="#SP">⸵</add> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> ordinis dignitas q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>m <expan>h<ex>abe</ex><abbr rend="supraline">t</abbr></expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>dos si <expan><am>ꝑ</am><ex>per</ex></expan> sapi<pc rend="hyphen"/>
+<lb break="no"/>entiam se <expan><am rend="crossed">⁊</am><ex>et</ex></expan> alios regat. <mentioned><name>Salem</name></mentioned> int<expan><am>&#x33E;</am><ex>er</ex></expan>pretat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> pax.</note>
+<head rend="margin red">
+<lb/>Hic notantur sex quo
+<lb break="no"/>r<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> obseruat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan> nescess
+<lb break="no"/>saria <expan><abbr rend="supraline">e</abbr><ex>st</ex><am>.</am></expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>doti.
+</head>
+<l><hi rend="enlarged blue trim-red">A</hi>bs<expan>q<am>ꝫ</am><ex>ue</ex></expan> parentela <name>salem</name> rex<add place="inline" hand="#SP">.</add> at<expan>q<am>ꝫ</am><ex>ue</ex></expan> sacerdos<add place="inline" hand="#SP">.</add></l>
+<note>
+<lb/><foreign>Malchos</foreign> rex <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <foreign>sadoc</foreign> iust<expan><am>ꝰ</am><ex>us</ex></expan>. <expan>I<abbr rend="supraline">n</abbr><ex>de</ex></expan> <mentioned><name>melchisedech</name></mentioned> <expan>q<am>&#x1DD3;</am><ex>uas</ex>i</expan> rex iust<expan><am>ꝰ</am><ex>us</ex></expan> Sic notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> publica utilita<hi rend="superscript">s</hi> 
+<lb/>quam deb<expan><am>⁊</am><ex>et</ex></expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>dos atten<expan><abbr rend="stroke">d</abbr><ex>er</ex></expan>e sicut iust<expan><am>ꝰ</am><ex>us</ex></expan> rex attendit<supplied reason="omitted">.</supplied>
+</note>
+<note>
+<lb/>In <expan>h<am>&#x307;</am><ex>oc</ex></expan> <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> <expan>d<ex>icitu</ex><abbr rend="supraline">r</abbr></expan> panem <expan><am rend="crossed">⁊</am><ex>et</ex></expan> uin<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> rit<expan><am>ꝰ</am><ex>us</ex></expan> sac<expan><am>&#x365;</am><ex>ri</ex></expan>ficii <expan><am rend="supraline">ꝙ</am><ex>quem</ex></expan> deb<expan><am>⁊</am><ex>et</ex></expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>dos s<expan><am>&#x33E;</am><ex>er</ex></expan>uare <expan><am>ꝯ</am><ex>con</ex></expan>ficiendo corp<expan><am>ꝰ</am><ex>us</ex></expan> 
+<lb/><expan><am>x&#x365;</am><ex>christi</ex></expan> cum pane <expan><am>⁊</am><ex>et</ex></expan> uino paululo a<expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> mixto <expan><abbr rend="supraline">c</abbr><ex>um</ex></expan> uino<supplied reason="omitted">.</supplied>
+</note>
+<note>
+a cede quatuor reg<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>.
+</note>
+<lb/><l><name>Melchisedech</name>. <name>abrahe</name> panem uinum<expan>q<am>ꝫ</am><ex>ue</ex></expan> reuerso<add place="inline" hand="#SP">⸵</add></l>
+<note>
+<lb/>In <expan>h<am>&#x307;</am><ex>oc</ex></expan> <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> <expan>d<ex>icitu</ex><abbr rend="supraline">r</abbr></expan> <quote><expan>op<am>.</am><ex>tulit</ex> oc<am>.</am><ex>currens</ex></expan></quote> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>alitas. In <expan>h<am>&#x307;</am><ex>oc</ex></expan> <expan><am>ꝙ</am><ex>quod</ex></expan> <expan>d<ex>icitu</ex><abbr rend="supraline">r</abbr></expan> <quote><expan>op<am>.</am><ex>tulit</ex> pa<am>.</am><ex>nem</ex></expan> <expan><am>⁊</am><ex>et</ex></expan> <expan>ui<am>.</am><ex>num</ex></expan></quote> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>alitas mo<expan><abbr rend="stroke">d</abbr><ex>er</ex></expan>ata. <expan><abbr rend="supraline">I</abbr><ex>n</ex></expan> <expan>h<am>&#x307;</am><ex>oc</ex></expan> 
+<lb/><expan>q<supplied reason="omitted"><ex>uo</ex></supplied>d</expan> <expan>d<ex>icitu</ex><abbr rend="supraline">r</abbr></expan> <quote><expan>op<am>.</am><ex>tulit</ex></expan> <name>ab<expan><am>&#x1DD3;</am><ex>ra</ex></expan>he</name> i<expan><am>ꝰ</am><ex>us</ex></expan>to uiro <expan><am>⁊</am><ex>et</ex></expan> suis reu<expan><am>&#x33E;</am><ex>er</ex></expan>sis a cede <num n="4">·iiii·</num> reg<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> q<expan><am>&#x365;</am><ex>ui</ex></expan> inpugnau<expan><am>&#x33E;</am><ex>er</ex></expan>unt <num n="5">·v·</num> reges. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> fati<pc rend="hyphen"/>
+<lb break="no"/>gatis itin<expan><am>&#x33E;</am><ex>er</ex></expan>e <expan><am>⁊</am><ex>et</ex></expan> esurienti<expan>b<am>ꝫ</am><ex>us</ex></expan><add place="inline" hand="#SP">⸵</add> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>alitas discreta. Sic <expan><am>ꝑ</am><ex>per</ex></expan> li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>alitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> mo<expan><abbr rend="stroke">d</abbr><ex>er</ex></expan>at<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan><am>⁊</am><ex>et</ex></expan> disc<expan><am>&#x364;</am><ex>re</ex></expan>t<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan></quote> 
+<lb/><expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>alitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> su<expan><am>ꝑ</am><ex>per</ex></expan>i<expan><am>ꝰ</am><ex>us</ex></expan> assignat<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan>⸵ <expan>Inte<abbr rend="crossed">ll</abbr><ex>igitu</ex>r</expan> conu<expan><am>&#x33E;</am><ex>er</ex></expan>sat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>nis <expan>s<ex>an</ex><abbr rend="supraline">c</abbr><ex>t</ex>i</expan>tas⸵ q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>m deb<expan><am>⁊</am><ex>et</ex></expan> <expan>h<ex>abe</ex><abbr rend="supraline">r</abbr>e</expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>dos.
+</note>
+<note>
+<lb/>In <expan>h<am>&#x307;</am><ex>oc</ex></expan> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> uite regularitas <expan><am>ꝙ&#x1DD3;</am><ex>quam</ex></expan> deb<expan><am>⁊</am><ex>et</ex></expan> <expan>h<ex>abe</ex><abbr rend="supraline">r</abbr>e</expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>dos. deb<expan><am>⁊</am><ex>et</ex></expan> seminare spiritualia. <expan><am>⁊</am><ex>et</ex></expan> met<expan><am>&#x33E;</am><ex>er</ex></expan>e 
+<lb/>carnalia <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> uiu<expan><am>&#x33E;</am><ex>er</ex></expan>e de decimis <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan>ob<abbr rend="stroke">l</abbr><ex>ati</ex>onib<am>ꝫ</am><ex>us</ex></expan> sicut <name>leuite</name> in uet<expan><am>&#x33E;</am><ex>er</ex></expan>i testa<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>to. 
+</note>
+<lb/><l><hi rend="spaced">O</hi>ptulit occurrens. decimas tulit huic <expan>b<ex>e</ex><abbr resp="supraline">n</abbr><ex>e</ex></expan>dic<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>s.</l>
+<note>
+<lb/>Scilic<expan><am>⁊</am><ex>et</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>u<expan><am>&#x33E;</am><ex>er</ex></expan>sat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>nis <expan>s<ex>an</ex><abbr rend="supraline">c</abbr><ex>t</ex>i</expan>tat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. <expan>off<ex>iciu</ex><abbr rend="supraline">m</abbr></expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>dotii. ordinis dignitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. public<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> utilitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. <hi rend="capital">r</hi>it<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
+<lb/>sac<expan><am>&#x365;</am><ex>ri</ex></expan>ficii. uite reg<expan><ex>u</ex><abbr rend="stroke">l</abbr></expan>aritat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>.
+</note>
+<lb/><l>Sex istis u<expan><am>&#x33E;</am><ex>er</ex></expan>bis notet <expan rend="supraline">e<ex>ss</ex>e</expan> tenenda sacerdos.</l>
+<pb n="94v"/>
+<note>
+<lb/><expan><am>.</am>i<ex>d est</ex><am>.</am></expan> habeat spiritual<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <expan><am>⁊</am><ex>et</ex></expan> <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> carnel<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> affectum
+</note>
+<lb/><l>Sit non carna<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> affectu spiritualis<add place="inline" hand="#SP">.</add></l>
+<note>
+<lb/><expan><am>.</am>i<ex>d est</ex><am>.</am></expan> habeat li<expan><abbr rend="stroke">b</abbr><ex>er</ex></expan>alitatem discret<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> mo<expan><abbr rend="stroke">d</abbr><ex>er</ex></expan>at<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan><am>ꝙ&#x1DD3;</am><ex>quam</ex></expan> <expan>h<ex>abe</ex><abbr rend="supraline">n</abbr>s</expan> <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>alitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan><add place="inline" hand="#SP">⸵</add> habebit <expan><am>ꝯ</am><ex>con</ex></expan>u<expan><am>&#x33E;</am><ex>er</ex></expan>sat<expan><ex>i</ex><abbr rend="supraline">o</abbr><ex>n</ex></expan>is <expan>s<ex>an</ex><abbr rend="supraline">c</abbr><ex>t</ex>i</expan>tat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>.
+</note>
+<lb/><label><add place="left" hand="pencil">.1.</add></label><l>Occurrens<expan>q<am>ꝫ</am><ex>ue</ex></expan> pie sit discret<expan><am>ꝰ</am><ex>us</ex></expan> modic<expan><am>ꝰ</am><ex>us</ex></expan><expan>q<am>ꝫ</am><ex>ue</ex></expan>.</l>
+<note>
+<lb/>Sic s<expan><am>&#x33E;</am><ex>er</ex></expan>uabit officium sac<expan><am>&#x33E;</am><ex>er</ex></expan>dotii.
+</note>
+<lb/><label><add place="left" hand="pencil">.2.</add></label><l>Curet sollicite se pacificare suos<expan>q<am>ꝫ</am><ex>ue</ex></expan>.</l>
+<note>
+<lb/>Sic s<expan><am>&#x33E;</am><ex>er</ex></expan>uabit ordinis dignitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. <hi rend="capital">r</hi>egendo se <expan><am rend="crossed">⁊</am><ex>et</ex></expan> alios <expan><am rend="crossed">⁊</am><ex>et</ex></expan> orando <expan><am>ꝓ</am><ex>pro</ex></expan> se <expan><am rend="crossed">⁊</am><ex>et</ex></expan> pro aliis.
+</note>
+<lb/><label><add place="left" hand="pencil">3</add></label><l>Se regat at<expan>q<am>ꝫ</am><ex>ue</ex></expan> suos preci<expan>b<am>ꝫ</am><ex>us</ex></expan> se curet<add place="above" hand="#SP"><note><expan>u<ex>e</ex><abbr rend="stroke">l</abbr></expan> mundet</note></add> <expan><am>&amp;</am><ex>et</ex></expan> <expan>i<abbr rend="supraline">p</abbr><ex>s</ex>o</expan>s<supplied reason="omitted">.</supplied></l>
+<note>
+<lb/><expan><am>.</am>i<ex>d est</ex><am>.</am></expan> attendat puplicam utilitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> sicut iust<expan><am>ꝰ</am><ex>us</ex></expan> rex deb<expan><am>⁊</am><ex>et</ex></expan> atten<expan><abbr rend="stroke">d</abbr><ex>er</ex></expan>e.
+</note>
+<lb/><l>Fiat comuni iustus rex utilitati<add place="inline" hand="#SP">.</add></l>
+<note>
+<lb/>Sic s<expan><am>&#x33E;</am><ex>er</ex></expan>uabit rit<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> sac<expan><am>&#x365;</am><ex>ri</ex></expan>ficii. paululum a<expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> deb<expan><am>⁊</am><ex>et</ex></expan> c<expan><abbr rend="supraline">o</abbr><ex>m</ex></expan>misceri cum uino ut absorbeat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> ab eo. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>
+<lb break="no"/>substantietur ei. sic mistice intelligut<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> <expan>p<ex>o</ex>p<ex>u</ex><abbr rend="stroke">l</abbr><ex>u</ex>s</expan> <expan>consubstantiab<ex>itu</ex><abbr rend="supraline">r</abbr></expan> <expan><am>x&#x30A;</am><ex>christo</ex></expan>. <expan><am>ꝑ</am><ex>per</ex></expan> a<expan><am>ꝙ&#x1DD3;</am><ex>quam</ex></expan> accipit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> fide<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> 
+<lb/><expan>p<ex>o</ex>p<ex>u</ex><abbr rend="stroke">l</abbr><ex>u</ex>s</expan>. <expan><am>ꝑ</am><ex>per</ex></expan> uin<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> sanguis <expan><am>x&#x365;</am><ex>christi</ex></expan>.</note>
+<lb/><l>Conficiat limphe paulo. cum pane mero<expan>q<am>ꝫ</am><ex>ue</ex></expan>.</l>
+<note>
+<lb/>Sic s<expan><am>&#x33E;</am><ex>er</ex></expan>uabit uite <hi rend="capital">r</hi>egularitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>.
+</note>
+<lb/><l>Spirituale serat. decimas oblata<expan>q<am>ꝫ</am><ex>ue</ex></expan> sumat.</l>
+</body>
+</text>
+<text n="3">
+<body>
+<note>
+<lb/><expan><am>Ꝑ</am><ex>Per</ex></expan> uacc<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> sub iugo <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> accipitur obedientia. que t<expan><am>&#x365;</am><ex>ri</ex></expan>plex deb<expan><am>⁊</am><ex>et</ex></expan> <expan rend="supraline">e<ex>ss</ex>e</expan> <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> in obediendo legi <expan>n<am>&#x0363;</am><ex>atura</ex></expan>li. <expan><am>⁊</am><ex>et</ex></expan> 
+<lb/>legi sc<expan><am>&#x365;</am><ex>ri</ex></expan>pte <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> legi mosayce <expan><am rend="crossed">⁊</am><ex>et</ex></expan> ew<expan><abbr rend="supraline">a</abbr><ex>n</ex></expan>g<expan><ex>e</ex><abbr rend="stroke">l</abbr></expan>io. obedientia deb<expan><am>⁊</am><ex>et</ex></expan> <expan rend="supraline">e<ex>ss</ex>e</expan> <subst hand="#SP"><del rend="strikethrough">y</del><add place="above">hi</add></subst>laris. cita. discreta. Integra.
+</note>
+<note>
+<lb/><expan><am>Ꝑ</am><ex>Per</ex></expan> cap<expan><am>&#x1DD3;</am><ex>ra</ex></expan>m <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> offerebat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> in uet<expan><am>&#x33E;</am><ex>er</ex></expan>i testa<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>to <expan><am>ꝓ</am><ex>pro</ex></expan> <expan>pec<abbr rend="supraline">c</abbr><ex>at</ex>i</expan>s⸵ accipit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>p<ex>e</ex><abbr rend="supraline">n</abbr><ex>itenti</ex>a</expan> <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> deb<expan><am>⁊</am><ex>et</ex></expan> <expan rend="supraline">e<ex>ss</ex>e</expan> t<expan><am>&#x365;</am><ex>ri</ex></expan>plex. <expan><am>ꝑ</am><ex>per</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>t<expan><am>&#x365;</am><ex>ri</ex></expan>t<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>n<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. <expan><am>ꝑ</am><ex>per</ex></expan> 
+<lb/>confession<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. <expan><am>ꝑ</am><ex>per</ex></expan> satisfact<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>n<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. deb<expan><am>⁊</am><ex>et</ex></expan> <expan><am rend="supraline">⁊</am><ex>etiam</ex></expan> <expan rend="supraline">e<ex>ss</ex>e</expan> t<expan><am>&#x365;</am><ex>ri</ex></expan>plex in deflendo <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>t<expan><am>&#x33E;</am><ex>er</ex></expan>ita. demittendo <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>sentia. ca<pc rend="hyphen"/>
+<lb break="no"/>uando futura. Confessio deb<expan><am>⁊</am><ex>et</ex></expan> <expan rend="supraline">e<ex>ss</ex>e</expan> uoluntaria. Munda. Nuda. Integra. siue indiuisa.
+</note>
+<head rend="margin red">
+<lb/>De spirituali oblatione. <expan>s<ex>e</ex>c<ex>un</ex><abbr rend="stroke">d</abbr><ex>u</ex>m</expan> oblation<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> 
+<lb/>sac<expan><am>&#x365;</am><ex>ri</ex></expan>fici<hi rend="long">i</hi> <name>abrahe</name>.
+</head>
+<lb/><l><hi rend="enlarged red trim-blue">O</hi>fferto trimam uaccam. capram quo<expan>q<am>ꝫ</am><ex>ue</ex></expan> trim<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan>.</l>
+<note>
+<lb/><expan><am>Ꝑ</am><ex>Per</ex></expan> arietem q<expan><am>&#x365;</am><ex>ui</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> dux gregis <expan>acci<abbr rend="supraline">p</abbr><ex>itu</ex>r</expan> int<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>t<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan> <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> deb<expan><am>⁊</am><ex>et</ex></expan> <expan rend="supraline">e<ex>ss</ex>e</expan> t<expan><am>&#x365;</am><ex>ri</ex></expan>plex <expan>q<am>ꝛ</am><ex>uia</ex></expan> fide<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> deb<expan><am>⁊</am><ex>et</ex></expan> inten<expan><abbr rend="stroke">d</abbr><ex>er</ex></expan>e plac<expan><am>&#x33E;</am><ex>er</ex></expan>e <expan>d<ex>e</ex><abbr rend="supraline">o</abbr></expan>. m<expan><am>&#x33E;</am><ex>er</ex></expan>eri <expan>s<am>&#x365;</am><ex>ibi</ex></expan>. 
+<lb/><expan><am>ꝓ</am><ex>pro</ex></expan>desse <expan><am>ꝓ</am><ex>pro</ex></expan>ximo.
+</note>
+<note>
+<expan><am>Ꝑ</am><ex>Per</ex></expan>col<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>b<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> simplex <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> <expan>accip<am>&#x1DD1;</am><ex>itur</ex></expan> simplicitas <expan><am>ꝙ&#x1DD3;</am><ex>quam</ex></expan> deb<expan><am>⁊</am><ex>et</ex></expan> <expan>h<ex>om</ex><abbr rend="supraline">o</abbr></expan> off<expan><am>&#x33E;</am><ex>er</ex></expan>re. <expan><am>⁊</am><ex>et</ex></expan> <expan>si<abbr rend="supraline">c</abbr><ex>ut</ex></expan> col<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>ba g<expan><am>&#x364;</am><ex>re</ex></expan>gat<expan><abbr rend="supraline">i</abbr><ex>m</ex></expan> uo<pc rend="hyphen"/>
+<lb break="no"/>lat. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan>eli<abbr rend="supraline">g</abbr><ex>it</ex></expan> meliora g<expan><am>&#x1DD3;</am><ex>ra</ex></expan>na <expan>q<ex>ua</ex><abbr rend="supraline">n</abbr><ex>do</ex></expan> pascit se. <expan><am>⁊</am><ex>et</ex></expan> <expan>si<abbr rend="supraline">c</abbr><ex>ut</ex></expan> <expan>s<ex>upe</ex><abbr rend="supraline">r</abbr></expan> rip<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> flu<expan><abbr rend="supraline">m</abbr><ex>in</ex></expan>is uisa <choice><sic>iuti</sic><corr>um</corr></choice>b<expan><am>&#x1DD3;</am><ex>ra</ex></expan> acci<pc rend="hyphen"/>
+<lb break="no"/>pit<supplied reason="omitted">r</supplied>is cauet <expan>s<am>&#x365;</am><ex>ibi</ex></expan>. sic fide<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>sortia bono<expan><am>ꝝ</am><ex>rum</ex></expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> sust<expan><am>&#x1DD3;</am><ex>ra</ex></expan>gia <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan>rere deb<expan><am>⁊</am><ex>et</ex></expan>. <expan><am>&amp;</am><ex>et</ex></expan> in sac<expan><am>&#x1DD3;</am><ex>ra</ex></expan> sc<expan><am>&#x365;</am><ex>ri</ex></expan>pt<expan><am>&#x1DD1;</am><ex>ur</ex></expan>a 
+<lb/>pociora elig<expan><am>&#x33E;</am><ex>er</ex></expan>e qui<expan>b<am>ꝫ</am><ex>us</ex></expan> pascat se. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> uisis insidiis hostis <expan><am>ꝑ</am><ex>per</ex></expan> sac<expan><am>&#x1DD3;</am><ex>ra</ex></expan>m sc<expan><am>&#x365;</am><ex>ri</ex></expan>pt<expan><am>&#x1DD1;</am><ex>ur</ex></expan>am 
+<lb/><expan>s<am>&#x365;</am><ex>ibi</ex></expan> cauere.
+</note>
+<lb/><l>Assit <expan><am>&amp;</am><ex>et</ex></expan> his aries t<expan><am>&#x365;</am><ex>ri</ex></expan>mus. nec caonis ales⸵</l>
+<note>
+<lb/><expan><am>Ꝑ</am><ex>Per</ex></expan> turtur<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> casta auis <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> <expan>accip<am>&#x1DD1;</am><ex>itur</ex></expan> castitas <expan><am>ꝙ&#x1DD3;</am><ex>quam</ex></expan> deb<expan><am>⁊</am><ex>et</ex></expan> off<expan><am>&#x33E;</am><ex>er</ex></expan>re fide<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan>. <expan><am>⁊</am><ex>et</ex></expan> <expan>si<abbr rend="supraline">c</abbr><ex>ut</ex></expan> t<expan><am>&#x1DD1;</am><ex>ur</ex></expan>tur <expan>h<ex>abe</ex><abbr rend="supraline">t</abbr></expan> gemit<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>ꝓ</am><ex>pro</ex></expan> cantu⸵ sic 
+<lb/>fide<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> deb<expan><am>⁊</am><ex>et</ex></expan> <expan>h<ex>abe</ex><abbr rend="supraline">r</abbr>e</expan> gemit<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>ꝓ</am><ex>pro</ex></expan> <expan>pec<abbr rend="supraline">c</abbr><ex>at</ex>is</expan> suis. <expan><am>ꝓ</am><ex>pro</ex></expan> <expan>pec<abbr rend="supraline">c</abbr><ex>at</ex>is</expan> alienis. <expan><am>ꝓ</am><ex>pro</ex></expan> filat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>ne <expan>g<abbr rend="stroke">l</abbr><ex>ori</ex>e</expan>. <expan><am>ꝓ</am><ex>pro</ex></expan> <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>sentia mis<expan><am>&#x33E;</am><ex>er</ex></expan>ie 
+<lb/>dicendo cum <expan><am>ꝓ</am><ex>pro</ex>p<abbr rend="stroke">h</abbr><ex>et</ex>a</expan>. hev <expan>m<am>&#x365;</am><ex>ichi</ex></expan> <expan>q<am>ꝛ</am><ex>uia</ex></expan> <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan>colat<expan><am>ꝰ</am><ex>us</ex></expan> <expan><abbr rend="supraline">m</abbr><ex>eu</ex>s</expan> <expan><am rend="crossed">⁊</am><ex>et </ex>c<am>&#x33E;</am><ex>etera</ex></expan>
+</note>
+<note>
+Abrah<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> optulit <expan><abbr rend="stroke">h</abbr><ex>ec</ex></expan> <num>·v·</num> <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan> sac<expan><am>&#x365;</am><ex>ri</ex></expan>fici<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> vacc<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> 
+<lb/>cap<expan><am>&#x1DD3;</am><ex>ra</ex></expan>m. ariet<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. col<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>b<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan>. t<expan><am>&#x1DD1;</am><ex>ur</ex></expan>tur<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. <expan><am>ẜ</am><ex>secundum</ex></expan> <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>cepta <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>i</expan>.
+</note>
+<lb/><l>Nec turtur desit. <name>abraham</name> sic sac<expan><am>&#x365;</am><ex>ri</ex></expan>ficauit.</l>
+<note>
+<lb/><expan><am>Ꝑ</am><ex>Per</ex></expan> <expan>h<am>&#x307;</am><ex>oc</ex></expan> <expan>inte<abbr rend="stroke">ll</abbr><ex>igitu</ex>r</expan> <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> o<expan><am>ꝑ</am><ex>per</ex></expan>a possunt diuidi. <expan><am>ẜ</am><ex>secundum</ex></expan> diu<expan><am>&#x33E;</am><ex>er</ex></expan>sitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <expan>t<ex>em</ex><am rend="supraline">ꝑ</am><ex>por</ex><ex>um</ex></expan> <expan><am>ꝓ</am><ex>pro</ex></expan>ut re<expan><am>ꝝ</am><ex>rum</ex></expan> uarietas exigit. exc<expan><am>&#x33E;</am><ex>er</ex></expan>ciis 
+<lb/>diu<expan><am>&#x33E;</am><ex>er</ex></expan>so<expan><am>ꝝ</am><ex>rum</ex></expan> o<expan><am>ꝑ</am><ex>per</ex></expan>um diu<expan><am>&#x33E;</am><ex>er</ex></expan>sa compet<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>t <expan>t<ex>em</ex><am rend="supraline">ꝑ</am><ex>por</ex>a</expan>. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> ali<expan>q<ex>ua</ex><abbr rend="supraline">n</abbr><ex>do</ex></expan> req<expan><am>&#x365;</am><ex>ui</ex></expan>escen<expan><abbr rend="stroke">d</abbr><ex>um</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> o<expan><am>ꝑ</am><ex>per</ex></expan>i<expan>b<am>ꝫ</am><ex>us</ex></expan> int<expan><am>&#x33E;</am><ex>er</ex></expan>missis ad horam<supplied reason="omitted">.</supplied>
+</note>
+<note>
+<lb/><expan>S<am>ꝫ</am><ex>et</ex></expan> castitas <expan><am rend="crossed">⁊</am><ex>et</ex></expan> simplicitas sem<expan><am>ꝑ</am><ex>per</ex></expan> <expan>h<ex>abe</ex><abbr rend="supraline">n</abbr>de</expan> sunt coniuncte<supplied reason="omitted">.</supplied>
+</note>
+<lb/><l>Hic t<expan><am>&#x365;</am><ex>ri</ex></expan>a diuisit. <expan>S<am>ꝫ</am><ex>et</ex></expan> aues non dissociauit.</l>
+<note>
+<lb/><quote>Musce <expan>s<am>&#x365;</am><ex>ibi</ex></expan> inuicem succedentes <expan><am>ꝑ</am><ex>per</ex>d<ex>un</ex><abbr rend="supraline">t</abbr></expan> suauitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> odoris</quote> <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> uane cogitat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>ne<hi rend="superscript">s</hi> <expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>t<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> di<hi rend="superscript">s</hi>
+<lb break="no"/>t<expan><am>&#x1DD3;</am><ex>ra</ex></expan>hentes⸵ <expan><am>ꝑ</am><ex>per</ex></expan>dunt suauitat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <expan>o<abbr rend="supraline">r</abbr><ex>ati</ex>o</expan>nis. has deb<expan><am>⁊</am><ex>et</ex></expan> fide<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> fugare dum <expan>d<ex>e</ex><abbr rend="supraline">o</abbr></expan> ali<expan><am>ꝙ&#x365;</am><ex>quid</ex></expan> offert<supplied reason="omitted">.</supplied>
+</note>
+<note>
+<lb/><add place="inline" hand="#SP"><expan>u<ex>e</ex><abbr rend="stroke">l</abbr></expan></add> uolucres
+</note>
+<lb/><l><expan><abbr rend="stroke">H</abbr><ex>ec</ex></expan> dum sacra tulis muscas a carne fugauit<add place="inline" hand="#SP">.</add></l>
+</body>
+</text>
+<text n="4">
+<body>
+<note>
+<lb/><foreign>Abba</foreign> <expan rend="supraline">p<ex>ate</ex>r</expan>. <foreign>ham</foreign>⸵ multa<expan><am>ꝝ</am><ex>rum</ex></expan>. <expan>I<abbr rend="supraline">n</abbr><ex>de</ex></expan> <mentioned><name>abrah<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan></name></mentioned>⸵ <expan>q<am>&#x1DD3;</am><ex>uas</ex>i</expan> <expan rend="supraline">p<ex>ate</ex>r</expan> multarum genti<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. <foreign>Abba</foreign> <expan rend="supraline">p<ex>ate</ex>r</expan> <foreign>rama</foreign>⸵ ex
+<lb break="no"/>celsum. <expan>I<abbr rend="supraline">n</abbr><ex>de</ex></expan> <mentioned><name>abram</name></mentioned>⸵ <expan>q<am>&#x1DD3;</am><ex>uas</ex>i</expan> <expan rend="supraline">p<ex>ate</ex>r</expan> excels<expan><am>ꝰ</am><ex>us</ex></expan>.
+</note>
+<pb n="95r"/>
+<head rend="red margin">
+<lb/>Hic monet<expan><am>&#x1DD1;</am><ex>ur</ex></expan> vt qui 
+<lb/>vult fieri rector po<pc rend="hyphen"/>
+<lb break="no"/><surplus>po</surplus>p<expan><ex>u</ex><abbr rend="stroke">l</abbr></expan>i p<expan><am>&#x365;</am><ex>ri</ex></expan>us <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>cellat in 
+<lb/>sapientia <expan><am>⁊</am><ex>et</ex></expan> bonis mo<pc rend="hyphen"/>
+<lb break="no"/><supplied reason="omitted">ri</supplied>bus.
+</head>
+<note>
+<lb/><expan><am>.</am>i<ex>d est</ex><am>.</am></expan> <expan rend="supraline">p<ex>ate</ex>r</expan> multa<expan><am>ꝝ</am><ex>rum</ex></expan> genti<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>
+</note>
+<note>
+<lb/><expan><am>.</am>i<ex>d est</ex><am>.</am></expan> <expan rend="supraline">p<ex>ate</ex>r</expan> excels<expan><am>ꝰ</am><ex>us</ex></expan> in <expan>sap<abbr rend="supraline">i</abbr><ex>enti</ex>a</expan> <expan><am>⁊</am><ex>et</ex></expan> bonis mori<expan>b<am>ꝫ</am><ex>us</ex></expan>
+</note>
+<lb/><l>Hic qui uult <name>abrah<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan></name> fieri⸵ fiat prius <name>abram</name><add place="inline">.</add></l>
+<note>
+<lb/><name>Bersabee</name> fuit pute<expan><am>ꝰ</am><ex>us</ex></expan> siue fons <expan>iux<am>&#x1DD3;</am><ex>a</ex></expan> <expan><am rend="supraline">ꝙ</am><ex>quem</ex></expan> <name>abrah<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan></name> plantauit nem<expan><am>ꝰ</am><ex>us</ex></expan>. <expan><am>⁊</am><ex>et</ex></expan> <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan>t<expan><am>&#x33E;</am><ex>er</ex></expan><expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>tat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> septim<expan><am>ꝰ</am><ex>us</ex></expan> pute<expan><am>ꝰ</am><ex>us</ex></expan> <expan>iux<am>&#x1DD3;</am><ex>a</ex></expan> 
+<lb/><expan><am rend="supraline">ꝙ</am><ex>quem</ex></expan> <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> <expan>iux<am>&#x1DD3;</am><ex>a</ex></expan> septiform<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <expan>g<abbr rend="supraline">r</abbr><ex>ati</ex>a</expan>m <expan>s<abbr rend="supraline">p</abbr><am>c</am><ex>iritus</ex></expan>. <expan>u<ex>e</ex><abbr rend="stroke">l</abbr></expan> <expan>iux<am>&#x1DD3;</am><ex>a</ex></expan> sac<expan><am>&#x1DD3;</am><ex>ra</ex></expan>m sc<expan><am>&#x365;</am><ex>ri</ex></expan>pt<expan><am>&#x1DD1;</am><ex>ur</ex></expan><expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> <expan>q<am>&#x1DD3;</am><ex>uas</ex>i</expan> pute<expan><am>ꝰ</am><ex>us</ex></expan> <expan><am>ꝓ</am><ex>pro</ex>p<abbr rend="supraline">t</abbr><ex>er</ex></expan> <expan><am>ꝓ</am><ex>pro</ex></expan>fundas <expan>s<ex>e</ex>n<ex>tenti</ex>as</expan>⸵ <expan rend="supraline">p<ex>ate</ex>r</expan> excels<expan><am>ꝰ</am><ex>us</ex></expan> 
+<lb/>in <expan>sap<abbr rend="supraline">i</abbr><ex>enti</ex>a</expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> bonis mori<expan>b<am>ꝫ</am><ex>us</ex></expan>⸵ <expan>p<am>&#x36D;</am><ex>otest</ex></expan> plantare nem<expan><am>ꝰ</am><ex>us</ex></expan> <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> <expan>h<ex>abe</ex><abbr rend="supraline">n</abbr>do</expan> cog<pc rend="hyphen"/>
+<lb break="no"/>nit<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>nem sacre scripture plantare <expan>p<am>&#x36D;</am><ex>otest</ex></expan> nem<expan><am>ꝰ</am><ex>us</ex></expan> <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> multos conuocare⸵ eos doc<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>do <expan>u<ex>e</ex><abbr rend="stroke">l</abbr></expan> eos reg<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>do.
+</note>
+<lb/><l>Sic in <name>bersabee</name> plantare potest nemus ille.</l>
+<note>
+<lb/><expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> ypoc<expan><am>&#x365;</am><ex>ri</ex></expan>tas qui lat<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>t <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan> pelle ouina.
+</note>
+<note>
+Serpentes uenenosos <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> inuidos
+</note>
+<note>
+<lb/>Vrsos. leones <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> iracundo<hi rend="superscript">s</hi>. elato<hi rend="superscript">s</hi>.
+</note>
+<lb/><l>In<reg> </reg>quo latrones<add place="inline">.</add> uermes<expan>q<am>ꝫ</am><ex>ue</ex></expan><add place="inline">.</add> feras<expan>q<am>ꝫ</am><ex>ue</ex></expan> feroces.</l>
+<note>
+<lb/>Scilicet illos q<expan><am>&#x365;</am><ex>ui</ex></expan> uoluntarie <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <add place="above">cum</add> mansuetudine fer<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>t<expan><am>&#x1DD1;</am><ex>ur</ex></expan> ad diu<expan><am>&#x33E;</am><ex>er</ex></expan>sa officia <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan>s<ex>un</ex><abbr rend="supraline">t</abbr></expan> fere <hi rend="capital">r</hi>umin<expan><abbr rend="supraline">a</abbr><ex>n</ex></expan>tes 
+<lb/><expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> psallantes orando <expan><am rend="crossed">⁊</am><ex>et</ex></expan> repetentes que repetenda <expan>s<ex>un</ex><abbr rend="supraline">t</abbr></expan>. <expan><am>⁊</am><ex>et</ex></expan> <expan>h<ex>abe</ex><abbr rend="supraline">n</abbr>t</expan> ung<expan><ex>u</ex><abbr rend="stroke">l</abbr></expan>am fiss<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> discret<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>n<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> 
+<lb/>int<expan><am>&#x33E;</am><ex>er</ex></expan> sens<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> litt<expan><am>&#x33E;</am><ex>er</ex></expan>e su<expan><am>ꝑ</am><ex>per</ex></expan>ficial<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> sensum <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>al<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>.
+</note>
+<note>
+<lb/><expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> fortes <expan><am>⁊</am><ex>et</ex></expan> <expan><am>ꝓ</am><ex>pro</ex></expan>uectos in u<expan><am>&#x365;</am><ex>ir</ex></expan>tuti<expan>b<am>ꝫ</am><ex>us</ex></expan>.
+</note>
+<note>
+<expan>Sc<ex>i</ex><abbr rend="stroke">l</abbr><ex>ic</ex><am>⁊</am><ex>et</ex></expan>. illos q<expan><am>&#x365;</am><ex>ui</ex></expan> plurim<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> uac<expan><abbr rend="supraline">a</abbr><ex>n</ex></expan>t <expan><am>ꝯ</am><ex>con</ex></expan>templat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>ni <expan><am>⁊</am><ex>et</ex></expan> vol<expan><abbr rend="supraline">a</abbr><ex>n</ex></expan>t sec<expan><am>ꝰ</am><ex>us</ex></expan> 
+<lb/>firma<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>t<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan>si<abbr rend="supraline">c</abbr><ex>ut</ex></expan> aves <expan><am>⁊</am><ex>et</ex></expan> possunt i<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan>d<ex>ice</ex><abbr rend="supraline">r</abbr>e</expan> <quote><expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>a</expan> <expan><am>ꝯ</am><ex>con</ex></expan>u<expan><am>&#x33E;</am><ex>er</ex></expan>sat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan> <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan> ce<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> est.</quote>
+</note>
+<lb/><l>At<expan>q<am>ꝫ</am><ex>ue</ex></expan> feras mites<add place="inline">.</add> <expan><am>&amp;</am><ex>et</ex></expan> robora ce<choice><sic>s</sic><corr source="#CCCC186:77v">l</corr></choice>sa<unclear>.</unclear> uolucres⸵</l>
+<note>
+<lb/>Vt illos orrigat alios in <expan><am>ꝑ</am><ex>per</ex></expan>seu<expan><am>&#x33E;</am><ex>er</ex></expan>antia <expan><am>ꝯ</am><ex>con</ex></expan>s<expan><am>&#x33E;</am><ex>er</ex></expan>vet.
+</note>
+<note>
+<lb/>Int<expan><am>&#x33E;</am><ex>er</ex></expan> varios <hi rend="capital">r</hi>igores <expan><am>ꝑ</am><ex>per</ex></expan> amen<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> dispensat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>n<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> 
+<lb/>deb<expan><am>⁊</am><ex>et</ex></expan> fieri recreatio.
+</note>
+<lb/><l>Attendat. saltus⸵ inter uepres sit amenus.</l>
+</body>
+</text>
+<text n="5">
+<body>
+<note>
+<lb/>Sur inter<expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>tat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> angustia. cades fons iudicii 
+</note>
+<head rend="margin red">
+<lb/>Hic notantur duo 
+<lb/>que necessaria <expan>s<ex>un</ex><abbr rend="supraline">t</abbr></expan> 
+<lb/>ad delend<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>⁊</am><ex>et</ex></expan> cau<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan><pc rend="hyphen"/>
+<lb break="no"/>dum peccata.
+</head>
+<lb/><l><hi rend="enlarged red trim-blue">I</hi><hi rend="smallcaps">n</hi>ter <name>sur</name> <name>cades</name> <name>abraham</name> posuit<add place="above" hand="#SP"><note><expan>u<ex>e</ex><abbr rend="stroke">l</abbr></expan> legit</note></add> sibi sedes.</l>
+<note>
+<lb/>Scilic<expan><am>⁊</am><ex>et</ex></expan> <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan> sedi<expan>b<am>ꝫ</am><ex>us</ex></expan> <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan>t<expan><am>&#x33E;</am><ex>er</ex></expan> angusti<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan><am>ꝑ</am><ex>per</ex></expan> <expan><am>ꝙ&#x1DD3;</am><ex>quam</ex></expan> <expan>accip<am>&#x1DD1;</am><ex>itur</ex></expan> <expan>p<ex>e</ex><abbr rend="supraline">n</abbr><ex>itenti</ex>a</expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> font<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> iudic<surplus>ic</surplus>ii <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> disc<expan><am>&#x364;</am><ex>re</ex></expan>t<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>nis <expan><am>ꝑ</am><ex>per</ex></expan> <expan><am rend="supraline">ꝙ</am><ex>quem</ex></expan> <expan>accip<am>&#x1DD1;</am><ex>itur</ex></expan> <expan>sap<abbr rend="supraline">i</abbr><ex>enti</ex>a</expan> <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> cau<expan><am>⁊</am><ex>et</ex></expan> 
+<lb/>peccatum. Penit<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>tia del<expan><am>⁊</am><ex>et</ex></expan>.
+</note>
+<lb/><l>Crimen in his delet vir bon<expan><am>ꝰ</am><ex>us</ex></expan> at<expan>q<am>ꝫ</am><ex>ue</ex></expan> cauet<add place="inline" hand="#SP">.</add></l>
+<lb/><l>Iudicii fons est <name>cades</name><add place="inline" hand="#SP">.</add> angustia <name>sur</name> est.</l>
+<note>
+<lb/>Scilicet int<expan><am>&#x33E;</am><ex>er</ex></expan> fontem iudicii <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan> q<expan><am>&#x366;</am><ex>uo</ex></expan> sapit <expan>h<ex>om</ex><abbr rend="supraline">o</abbr></expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> angustiam in qua penitet<add place="inline" hand="#SP">.</add> 
+</note>
+<note>
+<lb/>cauendo <expan>pecc<ex>at</ex><abbr rend="supraline">a</abbr></expan>
+</note>
+<note>
+delendo pec<add place="inline">c</add>ata
+</note>
+<lb/><l>Hos inter⸵ sapias<add place="inline" hand="#SP">.</add> <expan><am>&amp;</am><ex>et</ex></expan> bene peniteas<add place="inline" hand="#SP">.</add></l>
+</body>
+</text>
+<text n="6">
+<body>
+<note>
+<lb/><name>Ysaac</name> int<expan><am>&#x33E;</am><ex>er</ex></expan><expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>tat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <hi rend="smallcaps">r</hi>is<expan><am>ꝰ</am><ex>us</ex></expan>. Sicut <name>abraham</name> fecit stru<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> ligno<expan><am>ꝝ</am><ex>rum</ex></expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> optulit <name>ysaac</name> <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan> m<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>t <expan><abbr rend="supraline">c</abbr><ex>um</ex></expan> appara
+<lb break="no"/>t<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>ne mactat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>nis⸵ sic fide<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> apparat<expan><am>ꝰ</am><ex>us</ex></expan> ad mactat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>n<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>⸵ offerre debet ysaac in monte <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> gau<pc rend="hyphen"/>
+<lb break="no"/>dere in <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>o</expan> sem<expan><am>ꝑ</am><ex>per</ex></expan> <expan>si<abbr rend="supraline">c</abbr><ex>ut</ex></expan> <expan>di<abbr rend="supraline">c</abbr><ex>it</ex></expan> <expan>ap<ex>osto</ex><abbr rend="stroke">l</abbr><ex>u</ex>s</expan>. <quote>Gaudete in <expan>d<ex>omi</ex><abbr rend="supraline">n</abbr>o</expan> sem<expan><am>ꝑ</am><ex>per</ex></expan></quote> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> debet fac<expan><am>&#x33E;</am><ex>er</ex></expan>e struem ligno<expan><am>ꝝ</am><ex>rum</ex></expan> <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> imi<pc rend="hyphen"/>
+<lb break="no"/>tat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>ne digna sumpta a <expan>s<ex>an</ex><abbr rend="supraline">c</abbr><ex>t</ex>is</expan> <expan>p<ex>at</ex><abbr rend="supraline">r</abbr>ib<am>ꝫ</am><ex>us</ex></expan> <expan>p<ex>at</ex><abbr rend="supraline">r</abbr>ib<am>ꝫ</am><ex>us</ex></expan> in memoria imitando ea <expan>p<ex>at</ex><abbr rend="supraline">r</abbr>ib<am>ꝫ</am><ex>us</ex></expan> iustici<expan>p<ex>at</ex><abbr rend="supraline">r</abbr>ib<am>ꝫ</am><ex>us</ex></expan> <name>abel</name>. pa<pc rend="hyphen"/>
+<lb break="no"/>cientiam <name>iob</name>. fidem <name>abrahe</name>. Mansuetudin<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <name>moysi</name>. Laborem. <name>Noe</name>. siue longanimi<pc rend="hyphen"/>
+<lb break="no"/>tat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>.
+</note>
+<head rend="red margin">
+<lb/>Hic monetur in 
+<lb/>domino gaudere.
+</head>
+<lb/><l><hi rend="enlarged blue trim-red">C</hi><hi rend="smallcaps">v</hi>m strue ligno<expan><am>ꝝ</am><ex>rum</ex></expan> ponas <name>ysaac</name> su<expan><am>ꝑ</am><ex>per</ex></expan> altum<add place="inline" hand="#SP">.</add></l>
+<note>
+<lb/><expan>Scil<ex>ic</ex><am>⁊</am><ex>et</ex></expan> gaudia in excelso <expan><am>.</am>i<ex>d est</ex><am>.</am></expan> in deo reposita non ad<expan>n<am>&#x365;</am><ex>ichi</ex>l</expan>abunt<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>si<abbr rend="supraline">c</abbr><ex>ut</ex></expan> <expan>n<am>&#x368;</am><ex>ec</ex></expan> <name>ysaac</name> <expan><am>ꝑ</am><ex>per</ex></expan>empt<expan><am>ꝰ</am><ex>us</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> <expan>s<am>ꝫ</am><ex>et</ex></expan> illa fi
+<lb break="no"/><pc rend="paraph"/>ent amplio<add place="overstrike">ra</add>
+</note>
+<lb/><l>Non perimentur ibi gaudia fixa tibi<add place="inline" hand="#SP">.</add></l>
+</body>
+</text>
+<text n="7">
+<body>
+<note>
+<lb/><expan><am>Ꝑ</am><ex>Per</ex></expan> hoc intelligit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> <expan>t<ex>antu</ex><abbr rend="supraline">m</abbr></expan> <expan><am>ꝑ</am><ex>per</ex></expan> <expan>d<ex>eu</ex><abbr rend="supraline">m</abbr></expan> iuran<expan><abbr rend="stroke">d</abbr><ex>um</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan><am>ꝙ</am><ex>quod</ex></expan> soluen<expan><abbr rend="stroke">d</abbr><ex>um</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> iura<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>t<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> iuran<expan><abbr rend="stroke">d</abbr><ex>um</ex></expan> <expan><am>ꝑ</am><ex>per</ex></expan> c<expan><am>&#x364;</am><ex>re</ex></expan>at<expan><am>&#x1DD1;</am><ex>ur</ex></expan>as⸵ ita <expan><am>ꝙ</am><ex>quod</ex></expan> 
+<lb/>aliq<expan><am>&#x365;</am><ex>ui</ex></expan>d nu<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>is credatur in<surplus>e</surplus><expan rend="supraline">e<ex>ss</ex>e</expan> creaturis. <expan>u<ex>e</ex><abbr rend="stroke">l</abbr></expan> vt ven<expan><am>&#x33E;</am><ex>er</ex></expan>at<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan> debita creatori exhibeat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> eis. <expan>s<am>ꝫ</am><ex>et</ex></expan> lic<expan><am>⁊</am><ex>et</ex></expan> <expan><abbr rend="supraline">q</abbr><ex>ua</ex>n<ex>do</ex>q<am>ꝫ</am><ex>ue</ex></expan> 
+<lb/>iurare <expan><am>ꝑ</am><ex>per</ex></expan> creatur<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> sub intellecto auctore c<expan><am>&#x364;</am><ex>re</ex></expan>ature. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> exhibita ei uenerat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>ne sub ta<subst><del rend="alt">t</del><add place="overstrike">l</add></subst>i forma 
+<lb/>iurandi. <expan><abbr rend="stroke">d</abbr><ex>icitu</ex>r</expan> <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> <name>ioseph</name> iurando <expan><am>ꝑ</am><ex>per</ex></expan> salut<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <name>pharaonis</name> auctor<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> salutis <name>pharaonis</name> <expan><abbr rend="supraline">i</abbr><ex>n</ex></expan> eo 
+<pb n="95v"/>
+<lb/>uen<expan><am>&#x33E;</am><ex>er</ex></expan>at<expan><am>ꝰ</am><ex>us</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> Soluen<expan><abbr rend="stroke">d</abbr><ex>um</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>st</ex></expan> iura<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>t<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan>n<am>&#x365;</am><ex>isi</ex></expan> reuocet auctoritas <expan>ecc<abbr rend="stroke">l</abbr><ex>es</ex>ie</expan> <expan>u<ex>e</ex><abbr rend="stroke">l</abbr></expan> impediat <expan>ne<abbr rend="supraline">cc</abbr><ex>ess</ex>itas</expan>. <expan>u<ex>e</ex><abbr rend="stroke">l</abbr></expan> iniq<expan><am>&#x365;</am><ex>ui</ex></expan>tas <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> 
+<lb/>mortale peccatum<supplied reason="omitted">.</supplied>
+</note>
+<head rend="red margin">
+<lb/>De iuramento
+</head>
+<lb/><l><hi rend="enlarged red trim-blue">I</hi><hi rend="smallcaps">v</hi>ramenta <expan>d<ex>e</ex><abbr rend="supraline">o</abbr></expan> reddas. t<expan><am>&#x365;</am><ex>ri</ex></expan><expan>b<am>ꝫ</am><ex>us</ex></expan> <expan><abbr rend="stroke">h</abbr><ex>ec</ex></expan> reuocato</l>
+<note>
+<lb/>Iura<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>ta maxime <expan>h<ex>abe</ex><abbr rend="supraline">n</abbr>t</expan> <expan>fi<am>&#x33E;</am><ex>eri</ex></expan> <expan>p<ex>ro</ex><abbr rend="supraline">p</abbr><ex>ter</ex></expan> testimonia ferenda. <expan>p<ex>ro</ex><abbr rend="supraline">p</abbr><ex>ter</ex></expan> pacta <expan><am>ꝯ</am><ex>con</ex></expan>f<add place="inline"><expan><am>&#x365;</am><ex>ir</ex></expan></add>manda. <expan><am>ꝓ</am><ex>pro</ex>p<abbr rend="supraline">t</abbr><ex>er</ex></expan> scandala toll<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan><pc rend="hyphen"/>
+<lb break="no"/>da <expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> ut aliquis ex<expan><am>ꝑ</am><ex>per</ex></expan>s c<expan><am>&#x365;</am><ex>ri</ex></expan>minis <expan>s<am>&#x365;</am><ex>ibi</ex></expan> impositi purget se a tali c<expan><am>&#x365;</am><ex>ri</ex></expan>mine
+</note>
+<lb/><l>Sed <expan>t<am>&#x365;</am><ex>ibi</ex></expan> precipue licet hec <expan><am>ꝓ</am><ex>pro</ex>p<abbr rend="supraline">t</abbr><ex>er</ex></expan> t<expan><am>&#x365;</am><ex>ri</ex></expan>a ferre</l>
+<note>
+<lb/>Vt con<expan>sc<abbr rend="supraline">i</abbr><ex>enti</ex>a</expan> dictet <expan rend="supraline">e<ex>ss</ex>e</expan> ue<expan><am>ꝝ</am><ex>rum</ex></expan> <expan><am>ꝙ</am><ex>quod</ex></expan> iurat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.
+</note>
+<note>
+Vt de re licita fiat iura<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>t<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>.
+</note>
+<note><expan><am>.</am>s<am>.</am><ex>cilicet</ex></expan> in disc<expan><am>&#x364;</am><ex>re</ex></expan>t<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>ne <expan>q<am>ꝛ</am><ex>uia</ex></expan> <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> deb<expan><am>⁊</am><ex>et</ex></expan> q<expan><am>&#x365;</am><ex>ui</ex></expan>s 
+<lb/><expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>cipitant<expan><am>&#x33E;</am><ex>er</ex></expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> sponte iurare. <expan>s<am>ꝫ</am><ex>et</ex></expan> q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>d<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> ex<pc rend="hyphen"/>
+<lb break="no"/>act<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>ne <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan>ne<abbr rend="supraline">cc</abbr><ex>ess</ex>itate</expan> conpuls<expan><am>ꝰ</am><ex>us</ex></expan>.
+</note>
+<lb/><l>Vero iusticia tu iuditio quo<expan>q<am>ꝫ</am><ex>ue</ex></expan> iura</l>
+<note>
+<lb/><expan>Sci<abbr rend="stroke">l</abbr><ex>icet</ex></expan>. <seg>u<expan><am>&#x33E;</am><ex>er</ex></expan>itas.</seg> <seg>Iusticia.</seg> <seg>Iuditium.</seg>
+</note>
+<note>
+<expan><am>Ꝑ</am><ex>Per</ex></expan>iurium <expan><abbr rend="supraline">q</abbr><ex>ua</ex>n<ex>do</ex><am>ꝫ</am><ex>que</ex></expan> <expan><abbr rend="stroke">d</abbr><ex>icitu</ex>r</expan> mutat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan> iura<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>ti.
+</note>
+<lb/><l>Si tres hii desunt comites <expan><am>ꝑ</am><ex>per</ex></expan>iuria fiunt</l>
+</body>
+</text>
+</group>
+</text>
+</TEI>
