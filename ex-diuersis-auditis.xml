@@ -33,7 +33,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <group>
 <gb/>
 <pb n="94r"/>
-<head rend="red"><lb/>Hec collecta s<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>t ex diu<expan><am>&#x33E;</am><ex>er</ex></expan>sis auditis in scola magistri Wilelmi de <expan>mon<abbr rend="supraline">t</abbr><ex>e</ex></expan>.</head>
+<head rend="red"><lb/>Hec collecta s<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>t ex diu<expan><am>&#x33E;</am><ex>er</ex></expan>sis auditis in scola magistri <name>willelmi de <expan>mont<am>&#x33E;</am><ex>e</ex></expan></name>.</head>
 <text n="1">
 <body>
 <head rend="red margin">
@@ -43,7 +43,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb/>gratie.
 </head>
 <note>
-<lb/>Duo mecessaria sunt ad hoc ut ali<expan><am>ꝙ&#x365;</am><ex>quid</ex></expan> uideat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> usu corporeo. Claritas ext<expan><am>&#x33E;</am><ex>er</ex></expan>ior. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> 
+<lb/>Duo necessaria sunt ad hoc ut ali<expan><am>ꝙ&#x365;</am><ex>quid</ex></expan> uideat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> usu corporeo. Claritas ext<expan><am>&#x33E;</am><ex>er</ex></expan>ior. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> 
 <lb/>uis<expan><am>ꝰ</am><ex>us</ex></expan> int<expan><am>&#x33E;</am><ex>er</ex></expan>ior.
 </note>
 <lb/><l><hi rend="red trim-blue">N</hi><hi rend="smallcaps">v</hi>lli cernentur oc<expan><ex>u</ex><abbr rend="stroke">l</abbr></expan>is que subicientur<add place="inline" hand="#SP">⸵</add></l>
