@@ -12,13 +12,17 @@
                 <editor xml:id="AD">Andrew Dunning</editor>
             </titleStmt>
             <publicationStmt>
-                <authority><ref target="http://scholarlyediting.org">Scholarly Editing: The Annual of the Association for Documentary Editing</ref></authority>
+                <authority>
+                    <ref target="http://scholarlyediting.org">Scholarly Editing: The Annual of the Association for Documentary Editing</ref>
+                </authority>
                 <idno type="file">dequinqueseptenis</idno>
                 <idno type="edition">dequinqueseptenis-deorationedominica</idno>
                 <publisher>Association for Documentary Editing</publisher>
                 <publisher>University of Nebraska–Lincoln</publisher>
                 <distributor>
-                    <name><ref target="http://cdrh.unl.edu">Center for Digital Research in the Humanities</ref></name>
+                    <name>
+                        <ref target="http://cdrh.unl.edu">Center for Digital Research in the Humanities</ref>
+                    </name>
                     <address>
                         <addrLine>319 Love Library</addrLine>
                         <addrLine>University of Nebraska–Lincoln</addrLine>
