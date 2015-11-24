@@ -180,7 +180,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 </note>
 <lb/><l><hi rend="enlarged red trim-blue">A</hi>d culpam quasi raptores oculi reprimantur.</l>
 <note>
-<lb/><persName>iob</persName> ait. <quote source="Bible.Vul:Job.31.1">pepigi fedus cum oculis meis ut ne<add place="above">c</add> cogitarem quidem de uirgine.</quote> <quote source="Bible.Vul:Job.31.1"><expan><abbr>fe<am>.</am></abbr><ex>dus</ex></expan> 
+<lb/><persName>iob</persName> ait. <quote source="urn:cts:greekLit:tlg0527.tlg032.perseus-lat1:31.1">pepigi fedus cum oculis meis ut ne<add place="above">c</add> cogitarem quidem de uirgine.</quote> <quote source="urn:cts:greekLit:tlg0527.tlg032.perseus-lat1:31.1"><expan><abbr>fe<am>.</am></abbr><ex>dus</ex></expan> 
 <lb/>cum oculis. <expan><abbr>pe</abbr><ex>pigi</ex></expan></quote>⸵ ne prius incaute aspiceret⸵ quod postmodum in<surplus> </surplus>uitus amare posset. 
 <lb/>ualde periculosum est. quod caro deorsum trahit. et semel species forme cordi per<subst><del>i<lb break="no"/></del><add place="inline">
 <lb/>o</add><!-- Does this encoding work? --></subst>culos illigata⸵ uix magni luctaminis manu soluitur.
@@ -196,7 +196,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <note>
 <lb/>Primus ecclesie pastor dicit. <quote source="Bible.Vul:1Pet.1.12">propter quod succincti lumbos mentis uestre sobrie 
 <lb/>perfecto sperate in ea que offertur uobis gratia.</quote> lumbos mentis succingere est⸵ 
-<lb/>hanc etiam a cogitatione restringere. in euangelio dicitur. <quote source="Bible.Vul:Matt.5.28">qui uiderit mulie
+<lb/>hanc etiam a cogitatione restringere. in euangelio dicitur. <quote source="urn:cts:greekLit:tlg0031.tlg001.perseus-lat1:5.28">qui uiderit mulie
 <lb break="no"/>rem ad conc<subst><del><unclear>i</unclear></del><add place="above">u</add></subst>piscendum eam⸵ iam mechatus est eam in corde suo<add place="inline">.</add></quote> per moy
 <lb break="no"/>sen luxuria perpetrata. per auctorem mundicie luxuria cohitata dampnat<add place="inline">ur</add>.
 </note>
@@ -234,7 +234,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb/>cordis mundiciam quisquis adipsci non appetit. quid aliud quam eiusdem a se 
 <lb/>cordis mundiciam quisquis adipsci non appetit. quid aliud quam eiusdem a se 
 <lb/>mundicie autorem repellit? beatus iob post illam sententiam pepigi fedus 
-<lb/><expan><am rend="crossed">⁊</am><ex>et</ex> <abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>⸵ ait. <quote source="Bible.Vul:Job.31.2">quam enim part<choice><sic>r</sic><corr>e</corr></choice>m haberet deus in<reg> </reg>mundo desuper. et hereditatem omnipo
+<lb/><expan><am rend="crossed">⁊</am><ex>et</ex> <abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>⸵ ait. <quote source="urn:cts:greekLit:tlg0527.tlg032.perseus-lat1:31.2">quam enim part<choice><sic>r</sic><corr>e</corr></choice>m haberet deus in<reg> </reg>mundo desuper. et hereditatem omnipo
 <lb break="no"/>tens de<reg> </reg>excelsis?</quote> ac si aperte dicat. si mens in cogitatione polluitur⸵ 
 <lb/>eius qui <del rend="erased">in </del>mundicie autor est⸵ esse hereditas nequaquam potest.
 </note>
@@ -333,7 +333,7 @@ Illius tractatus ex quo hec excipiu<supplied reason="omitted">ntur</supplied> ti
 <lb/>Si nulla ira ex uirtute surgeret⸵ diuine animaduersionis inpetum <persName>phi
 <lb break="no"/>nees</persName> per gladium non placasset. hanc iram quia <persName>hely</persName> non habuit⸵ motum contra se 
 <lb/>inplacabiliter superne ultionis excitauit. de hac ira per psalmistam 
-<lb/>dicitur. <quote source="Bible.Vul:Ps.4.5">irascimini et nolite peccare.</quote> quod non recte intelligunt qui iras
+<lb/>dicitur. <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:4.5">irascimini et nolite peccare.</quote> quod non recte intelligunt qui iras
 <lb break="no"/>ci nos nobis t<surplus>i</surplus>antummodo⸵ non <add place="overstrike">etiam</add> proximis delinquentibus uolunt. si enim sic proximos 
 <lb/>ut nos amare precimur⸵ restat ut sic eorum eratibus. sicut nostris uitijs 
 <lb/>irascamur. de hac ira per<reg> </reg><persName>salomonem</persName> dicitur. <quote source="Bible.Vul:Eccl.7.4">melior est. ira risu. quia 
